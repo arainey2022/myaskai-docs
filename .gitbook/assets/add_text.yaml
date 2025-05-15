@@ -1,0 +1,76 @@
+openapi: 3.0.0
+info:
+  title: AskAI Content API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /ask-ai-content:
+    post:
+      summary: Add or Update Text Content in AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+                text:
+                  type: string
+                  format: string
+                  description: JSON-safe text content
+                meta_title:
+                  type: string
+                  description: Title of the content
+                meta_published:
+                  type: string
+                  nullable: true
+                  description: Published date of the content in 'MM/DD/YYYY' format or as an Epoch Unix Timestamp string
+                meta_author:
+                  type: string
+                  nullable: true
+                  description: Author of the content
+                meta_link:
+                  type: string
+                  format: uri
+                  nullable: true
+                  description: Link to the content
+                content_id:
+                  type: string
+                  nullable: true
+                  description: Unique identifier for the content, used when updating content
+                client_id:
+                  type: string
+                  nullable: true
+                  description: Unique identifier for the client, used when updating content
+              required:
+                - id
+                - api_key
+                - webpage
+                - meta_title
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    description: Status of the operation
+                  response:
+                    type: object
+                    properties:
+                      content_id:
+                        type: string
+                        description: Unique identifier for the content, used for updating content
+                      status:
+                        type: string
+                        description: Status of the operation

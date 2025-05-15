@@ -1,0 +1,71 @@
+openapi: 3.0.0
+info:
+  title: AskAI Creation API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /askai-details:
+    post:
+      summary: Get details about your AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                account_api_key:
+                  type: string
+                  description: Account API Key
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+              required:
+                - account_api_key
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    description: Status of the operation
+                  response:
+                    type: object
+                    properties:
+                      id:
+                        type: string
+                        description: ID of the AskAI      
+                      api_key:
+                        type: string
+                        description: API Key of the AskAI
+                      embed_id:
+                        type: string
+                        description: Embed ID of the AskAI
+                      assistant_type:
+                        type: string
+                        description: Type of the assistant
+                      chat_system:
+                        type: string
+                        description: Chat system prompt
+                      explain_system:
+                        type: string
+                        description: Explain system prompt
+                      name:
+                        type: string
+                        description: Name of the assistant
+                      total_questions:
+                        type: integer
+                        description: Total number of questions
+                      total_IDKs:
+                        type: integer
+                        description: Total number of IDKs

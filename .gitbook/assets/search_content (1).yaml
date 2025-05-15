@@ -1,0 +1,39 @@
+openapi: 3.0.0
+info:
+  title: AskAI Delete Content API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /ask-ai-content-delete:
+    post:
+      summary: Delete Content from an AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+                webpage:
+                  type: string
+                  format: uri
+                  description: URL of the webpage to be deleted
+                file_id:
+                  type: string
+                  description: Unique identifier for the file
+                client_id:
+                  type: string
+                  description: Unique identifier for the client
+              required:
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation

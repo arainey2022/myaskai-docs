@@ -1,0 +1,122 @@
+openapi: 3.0.0
+info:
+  title: AskAI Creation API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /update-askai:
+    post:
+      summary: Update your AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                account_api_key:
+                  type: string
+                  description: Account API Key
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+                name:
+                  type: string
+                  description: Name of the AskAI
+                capture_email:
+                  type: boolean
+                  description: Should your AskAI capture a user's email?
+                capture_name:
+                  type: boolean
+                  description: Should your AskAI capture a user's name?
+                force_capture_email:
+                  type: boolean
+                  description: Should your AskAI force capture a user's email?
+                suggested_questions:
+                  type: boolean
+                  description: Show suggested starter questions?
+                chat_system:
+                  type: string
+                  description: Chat system prompt for the AskAI
+                explain_system:
+                  type: string
+                  description: Explanation system prompt for the AskAI
+                assistant_type:
+                  type: string
+                  description: Type of assistant, must be either; 'Chat - Short and conversational', 'Explain - More detailed answers' or 'Search - Just show the results'
+                webhook:
+                  type: string
+                  description: Webhook URL
+                webhook_auth:
+                  type: string
+                  description: Webhook authorization key
+                logo:
+                  type: string
+                  description: URL of the AskAI logo
+                text_IDK:
+                  type: string
+                  description: Text for the 'answer not known' response
+                text_chat_welcome:
+                  type: string
+                  description: Chat welcome message
+                text_message_ending:
+                  type: string
+                  description: Message ending text e.g. 'Check out these links'
+                text_input_placeholder:
+                  type: string
+                  description: Input/question/search placeholder text
+                text_email_capture_reason:
+                  type: string
+                  description: Text for email capture reason
+                custom_styling:
+                  type: boolean
+                  description: Is custom styling enabled?
+                styling_background:
+                  type: string
+                  description: Background styling color
+                styling_primary_text_color:
+                  type: string
+                  description: Primary text color
+                styling_user_chat_text_color:
+                  type: string
+                  description: User chat text color
+                styling_user_chat_message_color:
+                  type: string
+                  description: User chat message color
+                styling_assistant_chat_text_color:
+                  type: string
+                  description: Assistant chat text color
+                styling_assistant_message_text_color:
+                  type: string
+                  description: Assistant message text color
+                styling_primary_font:
+                  type: string
+                  description: Primary font
+                styling_secondary_font:
+                  type: string
+                  description: Secondary font
+              required:
+                - account_api_key
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    description: Status of the operation
+                  response:
+                    type: object
+                    properties:
+                      status:
+                        type: string
+                        description: Status of the AskAI update operation. Always returns "AskAI updated successfully" upon success.

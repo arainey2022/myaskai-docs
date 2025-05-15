@@ -1,0 +1,88 @@
+openapi: 3.0.0
+info:
+  title: AskAI Content API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /ask-ai-search:
+    post:
+      summary: Retrieve Content from AskAI using a search term
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: string
+                  description: The user's AskAI ID.
+                api_key:
+                  type: string
+                  description: The user's AskAI API key.
+                title:
+                  type: string
+                  description: The title of the request (optional).
+                webpage:
+                  type: string
+                  description: A URL to a webpage (optional).
+              example:
+                id: "{AskAI_ID}"
+                api_key: "{AskAI_API_Key}"
+                title: "Example title"
+                webpage: "https://webpage.com/blog"
+              required:
+                - id
+                - api_key
+      responses:
+        '200':
+          description: A successful response.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    description: The status of the response.
+                  response:
+                    type: object
+                    properties:
+                      content:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            Modified Date:
+                              type: integer
+                            Created Date:
+                              type: integer
+                            Created By:
+                              type: string
+                            metadata_link:
+                              type: string
+                            metadata_title:
+                              type: string
+                            EMB Project Id:
+                              type: string
+                            file extension:
+                              type: string
+                            content type:
+                              type: string
+                            webpage:
+                              type: string
+                            complete:
+                              type: boolean
+                            vector ids:
+                              type: array
+                              items:
+                                type: string
+                            vectors:
+                              type: integer
+                            status:
+                              type: string
+                            created by (custom):
+                              type: string
+                            _id:
+                              type: string

@@ -1,0 +1,104 @@
+openapi: 3.0.0
+info:
+  title: AskAI Retrieve Content API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /ask-ai-content-retrieve:
+    post:
+      summary: Retrieve Content from AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+                webpage:
+                  type: string
+                  format: uri
+                  nullable: true
+                  description: URL of the webpage to be retrieved
+                file_id:
+                  type: string
+                  nullable: true
+                  description: Unique identifier for the file
+                client_id:
+                  type: string
+                  nullable: true
+                  description: Unique identifier for the client
+              required:
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  response:
+                    type: object
+                    properties:
+                      cursor:
+                        type: integer
+                        description: Cursor for pagination
+                      results:
+                        type: array
+                        items:
+                          type: object
+                          properties:
+                            Modified Date:
+                              type: string
+                              format: date-time
+                            Created Date:
+                              type: string
+                              format: date-time
+                            Created By:
+                              type: string
+                            metadata_author:
+                              type: string
+                            metadata_link:
+                              type: string
+                              format: uri
+                            metadata_title:
+                              type: string
+                            EMB Project Id:
+                              type: string
+                            file extension:
+                              type: string
+                            content type:
+                              type: string
+                            webpage:
+                              type: string
+                              format: uri
+                            complete:
+                              type: boolean
+                            vector ids:
+                              type: array
+                              items:
+                                type: string
+                            vectors:
+                              type: integer
+                            status:
+                              type: string
+                            created by (custom):
+                              type: string
+                            failed:
+                              type: boolean
+                            failed (int):
+                              type: integer
+                            _id:
+                              type: string
+                      count:
+                        type: integer
+                      remaining:
+                        type: integer

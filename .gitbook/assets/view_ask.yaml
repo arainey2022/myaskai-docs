@@ -1,0 +1,53 @@
+openapi: 3.0.0
+info:
+  title: AskAI Creation API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/version-test/api/1.1/wf
+paths:
+  /askai-details:
+    post:
+      summary: Get details about your AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                account_api_key:
+                  type: string
+                  description: Account API Key
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+              required:
+                - account_api_key
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    description: Status of the operation
+                  response:
+                    type: object
+                    properties:
+                      id:
+                        type: string
+                        description: ID of the created assistant
+                      api_key:
+                        type: string
+                        description: API Key of the created assistant
+                      embed_id:
+                        type: string
+                        description: Embed ID of the created assistant

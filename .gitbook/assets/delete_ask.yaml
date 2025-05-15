@@ -1,0 +1,41 @@
+openapi: 3.0.0
+info:
+  title: AskAI Creation API
+  version: "1.1"
+servers:
+  - url: https://myaskai.com/api/1.1/wf
+paths:
+  /delete-askai:
+    post:
+      summary: Delete an AskAI
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                account_api_key:
+                  type: string
+                  description: Account API Key
+                id:
+                  type: string
+                  description: AskAI ID
+                api_key:
+                  type: string
+                  description: AskAI API Key
+              required:
+                - account_api_key
+                - id
+                - api_key
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: string
+                    description: Confirmation AskAI has been deleted
