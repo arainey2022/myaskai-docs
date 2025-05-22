@@ -130,7 +130,7 @@ As part of the handover, the chatbot will summarize the conversation so the agen
 
 In the HubSpot inbox you will be shown this note at the point of handover, saying that the User requested to speak to a person:
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How can I take control from the AI support agent in HubSpot?
 
@@ -149,7 +149,7 @@ The AI will then stop responding.
 1. [Connect your support agent to HubSpot](hubspot.md#how-to-connect-your-ai-chatbot-to-hubspot)
 2. Turn on the toggle switch for chatflow/Triage settings
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Decide on a trigger phrase to use for your AI chatflow handover button, type it into the field below the toggle switch and include this as the text in a button in your chatflow (example chatflow for "Chat with AI assistant" as the trigger phrase)
 
@@ -174,7 +174,7 @@ However, you can also select for it to only reply to specific channels, this cou
 
 To update the channels your AI agent responds to, go to _**Dashboard > Channels > HubSpot**_ and then select your active channels under "**Activate & configure your AI agent".**
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How can I pause or temporarily turn off AI replies or notes in HubSpot?
 

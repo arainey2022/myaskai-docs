@@ -100,13 +100,13 @@ This can be useful if there are unique phrases your customers tend to use when t
 
 To edit these, go to _**AI Agent Setup > Human Handover > Advanced Options > Custom human handover phrases**_ and click "**Manage**".
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
 From here you can add and remove handover phrases.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When a user types one of these phrases, they will be instantly handed over to a human member of your team.
 

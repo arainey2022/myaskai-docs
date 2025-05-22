@@ -143,7 +143,7 @@ Just reply to any open conversation as an admin/agent and the conversation's con
 1. [Connect your agent to Freshchat](freshchat.md#how-to-connect-your-ai-chatbot-to-intercom)
 2. Turn on the toggle switch for Chatbot/Triage settings
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 3. Decide on a trigger phrase to use for your AI chatbot handover button, type it into the field below the toggle switch and include this as the text in a button in your chatbot (example chatbot flow below for "Speak to AI" as the trigger phrase).
 
