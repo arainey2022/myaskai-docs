@@ -45,7 +45,7 @@
   * [🔑 Authorizations](features/connections/authorizations.md)
 * [🛍️ Shopify](features/shopify.md)
 * [👤 User data API and API actions](features/user-data-api-and-api-actions/README.md)
-  * [👤 User details API specification](features/user-data-api-and-api-actions/user-details-api-specification.md)
+  * [👤 User Data API setup](features/user-data-api-and-api-actions/user-data-api-setup.md)
 * [✏️ Improve + Custom answers](features/improve-+-custom-answers.md)
 * [🔓 Private (Internal) mode](features/private-internal-mode.md)
 * [📂 File uploads](features/file-uploads.md)
@@ -112,6 +112,7 @@
 ## FAQ
 
 * [🪖 General](faq/general/README.md)
+  * [🧪 How can I test my AI agent without it responding to customers?](faq/general/how-can-i-test-my-ai-agent-without-it-responding-to-customers.md)
   * [📱 Can I use the AI agent within a mobile app?](faq/general/can-i-use-the-ai-agent-within-a-mobile-app.md)
   * [🥫 Can I add macros, canned or stock responses to my AI agent?](faq/general/can-i-add-macros-canned-or-stock-responses-to-my-ai-agent.md)
   * [👯 Can I have multiple AI agents, multiple brands or multiple knowledge bases?](faq/general/can-i-have-multiple-ai-agents-multiple-brands-or-multiple-knowledge-bases.md)

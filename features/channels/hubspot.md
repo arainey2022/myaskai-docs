@@ -132,7 +132,7 @@ In the HubSpot inbox you will be shown this note at the point of handover, sayin
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### How can I take control from or give control to the AI support agent in HubSpot?
+### How can I take control from the AI support agent in HubSpot?
 
 You can give control or take back control from the AI at any time, here's how:
 
@@ -142,17 +142,7 @@ To stop the AI responding to a conversation in HubSpot, just add a note to the c
 
 _`"Stop AI replies"`_
 
-The AI will then stop responding
-
-#### To give control to the AI support agent
-
-1. Create a Snippet with the below message. The underlined text must be included. The remaining text can be customized. \
-   \
-   `Hi there, I'll pass you`**`back to our AI assistant`**` ``for any further questions.`
-
-<figure><img src="../../.gitbook/assets/image (397).png" alt="" width="488"><figcaption></figcaption></figure>
-
-2. Use the snippet in conversation by Inserting it into the conversation and pressing "Send".
+The AI will then stop responding.
 
 ### How can I add my support agent as part of a triaged chatflow in HubSpot?
 

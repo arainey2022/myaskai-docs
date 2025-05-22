@@ -182,6 +182,12 @@ If you are using the Zendesk integration we recommend you use Zendesk authentica
 
 To edit the starter questions in the Zendesk Messaging widget go to the **Dashboard**, then **AI Agent Setup > Customization > Starter Questions** - from here you can add or remove the Starter questions and they will be updated in your Zendesk Messaging widget.
 
+### Can I train it on my Zendesk Macros?
+
+Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve-+-custom-answers.md#custom-answers) (where you can edit and manage them).
+
+You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
+
 ### How can I pause or temporarily turn off AI replies or notes in Zendesk Messaging?
 
 To pause or temporarily pause AI replies or notes in Zendesk Messaging go to **Channels > Zendesk Messaging** then scroll to the toggle for "Pause AI agent".

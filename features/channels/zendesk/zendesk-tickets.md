@@ -175,6 +175,12 @@ When a user tries to handover immediately they will be asked to provide more inf
 
 <figure><img src="../../../.gitbook/assets/image (411).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### Can I train it on my Zendesk Macros?
+
+Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve-+-custom-answers.md#custom-answers) (where you can edit and manage them).
+
+You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
+
 ### How can I stop the AI agent replying in Zendesk Tickets?
 
 To stop the AI agent replying in Zendesk tickets, just reply to the ticket yourself and the AI agent will automatically stop replying.

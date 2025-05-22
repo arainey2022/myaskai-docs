@@ -22,7 +22,7 @@ To set this up, we will provide you with a simple API schema that you will pass 
 
 Or, if you have a **Shopify store**, you can connect it using our [Shopify connector](../shopify.md).
 
-To set this up, follow the instructions [here](user-details-api-specification.md) then once you have set this up let us know so we can check the API setup.
+To set this up, follow the instructions [here](user-data-api-setup.md).
 
 ### Is there a risk of user information being shared across users when using your User data API?&#x20;
 
@@ -41,3 +41,15 @@ If you are looking for your AI agent to automatically do things like:
 * Amend orders
 
 All via API, to get this set up, contact our team via live chat by typing "Talk to a person".
+
+### Which integrations can I use the User Data API with?
+
+You can use the User Data API with the following integrations:
+
+* Zendesk Tickets (not Messaging)
+* Intercom
+* Gorgias Tickets (not Messaging)
+* HubSpot
+* Freshdesk (not Freshchat)
+
+If you require user data for Zendesk Messaging, Gorgias Messaging or Freshchat, please get in touch with us via our Chat and asking to "Talk to a person".

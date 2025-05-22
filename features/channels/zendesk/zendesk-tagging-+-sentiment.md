@@ -16,19 +16,29 @@ You can find the tagging app in the [Zendesk Marketplace here](https://www.zende
 
 ### How do I set up automated tagging and sentiment scores in Zendesk?
 
-To set up your automated ticket or conversation tagging or sentiment scoring in Zendesk please get in touch with us via our live chat and we will assist you with the set-up.
+1. To set up your tags in Zendesk, go to **AI Agent Setup > Auto-Tagging** and click **Add custom field or tags.**
 
-### How much does it cost to automatically tag and get a sentiment score for each ticket or conversation?
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-It costs $0.10 to tag and score each conversation within Zendesk, this will be an add-on to your existing subscription and charged at the end of each billing period.&#x20;
+2. Select whether you want to auto-tag a **Custom Field** or a **Tag**
+3. If you chose a Custom Field and have one setup in Zendesk already, then we will automatically import your Custom Fields to choose from. Select the one you want to auto-tag and we will import all of your tags for that Custom Field and auto generate a description for each tag.\
+   \
+   If you chose a Custom Field and don't have one setup in Zendesk already or you chose Tag then you will need to add a list of values/tags and descriptions for those values/tags so the AI knows under which circumstances each value/tag should be applied.\
 
-We also offer volume discounts, get in touch with us via our live chat to learn more.
+4. Once you have reviewed the descriptions for each tag and checked they are correct then you can turn on the auto-tagging.
+5. You will then see your tags auto-applied in Zendesk. If you feel any tags have been applied incorrectly, review the description for each tag to ensure it is clear.
+
+### **Ho**w much does it cost to automatically tag and get a sentiment score for each ticket or conversation?
+
+It costs $0.05 for each tag or custom field per ticket, this will be an add-on to your existing subscription and charged at the end of each billing period.&#x20;
+
+For example, if you were to have 3 tags applied to a ticket, this would cost $0.15 for tags on that ticket, if just one custom fields needs populating it will be just $0.05 for that ticket.
 
 ### What tagging or categories can I use for my Zendesk tickets and conversations?
 
 You can use your own custom tagging, categories, reason codes or groupings when tagging your Zendesk tickets or conversations.&#x20;
 
-The tagging will be captured in up to 2 Zendesk custom fields you define, for each conversation or ticket, or within the ‘Tags’ field if you don’t use custom fields.
+The tagging will be captured in up to 3 Zendesk custom fields you define, for each conversation or ticket, or within the ‘Tags’ field if you don’t use custom fields.
 
 ### What reporting do I have for my tags and sentiment?
 
@@ -38,13 +48,19 @@ You can use Zendesk Explore to interrogate and report on your tags and sentiment
 
 We would recommend using fewer than 200 tags.
 
+### What if I update my tags in Zendesk?
+
+Your Auto-Tagging isn't automatically kept in sync in Zendesk, so if you add or remove a field or tag in Zendesk, you will have to do the same in My AskAI.
+
 ### How can I ensure the AI agent only responds to certain types of tickets?
 
 If you are using Zendesk Tickets you can use our Ticket tagging product to tell the AI agent which tickets it should respond to.
 
 For example, you might have "reason for contact" field in Zendesk that your agents update today, and there might be 10 category options within that.
 
-If "unsubscribe" was the tag added by our AI agent, and that tag was on your block list, then the AI wouldn't reply to it.
+If "unsubscribe" was the tag added by our AI agent, and that tag was on your block list, then the AI wouldn't reply to it and it will force a human handover.
+
+To add a tag to your block list, go to **AI Agent Setup > Auto-Tagging**, select the Custom Field or Tag that has the tag you want to block, then find the tag and click **Add to block list.**
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or triggers within Zendesk for where certain tickets should be routed depending on the "reason for contact".
 

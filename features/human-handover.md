@@ -100,7 +100,7 @@ This can be useful if there are unique phrases your customers tend to use when t
 
 To edit these, go to _**AI Agent Setup > Human Handover > Advanced Options > Custom human handover phrases**_ and click "**Manage**".
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
