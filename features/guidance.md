@@ -191,19 +191,79 @@ You can always edit your guidance after if it doesn't give the correct effect.&#
 
 ### What should guidance not be used for?
 
+Guidance is a powerful feature to control your AI agent, but there are still things it shouldn't be used for:
 
+#### :x: Taking actions (apart from human handover)
 
-* Don't hallucinate
-* Take actions other than handover
-* Add information/knowledge
-* Changing language
-* Controlling where it will respond from
+You shouldn't instruct your AI agent to do things like: routing to a specific person in the team, tagging a conversation, closing a conversation etc.&#x20;
+
+The only action it can take via guidance is initiating a handover to a team member.
+
+#### :x: **Changing language**
+
+Guidance should be used to change the language e.g. "respond in Spanish" or "respond in the language you are spoken to in", for this you should use our [language feature](languages-and-localization.md).
+
+#### :x: Adding information or knowledge content
+
+You shouldn't give your AI agent knowledge snippets via guidance, these should be added via the [Knowledge](connections/) section of the dashboard or as [Custom Answers](improve-+-custom-answers.md#how-do-i-create-a-custom-answer).
+
+#### :x: Instructing the AI agent to "not make things up"
+
+Not hallucinating or making things up is a core ability of My AskAI, you do not need to add further instructions for this as guidance.
+
+#### :x: Controlling where your AI agent will find answers from
+
+Guidance will not be able to direct your AI agent to certain areas of your knowledge or website in order to answer questions.
 
 ### How do I know if guidance has been used on a response?
 
+To see which guidance is used for a response by your AI agent, you can inspect the conversation.
+
+To do this:
+
+1. Go to your Dashboard.
+2. Go to **Improve > Inspect & Debug**.
+3. Search for your conversation (by email, date, ticket ID, or content).
+4. Click on the conversation and scroll to the response, you should see a section called "Guidance followed" which will tell you which guidance was used in that response.
+
+<figure><img src="../.gitbook/assets/image (486).png" alt="" width="560"><figcaption></figcaption></figure>
+
 ### Is it possible to create multi-step guidance?
+
+{% hint style="info" %}
+This is an advanced form of using guidance.
+{% endhint %}
+
+If you want to create guidance that follows a couple of different steps e.g. ask for more information then handover to an agent, you can, here is an example of how you would set this up:
+
+Create a [Context & clarification](guidance.md#context-and-clarification) piece of guidance, for example:
+
+> _When a user reports a bug, first ask for the following information before continuing troubleshooting: 1) what device are you using? 2) URL where the bug is occurring; 3) when was the bug first noticed._
+
+Followed by a [Handover & escalation](guidance.md#handover-and-escalation) piece of guidance, for example:
+
+> If a user provides you with details about a bug, namely a device, URL and when the issue was noticed.
+
+As you can see here, the answer format from the Context & clarification response is being used in the Handover & escalation guidance, giving a result like this:
+
+<figure><img src="../.gitbook/assets/image (67) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### How do I update my guidance?
 
+To update your guidance:
+
+1. Log into your Dashboard.
+2. Go to **Improve > Guidance**.
+3. Locate the guidance you want to update and click the pencil icon next to it.
+4. Edit the guidance and click "Save".
+5. Your new guidance will be applied instantly.
+
 ### How do I delete guidance?
 
+To delete your guidance:
+
+1. Log into your Dashboard.
+2. Go to **Improve > Guidance**.
+3. Locate the guidance you want to delete and click the pencil icon next to it.
+4. Click the trash can icon then click confirm.
+5. Your guidance will be deleted instantly.
