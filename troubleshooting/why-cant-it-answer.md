@@ -8,7 +8,7 @@ description: >-
 
 ### My AI agent answers are mostly correct, there are just a few answers I'd like to update
 
-In this situation, it is best to first try using the [Custom answers](../features/improve-+-custom-answers.md) feature to correct the issue.
+In this situation, it is best to first try using the [Custom answers](../features/improve-+-custom-answers/) feature to correct the issue.
 
 ### My AI support agent isn't answering a question that I have added content for
 
@@ -20,7 +20,7 @@ The first thing you should check is that the content piece (website, file, or pa
 
 Secondly, when you ask the question, check any of the links given in the response to the answer and see whether any of them have the information that would be required to answer the question:
 
-* If the relevant information isn't there this suggests that the AI was unable to find a relevant answer in your Knowledge, in this case, you could either: add a [custom answer](../features/improve-+-custom-answers.md) or try and improve the language of your documentation to make it more specific and detailed.
+* If the relevant information isn't there this suggests that the AI was unable to find a relevant answer in your Knowledge, in this case, you could either: add a [custom answer](../features/improve-+-custom-answers/) or try and improve the language of your documentation to make it more specific and detailed.
 * If the relevant information is there, first ask whether you would expect a person, given the question and the information would be able to answer, if not then it may be that your documentation can be improved, if yes then please share details of the question and answer with us via chat and we will investigate.
 
 #### Ask yourself whether the question is something a user would likely need to ask

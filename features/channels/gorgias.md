@@ -23,7 +23,7 @@ There are several reasons why you should use your My AskAI within Gorgias:&#x20;
 * You don't have to add any code to your site and you don't need a developer, [just connect our app and you're ready to go](gorgias.md#how-to-connect-your-ai-chatbot-to-zendesk-messaging).
 * AI answers provided with "References" to the sources used to answer the question.
 * You can add your AI agent to Gorgias chat too as well as ticket/email replies.
-* As well as an AI agent, you get all our other features like [Insights](../insights/), [Improve](../improve-+-custom-answers.md), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Insights](../insights/), [Improve](../improve-+-custom-answers/), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
 
 ### How to connect your AI agent to Gorgias
 

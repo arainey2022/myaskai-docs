@@ -77,7 +77,7 @@ If you want to train your AI on tickets, we recommend that you create a curated 
 
 Ultimately, the golden knowledge source should be your help documentation and knowledge articles, as these will have been verified, reviewed, and kept up to date. Keeping them updated also means that the customers who don't use your chat still benefit from the updated knowledge.
 
-We recommend that if you do want to use your historic tickets to train your AI support agent,  you should use them to create knowledge articles using our [Improve](improve-+-custom-answers.md) features.&#x20;
+We recommend that if you do want to use your historic tickets to train your AI support agent,  you should use them to create knowledge articles using our [Improve](improve-+-custom-answers/) features.&#x20;
 
 ## References
 
