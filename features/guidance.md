@@ -19,7 +19,7 @@ You'll always be able to see what guidance was used by your AI agent and you can
 {% hint style="info" %}
 Guidance is currently only available for the following channels: \
 \
-Intercom (chat and email), Zendesk (messaging and tickets/emails) and My AskAI's own widget. \
+Intercom (chat and email) and Zendesk (messaging and tickets/emails). \
 \
 More channels coming soon.
 {% endhint %}
