@@ -95,12 +95,11 @@ Work backwards from what you want the AI to achieve to come up with your instruc
 
 :white\_check\_mark: _After (clear and structured):_
 
-> _“If a customer asks about the ‘search’ feature, first ask which product they are using before responding. Then, provide product-specific instructions based on their answer.”_> \
-> _By structuring guidance with clear steps and conditions, it can be applied consistently and correctly._
+> _“If a customer asks about the ‘add file’ feature, first ask which product they are using before responding. Then, provide product-specific instructions based on their answer.”_>
 
-#### Use simple and precise language
+#### Use simple and unambiguous language
 
-Ambiguous or overly complex instructions can lead to inconsistent responses. Write as if you’re training a new support agent—be direct, specific, and easy to understand.
+Overly complex instructions can lead to inconsistent responses. Write as if you’re training a new support agent—be direct, specific, and easy to understand.
 
 :x: _Before (unclear and open to interpretation):_
 
@@ -110,9 +109,9 @@ Ambiguous or overly complex instructions can lead to inconsistent responses. Wri
 
 > _“Use a professional yet approachable tone. Keep responses concise, avoid jargon, and use reassuring language when addressing customer frustrations (e.g., ‘I understand how that can be frustrating. Here’s how we can resolve it’).”_
 
-#### Provide context and concrete examples
+#### Provide context and examples
 
-Instructions perform best when they can be understood as to when and how to apply guidance. Use words like “if,” “when,” and “then” to define conditions, and include clear examples.
+Guidance performs best when it can be understood as to when and how to be applied. Use words like “if,” “when,” and “then” to define conditions, and include clear examples.
 
 :x: _Before (lacks context):_
 
@@ -122,9 +121,9 @@ Instructions perform best when they can be understood as to when and how to appl
 
 > _“If a customer asks about pricing, first check if they mention a specific plan. If they don’t, ask which plan they’re interested in before providing details. Always refer to prices as ‘starting at \[lowest tier price]’ unless the customer specifies a plan.”_
 
-#### Create separate, focused guidance
+#### One instruction per piece of guidance
 
-Each piece of instruction should address a single objective. If one instruction tries to convey more than one objective, it should be split into separate instructions. Avoid mixing multiple instructions, as this can make it harder to apply them correctly.
+Each piece of guidance should address a single objective. If one instruction tries to convey more than one objective, it should be split into separate instructions. Avoid mixing multiple instructions, as this can make it harder to apply them correctly.
 
 :x: _Before (too broad and unfocused):_
 
@@ -140,7 +139,7 @@ Each piece of instruction should address a single objective. If one instruction 
 
 #### Speak directly to the AI agent in your guidance
 
-When writing instructions, avoid referring to the AI customer support agent in the third person or commenting on how it should modify its responses. Instead, write as if you are speaking directly to it, telling it exactly what to do.
+When writing guidance, avoid referring to the AI customer support agent in the third person or commenting on how it should modify its responses. Instead, write as if you are speaking directly to it, telling it exactly what to do.
 
 :x: _Before (third-person and indirect)_
 
@@ -150,9 +149,9 @@ When writing instructions, avoid referring to the AI customer support agent in t
 
 > _“Never tell the customer to uninstall and reinstall the app. Reinstalling is never a valid troubleshooting step, and the AI customer support agent should never communicate this to the customer.”_
 
-#### Provide examples
+#### Provide example phrasing
 
-When writing instructions, it is valuable to demonstrate correct and sometimes incorrect behaviours as part of the instruction using examples.
+When writing instructions, it is often a good idea to demonstrate correct and sometimes incorrect behaviours as part of the instruction using examples.
 
 :x: _Before (tells AI customer support agent how to respond without an example):_
 
@@ -168,7 +167,13 @@ When writing instructions, it is valuable to demonstrate correct and sometimes i
 
 Always ensure proper grammar is used, including proper sentence grammar and punctuation, including full stops at the end of each instruction.
 
+#### **Keep guidance concise**
 
+Try and keep your guidance under 75 words to ensure it is followed most closely, the longer the guidance the harder it will be for the AI to adhere to.
+
+#### Write guidance in English
+
+While guidance can be written in any language, it will perform best when written in English.
 
 ### How to optimize your guidance
 
@@ -180,7 +185,19 @@ We highly recommend you use this feature to get the best results from your AI ag
 
 ### How can I test my guidance?
 
+To test your guidance, you can use the widget adjacent to where the guidance has been entered. Ask a question that would result in the guidance being applied and see how the AI agent responds.
+
+You can always edit your guidance after if it doesn't give the correct effect.&#x20;
+
 ### What should guidance not be used for?
+
+
+
+* Don't hallucinate
+* Take actions other than handover
+* Add information/knowledge
+* Changing language
+* Controlling where it will respond from
 
 ### How do I know if guidance has been used on a response?
 

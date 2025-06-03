@@ -23,7 +23,7 @@ There are several reasons why you should use your My AskAI within Intercom:
 * [There are several ways your CS team can use your AI agent within Intercom](./#how-can-i-use-my-ai-chatbot-within-intercom), so you can use whichever works for them ([read on below for more](./#how-can-i-use-my-ai-chatbot-within-intercom)).
 * You don't have to add any code to your site to get your AI agent live, just connect our app and you're ready to go.
 * Every AI answer is provided with "References" to the sources used to answer the question.
-* As well as an AI agent, you get all our other features like [Improve](../../improve-+-custom-answers/), [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Improve](../../improve-+-custom-answers.md), [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
 
 ### How to use your AI agent within Intercom Messenger
 

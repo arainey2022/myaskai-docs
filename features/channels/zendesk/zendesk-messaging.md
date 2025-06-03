@@ -28,7 +28,7 @@ There are several reasons why you should use your My AskAI within Zendesk Messag
 * You don't have to add any code to your site to get your AI agent live, [just connect our app and you're ready to go](zendesk-messaging.md#how-to-connect-your-ai-chatbot-to-zendesk-messaging).
 * Every AI answer is provided with reference links to the sources used to answer the question.
 * You can add your AI agent to Zendesk's other messaging channels e.g. WhatsApp, Facebook Messenger, and many more
-* As well as an AI agent, you get all our other features like [Improve](../../improve-+-custom-answers/), [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Improve](../../improve-+-custom-answers.md), [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
 
 See how Customer.io are using My AskAI within Zendesk to reduce their ticket volume by 47%:
 
@@ -184,7 +184,7 @@ To edit the starter questions in the Zendesk Messaging widget go to the **Dashbo
 
 ### Can I train it on my Zendesk Macros?
 
-Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve-+-custom-answers/#custom-answers) (where you can edit and manage them).
+Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve-+-custom-answers.md#custom-answers) (where you can edit and manage them).
 
 You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
 

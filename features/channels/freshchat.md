@@ -20,7 +20,7 @@ There are several reasons why you should use your My AskAI within Freshchat:
 
 * You can add more knowledge to your AI agent in addition to your website and Freshdesk help center by using our [connections](../connections/), live data or [file uploads](../file-uploads.md).
 * You don't have to add any code to your site to get your AI agent live, just connect our app and you're ready to go.
-* As well as an AI agent, you get all our other features like [Improve,](../improve-+-custom-answers/) [Insights](../insights/), [Email Assistant](../email-assistant.md), [Site Search](../site-search.md), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Improve,](../improve-+-custom-answers.md) [Insights](../insights/), [Email Assistant](../email-assistant.md), [Site Search](../site-search.md), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
 * While Freshchat has its own AI agent (called "FreddyAI"), it can be more expensive, up to twice the price of My AskAI per conversation (we also think ours is smarter, but we'll let you be the judge!)
 
 ### How to use your AI agent within Freshchat

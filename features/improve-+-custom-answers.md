@@ -7,7 +7,7 @@ description: >-
 
 # ✏️ Improve + Custom answers
 
-<figure><img src="../../.gitbook/assets/custom answers (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/custom answers (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Improving your AI agent's answers
 
@@ -22,7 +22,7 @@ To find out what it can't answer you can use our Improve feature:
 
 ## Improve
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082333.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082333.png" alt=""><figcaption></figcaption></figure>
 
 ### What is 'Improve' and what is a 'knowledge gap'?
 
@@ -49,7 +49,7 @@ You can think of this view as your 'to-do' list to improve your AI agent's knowl
 
 You can fix a knowledge gap immediately by clicking "Fix knowledge gap" and then writing your own custom answer, however My AskAI will automatically generate answers for you based on your historic tickets when the knowledge gap has reached 3 questions.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082351.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082351.png" alt="" width="563"><figcaption></figcaption></figure>
 
 When fixing a knowledge gap you can:
 
@@ -60,13 +60,13 @@ When fixing a knowledge gap you can:
 3. _Draft a knowledge snippet from scratch_\
    If you don't want to use AI to generate your knowledge snippet, you can just draft one from scratch yourself using our text editor.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082648.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082648.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Whichever way you choose to begin with, you can always edit the knowledge snippet at a later date.
 
 Once you have created your knowledge snippet click on "Save & Test", this will show you what response your AI agent will give to your question, you can then choose to either add this snippet to your AI agent's knowledge (if you are happy with the response) by clicking 'Finish' or continue editing (if you don't like the response) by clicking 'Back/Edit'.
 
-<figure><img src="../../.gitbook/assets/image (419).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (419).png" alt="" width="563"><figcaption></figcaption></figure>
 
 If you add the snippet the knowledge gap will be Resolved and will be cleared from your Improve view.
 
@@ -76,11 +76,11 @@ If you believe the questions within a knowledge gap should have been answered, y
 
 _"Should this have been answered?"_ link for that knowledge gap in the three dot menu for that knowledge gap.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082406.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082406.png" alt=""><figcaption></figcaption></figure>
 
 You will then be asked to:
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (421).png" alt="" width="375"><figcaption></figcaption></figure>
 
 1. Re-check if the knowledge gap is still there (in case you have added knowledge since the gap appeared)
 2. Search for the link you believe contains the knowledge that would answer the question (this is to ensure you have added the link to your AI agent already).
@@ -134,10 +134,10 @@ Tip: When creating a custom answer, to get best results, type the question in 3 
 Custom answers should be used for small corrections, adjustments, or if there is a question that doesn't warrant its own documentation.
 
 {% hint style="info" %}
-Before adding a custom answer, think about whether it would make more sense to update your documentation and [refresh the page](../sitesync-adding-and-syncing-your-website-content.md#can-i-refresh-or-update-webpages-before-the-weekly-sync) to allow your AI support agent to answer instead.
+Before adding a custom answer, think about whether it would make more sense to update your documentation and [refresh the page](sitesync-adding-and-syncing-your-website-content.md#can-i-refresh-or-update-webpages-before-the-weekly-sync) to allow your AI support agent to answer instead.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I create a custom answer?
 
@@ -146,12 +146,12 @@ To create a custom answer (or to correct a response):
 1. Go to **Knowledge > Custom answers** or go directly to **Improve**
 2. Select "_Add/manage custom answers_"
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082614.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082614.png" alt=""><figcaption></figcaption></figure>
 
 3. Click the button "+ _Add new custom answer_"
 4. Add your question and answer pair
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082630.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082630.png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Click "Save & Test", this will show you what response your AI agent will give to your question
 6. You can then choose to either add this snippet to your AI agent's knowledge (if you are happy with the response) by clicking 'Finish' or continue editing (if you don't like the response) by clicking 'Back/Edit'.
@@ -166,7 +166,7 @@ To delete a custom answer:
 2. Select the Custom Answer you wish to delete.
 3. Click the trash can icon next to that Custom Answer and you answer will be deleted immediately.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082614 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082614 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I edit a custom answer or knowledge snippet?
 
@@ -177,11 +177,11 @@ To edit a custom answer:
 3. Click the button pencil icon next to that Custom Answer.
 4. Update your Custom Answer/knowledge snippet and click "Save & Test"
 
-<figure><img src="../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I edit an existing answer?
 
-To edit an existing answer your AI support agent is giving, [create a new custom answer](./#how-do-i-create-a-custom-answer) or knowledge snippet using the question you asked and your updated response.
+To edit an existing answer your AI support agent is giving, [create a new custom answer](improve-+-custom-answers.md#how-do-i-create-a-custom-answer) or knowledge snippet using the question you asked and your updated response.
 
 ### How can I see all my custom answers and knowledge snippets?
 
@@ -195,7 +195,7 @@ For each piece of content/knowledge you will also see an "AI resolution" rate, w
 
 If you find pieces of content/knowledge with lower AI resolution rates it may be that they can be improved (by reviewing the conversations they are used in) or you may wish to consider other ways of helping users to answer those questions.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082704.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082704.png" alt=""><figcaption></figcaption></figure>
 
 ### How can I review previous conversations/tickets and understand why the AI agent answered how it did?
 
@@ -203,7 +203,7 @@ One of our most powerful features of our 'Improve' studio is the **Inspect & Bug
 
 From this view, you can search for any ticket or conversation, by date, Ticket ID, email and/or keyword, then click into it to see the conversation/ticket history.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082837.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082837.png" alt=""><figcaption></figcaption></figure>
 
 From the conversation/ticket history you can see:
 
@@ -211,15 +211,15 @@ From the conversation/ticket history you can see:
 * The interpretation of the question as the AI understood it
 * A button to "Inspect or fix answer"
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082859.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082859.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Clicking the "Inspect or fix answer" button will generate an AI explanation of why the AI agent answered the question in the way it did and also show you exact, verbatim quotes from the docs that were used to answer the questions.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082921.png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082921.png" alt="" width="548"><figcaption></figcaption></figure>
 
 If this wasn't a satisfactory answer for you, you will also be shown options to "Fix" the answer by either:
 
-* Creating a [Custom Answer](./#custom-answers)"
-* Adding a [Custom Instruction](../customization.md#can-i-modify-the-tone-or-the-way-the-ai-responds)"
+* Creating a [Custom Answer](improve-+-custom-answers.md#custom-answers)"
+* Adding a [Custom Instruction](customization.md#can-i-modify-the-tone-or-the-way-the-ai-responds)"
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 083149.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 083149.png" alt="" width="563"><figcaption></figcaption></figure>

@@ -21,7 +21,7 @@ This CSAT feature is only available in the My AskAI widget, if you are using our
 
 Conversation ratings are a great way to find out what your customers and visitors think of your AI agent and whether or not it is helping them.
 
-Getting feedback on its responses is also a good way to find out where your AI agent may be [lacking knowledge (missing documentation)](connections/) or where you may need to [correct a response](improve-+-custom-answers/).
+Getting feedback on its responses is also a good way to find out where your AI agent may be [lacking knowledge (missing documentation)](connections/) or where you may need to [correct a response](improve-+-custom-answers.md).
 
 Note that, as with any rating system, responses are usually biased to the negative ends of the spectrum when it comes to customer support, think of it as a feedback mechanism for your support team.
 
@@ -81,5 +81,5 @@ To improve your CSAT score there are a few things you can do:
 
 1. Review your neutral and negative CSAT score conversations and topics to determine the context of the issues raised (checking that they are indeed issues you want to resolve or questions you want to answer).
 2. Review the responses given by the agent in those conversations to determine what answer was given and whether there were any issues with the responses (incorrect responses or just that the AI didn't know the answer.
-3. Decide whether you want to [add additional knowledge](connections/) to train your AI agent or you need a [custom answer](improve-+-custom-answers/) to improve responses (also [read this on improving responses](../troubleshooting/why-cant-it-answer.md)).
+3. Decide whether you want to [add additional knowledge](connections/) to train your AI agent or you need a [custom answer](improve-+-custom-answers.md) to improve responses (also [read this on improving responses](../troubleshooting/why-cant-it-answer.md)).
 4. If none, of these are applicable, please reach out to our chat and we will try and help.
