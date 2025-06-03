@@ -228,6 +228,12 @@ To do this:
 
 <figure><img src="../.gitbook/assets/image (486).png" alt="" width="560"><figcaption></figcaption></figure>
 
+### How many pieces of guidance can I add?
+
+You can add up to 30 pieces of guidances under each category of guidance, so 90 in total.&#x20;
+
+If this is insufficient, please get in touch with us via our live chat and ask to talk to a person.
+
 ### Is it possible to create multi-step guidance?
 
 {% hint style="info" %}
