@@ -78,7 +78,7 @@ To add or enable guidance for your AI agent:
 2. Go to Improve > Guidance.
 3. Select the [type of guidance](guidance.md#what-are-the-types-of-guidance-and-when-should-i-use-them) you want to add and click the "+ New" button.
 4. Enter your guidance and edit the title to make it easier for you to find later.
-5. Click "Save".
+5. Click "Save" (the first time you add this will be "Optimize", then "Save").
 6. Your guidance will be applied instantly, to test it out, ask a question in the adjacent chat window and see how it responds.
 
 ### How do I write the best guidance?
@@ -179,7 +179,7 @@ While guidance can be written in any language, it will perform best when written
 
 When writing guidance there are a number of things you need to consider ([see here](guidance.md#how-do-i-write-the-best-guidance)).&#x20;
 
-However, to make this easy for you we have added in an "Optimize" feature which you can click to rewrite your guidance in an optimal way that will be most effective for the AI agent.&#x20;
+However, to make this easy for you we have added in an "Optimize" button which you can click to rewrite your guidance in an optimal way that will be most effective for the AI agent.&#x20;
 
 We highly recommend you use this feature to get the best results from your AI agent!&#x20;
 
@@ -230,7 +230,7 @@ To do this:
 
 ### How many pieces of guidance can I add?
 
-You can add up to 30 pieces of guidances under each category of guidance, so 90 in total.&#x20;
+You can add up to 30 pieces of guidance under each category of guidance, so 90 in total.&#x20;
 
 If this is insufficient, please get in touch with us via our live chat and ask to talk to a person.
 
