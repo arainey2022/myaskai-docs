@@ -16,14 +16,6 @@ You can use guidance to ensure your AI agent uses the right terminology, does th
 
 You'll always be able to see what guidance was used by your AI agent and you can change it at any time.
 
-{% hint style="info" %}
-Guidance is currently only available for the following channels: \
-\
-Intercom (chat and email) and Zendesk (messaging and tickets/emails). \
-\
-More channels coming soon.
-{% endhint %}
-
 ### What are the types of guidance and when should I use them?
 
 There are 3 types of guidance you can add to your AI agent:
