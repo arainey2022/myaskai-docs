@@ -34,6 +34,7 @@
     * [Zendesk (Tagging + Sentiment)](features/channels/zendesk/zendesk-tagging-+-sentiment.md)
   * [Intercom](features/channels/intercom/README.md)
     * [Human Handover Workflows](features/channels/intercom/human-handover-workflows.md)
+    * [Intercom (Tagging + Sentiment)](features/channels/intercom/intercom-tagging-+-sentiment.md)
   * [Freshchat](features/channels/freshchat.md)
   * [Freshdesk](features/channels/freshdesk.md)
   * [Gorgias](features/channels/gorgias.md)
