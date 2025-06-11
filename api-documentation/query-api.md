@@ -21,3 +21,7 @@ If your AskAI doesn't know the answer, the API will return a field to confirm an
 {% hint style="info" %}
 The `query` field has a 750 character limit. If this is exceeded, you will see an error: `{"error":"This question is too long. Please ensure questions are less than 750 characters."}`
 {% endhint %}
+
+{% hint style="info" %}
+If human handover [guidance](../features/guidance.md) is triggered the API response will include: `"human_handover": true`
+{% endhint %}
