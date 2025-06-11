@@ -63,13 +63,11 @@ To tweak how your widget behaves, go to _**Channels > Add to your website:**_
 
 ### Can I modify the tone or the way the AI responds?
 
-You can modify the tone or the way the AI responds by using our "Custom Instructions" feature.
+You can modify the tone or the way the AI responds by using our "[Guidance](guidance.md)" feature.
 
-<figure><img src="../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
+To do this go to your **Dashboard > Improve > Guidance** then enter your guidance to the AI.
 
-To do this go to your **Dashboard > AI agent setup > Customization > Custom Instructions** then enter your instructions to the AI.
-
-Adding instructions here will modify how your AI agent is able to respond.
+Adding guidance here will modify how your AI agent is able to respond.
 
 You will likely need to experiment with wording to get the responses you desire.
 
@@ -78,7 +76,7 @@ This is particularly useful if you want to modify the way the bot responds in ce
 _"Always ask for a reason or feedback when the user asks to cancel"_
 
 {% hint style="warning" %}
-If the instructions you provide conflict with the AI agent's core instructions, they may be ignored.
+If the guidance you provide conflict with the AI agent's core instructions, they may be ignored.
 {% endhint %}
 
 ### Can I modify the CSS of the My AskAI widget?
