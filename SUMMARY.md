@@ -35,6 +35,7 @@
   * [Intercom](features/channels/intercom/README.md)
     * [Human Handover Workflows](features/channels/intercom/human-handover-workflows.md)
     * [Intercom (Tagging)](features/channels/intercom/intercom-tagging.md)
+    * [Intercom (Live Translation)](features/channels/intercom/intercom-live-translation.md)
   * [Freshchat](features/channels/freshchat.md)
   * [Freshdesk](features/channels/freshdesk.md)
   * [Gorgias](features/channels/gorgias.md)
