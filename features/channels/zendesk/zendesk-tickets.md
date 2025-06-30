@@ -150,6 +150,44 @@ To use it:
 
 <figure><img src="../../../.gitbook/assets/https___7ac07acbae116a5155080d295197d8d6.cdn.bubble.io_d260_f1722445881682x640541271315374000_Ticket20App20L.gif" alt="" width="563"><figcaption></figcaption></figure>
 
+### How can I control which Zendesk tickets the Zendesk AI agent replies to?
+
+There are 3 ways you can control which tickets your AI agent can reply to:
+
+1. Use the ["Block AI replies"](zendesk-tagging-+-sentiment.md#how-can-i-ensure-the-ai-agent-only-responds-to-certain-types-of-tickets) feature as part of our AI tagging feature in Zendesk.&#x20;
+2. Use "Human Handover" [Guidance](../../guidance.md#handover-and-escalation).
+3. Use Zendesk Triggers, this will give you the most control if you want to choose certain user groups the AI agent will reply to, or filter out certain subject lines.
+
+### How can I filter my AI replies by using Zendesk Triggers?
+
+1. Create a new ticket status: AI Agent
+
+<figure><img src="../../../.gitbook/assets/image (69) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+2. Create a new trigger to assign AI agent-handled tickets to AI Agent status\
+   \
+   Trigger name: Assign AI Agent Ticket\
+   \
+   Tag values: `ai-agent-replied` & `human-handover-requested`
+
+<figure><img src="../../../.gitbook/assets/image (70) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Create a new trigger to assign handover tickets back to Open status\
+   \
+   Trigger name: Assign AI Handover Ticket\
+   \
+   Tag value: `human-handover-requested`
+
+<figure><img src="../../../.gitbook/assets/image (71) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+4. Create a new view for agents to see AI Agent assigned tickets\
+   \
+   These triggers (or order of triggers) may need to be adjusted to match your organisation's workflows and avoid any conflicts.
+
+<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (73) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Can I stop people speaking to a person on their first message on Zendesk Tickets?
 
 You can prevent "instant" human handover on the 1st message in a conversation on Zendesk Tickets by navigating to **Channels > Zendesk** and then toggling the "_Ask for more information before handover_" feature.
