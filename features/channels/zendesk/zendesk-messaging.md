@@ -63,13 +63,9 @@ How to add My AskAI to your Zendesk Mesaging widget
 
 7. You'll then be shown a "Connecting to Zendesk" screen, which will take a few seconds, once connected you will be redirected back to My AskAI.
 8. Once back at My AskAI, you will be shown instructions to help you "Configure your Zendesk account"
-9. Go to your Zendesk Admin Center, click _**Channels > Bots > Manage Bots**_ then select '**Connect**' beside the My AskAI bot and '**Connect**' again on the pop-up.
+9. Go to your Zendesk Admin Center, click _**AI > AI Agents**_ then select '**Connect**' beside the My AskAI AI agent and '**Connect**' again on the pop-up, then click the 3 dots on the right hand side and select "Set as default for all channels".
 
-<figure><img src="../../../.gitbook/assets/image (372).png" alt="" width="500"><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (370).png" alt="" width="563"><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (373).png" alt="" width="444"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 10. After tickets have been 'Solved' they need to be moved to 'Closed', so that the AI assistant can take control of the conversation again. There are two ways you can do this.
     1.  Go to _**Objects and rules > Automations**_, and find the existing automation called "Close ticket 4 days". Edit the "Hours since status..." field to 1 (recommended, but you can choose your own value). This means after tickets are solved, they will be closed within an hour and control returned to the AI assistant.\
