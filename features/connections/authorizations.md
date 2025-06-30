@@ -95,6 +95,10 @@ The role type you need to connect i&#x73;**`Account Administrator`**
 
 To authorize your Freshdesk connection, you just need to provide the Freshdesk domain and API key you want to connect to when asked.
 
+{% hint style="info" %}
+When adding your Freshdesk domain, ensure it is your original Freshdesk domain e.g. yourdomain.freshdesk.com, not any custom domains you may now use.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (328).png" alt="" width="360"><figcaption></figcaption></figure>
 
 To find your API key:

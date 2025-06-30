@@ -43,6 +43,10 @@ _**Recommended:**_ AI replies will come from whichever agent account you set the
 5. Enter your Freshdesk domain (your domain is within the URL of your Freskdesk inbox. e.g. **myaskai**.freshdesk.com) and your API key and click 'Connect your Freshdesk account'.
 
 {% hint style="info" %}
+When adding your Freshdesk domain, ensure it is your original Freshdesk domain e.g. yourdomain.freshdesk.com, not any custom domains you may now use.
+{% endhint %}
+
+{% hint style="info" %}
 To find your API key go to your dashboard, click on your _**Profile icon > Profile Settings > View API Key**_ and copy your API key ([more details here](https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key)).
 {% endhint %}
 
