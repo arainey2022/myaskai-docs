@@ -86,7 +86,11 @@ This can be used to run a Trigger or Automation to re-assign a ticket to human a
 
 ### Can I change the name and image of my Zendesk Ticket agent?&#x20;
 
-1. You can customize the appearance of your AI agent by naming it and giving it a logo. This name and logo will appear within your Zendesk Ticket workspace and on replies to customers.
+You can customize the appearance of your AI agent by naming it and giving it a logo. This name and logo will appear within your Zendesk Ticket workspace and on replies to customers.
+
+{% hint style="info" %}
+You will need an Extra Zendesk agent seat available in your account in order for us to change/create this. &#x20;
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (407).png" alt="" width="563"><figcaption></figcaption></figure>
 
