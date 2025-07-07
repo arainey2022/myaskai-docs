@@ -125,6 +125,24 @@ This option is on by default.
 
 When a user tries to handover immediately they will be asked to provide more information first. On any subsequent messages, they can initiate a handover to an agent.
 
+### Can I have multiple AI agents responding to my Zendesk Messaging?
+
+Yes, you can have multiple AI agents set-up to respond to your Zendesk Messaging.
+
+There are occasions where you may need to use separate AI agents, whether you have separate products or user groups, for example.
+
+In these instances, it can make sense to have separate agents responding, so you can set separate controls, guidance, or knowledge and ensure there is no risk of "mixing up" answers.
+
+To do this:
+
+1. &#x20;Set up separate AI agent accounts for each use case and connect your knowledge.
+2. [Follow the normal setup steps as outlined above](zendesk-messaging.md#how-to-connect-your-ai-agent-to-zendesk-messaging).
+3. When you are updating the 2 My AskAI triggers that you have created, append to each of them a unique identifier to the `organization_id` field e.g.  `-1` (or `-2` if it is a third account)
+
+<figure><img src="../../../.gitbook/assets/image (76) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+4. Once you have done this, notify us via our live chat, sharing the email addresses of the accounts you have created and the unique identifiers you have used and we will update your account settings.
+
 ### How do I remove my Zendesk Messaging AI agent?
 
 1. Go to your Zendesk Admin Center, click _**Channels > Bots > Manage Bots**_ and look for 'My AskAI' (at the bottom)
