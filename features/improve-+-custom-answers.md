@@ -92,6 +92,10 @@ You will then be asked to:
 
 ### How do I connect my Zendesk or Intercom tickets?
 
+{% hint style="info" %}
+These will be added automatically on signup and connection to Zendesk and Intercom, if they haven't been, follow the below steps.
+{% endhint %}
+
 To connect your Zendesk or Intercom tickets so your AI agent can draft knowledge snippets:
 
 1. Go to your dashboard then select **Improve** from the menu.
@@ -103,6 +107,10 @@ To connect your Zendesk or Intercom tickets so your AI agent can draft knowledge
 
 {% hint style="danger" %}
 Note that while historic tickets from Zendesk and Intercom can be used to generate knowledge snippets (custom answers), they cannot be used as a knowledge source to directly answer customer questions from.
+{% endhint %}
+
+{% hint style="info" %}
+To remove tickets, please send us a message via our live chat.
 {% endhint %}
 
 ## Custom Answers
