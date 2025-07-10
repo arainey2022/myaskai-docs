@@ -40,17 +40,6 @@ The following content can be added to your AI agent to "train" it:
   * rtf
   * tsv
   * pptx
-  * mp3
-  * mp4 (audio only)
-  * mp2
-  * aac
-  * wav
-  * flac
-  * pcm
-  * m4a
-  * ogg
-  * opus
-  * webm
 * Google Drive, up to 10Mb per file
 * OneDrive, up to 10Mb per file
 * Notion

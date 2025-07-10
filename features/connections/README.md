@@ -122,17 +122,6 @@ You can upload the following file formats:
 * rtf
 * tsv
 * pptx
-* mp3
-* mp4 (audio only)
-* mp2
-* aac
-* wav
-* flac
-* pcm
-* m4a
-* ogg
-* opus
-* webm
 
 \*Note that for csv files each row resides on its own line, and each element within the row has the header of its corresponding column added to it as a prefix.
 
