@@ -68,6 +68,16 @@ To find your API key go to your dashboard, click on your _**Profile icon > Profi
 
 By default your Freshdesk Ticket AI agent will respond to Email and Web form tickets that are "New".
 
+### How can I control what my Freshdesk Ticket AI agent responds to?
+
+When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ### How do I know what the Freshdesk Ticket AI agent has replied to and what has been handed to a human agent?
 
 When a ticket is replied to by your AI agent in Freshdesk Tickets you will see the AI response in the ticket thread.

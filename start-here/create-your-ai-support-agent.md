@@ -26,6 +26,8 @@ We'll ask you a few quick questions that will help tailor your set-up experience
 
 Now it's time to add some knowledge to your AI agent so it can answer questions about your business.
 
+To add knowledge to your AI agent, go to your **Dashboard > Knowledge** then select the type of knowledge you want to add. [You can see all the ways you can add knowledge here](../features/connections/), you can also add knowledge from [Shopify](../features/shopify.md) or via our [User Data](../api-documentation/user-data-api.md) connections.
+
 You can either [Connect a Help Center](../features/connections/) (like Intercom, Zendesk, Freshdesk or Gitbook) or add help articles website and we'll add all of your pages.
 
 If you have added a website it can take up to an hour to process (for us to find all of your webpages), you will get an email when this has been completed.
