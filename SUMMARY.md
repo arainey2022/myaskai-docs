@@ -136,7 +136,6 @@
   * [🤖 My AskAI vs ChatGPT](faq/general/my-askai-vs-chatgpt.md)
   * [✅ How can I test the accuracy of my AI agent's answers?](faq/general/how-can-i-test-the-accuracy-of-my-ai-agents-answers.md)
   * [📚 (Large Language Models) LLMs](faq/general/large-language-models-llms.md)
-  * [👨‍🔬 Algorithm change log](faq/general/algorithm-change-log.md)
   * [✏️ Can I use my own OpenAI assistant or Custom GPT?](faq/general/can-i-use-my-own-openai-assistant-or-custom-gpt.md)
   * [🤔 How does it work?](faq/general/how-does-it-work.md)
 

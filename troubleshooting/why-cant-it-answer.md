@@ -57,7 +57,7 @@ Answer quality is our utmost concern and priority and we monitor a range of stat
 
 In short, if you feel answers are not performing as well as they were previously, it is likely something that will resolve itself within a few weeks and the overall path of answer quality and ability is forever improving to the extent that we don't believe this will even be a consideration in the very near future.
 
-If you would like to track the changes we make, then you can see them [here, in our algorithm change log](../faq/general/algorithm-change-log.md).
+If you would like to track the changes we make, then you can see them [here, in our algorithm change log](broken-reference).
 
 ### I've tried everything and I still can't get the answers I want
 
