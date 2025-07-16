@@ -1,7 +1,7 @@
 ---
 description: >-
-  We do not currently have a SOC-2 report, but if this is an issue for you, let
-  us know via chat and we may be able to help.
+  We are currently undergoing our SOC-2 Type 2 certification, we hope to share
+  when we are live with it soon!
 ---
 
 # SOC-2
