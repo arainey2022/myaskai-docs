@@ -52,4 +52,4 @@ You can use the User Data API with the following integrations:
 * HubSpot
 * Freshdesk (not Freshchat)
 
-If you require user data for Zendesk Messaging, Gorgias Messaging or Freshchat, please get in touch with us via our Chat and asking to "Talk to a person".
+If you require user data for Zendesk Messaging, Gorgias Messaging, Freshchat or the My AskAI widget, please get in touch with us via our Chat and asking to "Talk to a person".
