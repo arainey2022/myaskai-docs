@@ -229,8 +229,8 @@ Clicking the "Inspect or fix answer" button will generate an AI explanation of w
 
 If this wasn't a satisfactory answer for you, you will also be shown options to "Fix" the answer by either:
 
-* Creating a [Custom Answer](improve-+-custom-answers.md#custom-answers)"
-* Adding a [Custom Instruction](customization.md#can-i-modify-the-tone-or-the-way-the-ai-responds)"
+* Creating a [Custom Answer](improve-+-custom-answers.md#custom-answers)
+* Adding a [Custom Instruction](customization.md#can-i-modify-the-tone-or-the-way-the-ai-responds)
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-22 083149.png" alt="" width="563"><figcaption></figcaption></figure>
 
