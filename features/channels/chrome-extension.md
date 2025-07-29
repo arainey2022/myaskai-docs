@@ -24,7 +24,7 @@ Get the extension:
 
 {% embed url="https://youtu.be/3YwaBWmDONc?si=Mh4bZSafuz_8KLGG" %}
 
-### How do I install the Chrome Extension?
+### How do I install the Chrome Extension Copilot?
 
 1. Go to **Channels** and scroll to the section titled **Chrome extension** and click "Enable Chrome extension".
 
@@ -62,7 +62,7 @@ If you ask another question with right-click it will replace the existing questi
 <figure><img src="../../.gitbook/assets/ChromeExtension-RightClickQuestion-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 3. **Embedded Copilot (in Intercom, Zendesk or Freshdesk)**\
-   You can use your AI copilot to respond to customers in Intercom, Zendesk or Freshdesk without installing any apps. Once the Chrome extension is installed and you are logged into your respective platform, you will see a :sparkles: button appear in your text editor. Click it and it will use the conversation history, the last question and your AI agent's knowledge to draft a response in the text editor that you can tweak before sending to the customer.\
+   You can use your AI copilot to respond to customers in Intercom, Zendesk or Freshdesk without installing any apps. Once the Chrome extension is installed and you are logged into your respective platform, you will see a magic sparkle icon (:sparkles:) button appear in your text editor. Click it and it will use the conversation history, the last question and your AI agent's knowledge to draft a response in the text editor that you can tweak before sending to the customer.\
    \
    Here's it in action in each of these:
 
@@ -79,6 +79,14 @@ If you ask another question with right-click it will replace the existing questi
 <figure><img src="../../.gitbook/assets/ChromeExtFD1-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
 
 If you are looking for any more features from our Chrome Extension, let us know.
+
+### I can't see the magic sparkle icon (:sparkles:) for the Chrome Extension Copilot?
+
+If you can't see the magic sparkle icon for the Chrome Extension Copilot, then first make sure you have [installed the extension](chrome-extension.md#how-do-i-install-the-chrome-extension-copil).
+
+Also, ensure you are using one of the supported platforms for the Copilot: Intercom, Zendesk, Gorgias or Freshdesk.
+
+If you still aren't seeing the icon, ask to "Talk to a person" in our live chat and our support team will assist you.
 
 ### How much does the Chrome extension cost?
 
