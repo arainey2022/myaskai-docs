@@ -92,21 +92,3 @@ You have the option of adding your own custom ending each time the AI agent is u
 
 To edit your Custom ending, just go to _AI Agent Setup > Human Handover > Advanced Settings._
 
-### Can I create my own custom human handover phrases?
-
-Yes, in addition to our existing handover logic, you can create and manage your own custom handover phrases.&#x20;
-
-This can be useful if there are unique phrases your customers tend to use when they want to speak to an agent or if you wish to use a language we don't currently support.
-
-To edit these, go to _**AI Agent Setup > Human Handover > Advanced Options > Custom human handover phrases**_ and click "**Manage**".
-
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
-
-From here you can add and remove handover phrases.
-
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-When a user types one of these phrases, they will be instantly handed over to a human member of your team.
-

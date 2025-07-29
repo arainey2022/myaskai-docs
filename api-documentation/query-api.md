@@ -23,5 +23,5 @@ The `query` field has a 750 character limit. If this is exceeded, you will see a
 {% endhint %}
 
 {% hint style="info" %}
-If human handover [guidance](../features/guidance.md) is triggered the API response will include: `"human_handover": true`
+If human handover [guidance](../features/improve/guidance.md) is triggered the API response will include: `"human_handover": true`
 {% endhint %}

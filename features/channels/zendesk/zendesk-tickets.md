@@ -159,7 +159,7 @@ To use it:
 There are 3 ways you can control which tickets your AI agent can reply to:
 
 1. Use the ["Block AI replies"](zendesk-tagging-+-sentiment.md#how-can-i-ensure-the-ai-agent-only-responds-to-certain-types-of-tickets) feature as part of our AI tagging feature in Zendesk.&#x20;
-2. Use "Human Handover" [Guidance](../../guidance.md#handover-and-escalation).
+2. Use "Human Handover" [Guidance](../../improve/guidance.md#handover-and-escalation).
 3. Use Zendesk Triggers, this will give you the most control if you want to choose certain user groups the AI agent will reply to, or filter out certain subject lines.
 
 ### How can I filter my AI replies by using Zendesk Triggers?
@@ -237,7 +237,7 @@ To do this:
 
 ### Can I train it on my Zendesk Macros?
 
-Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve-+-custom-answers.md#custom-answers) (where you can edit and manage them).
+Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve/#custom-answers) (where you can edit and manage them).
 
 You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
 

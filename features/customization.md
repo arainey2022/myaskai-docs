@@ -63,7 +63,7 @@ To tweak how your widget behaves, go to _**Channels > Add to your website:**_
 
 ### Can I modify the tone or the way the AI responds?
 
-You can modify the tone or the way the AI responds by using our "[Guidance](guidance.md)" feature.
+You can modify the tone or the way the AI responds by using our "[Guidance](improve/guidance.md)" feature.
 
 To do this go to your **Dashboard > Improve > Guidance** then enter your guidance to the AI.
 

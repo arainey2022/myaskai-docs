@@ -25,10 +25,10 @@ For full details of our processors, data retention, technical architecture pleas
 
 For additional security:
 
-{% content-ref url="on-premise.md" %}
-[on-premise.md](on-premise.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="openai-api-keys.md" %}
-[openai-api-keys.md](openai-api-keys.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

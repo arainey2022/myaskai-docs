@@ -53,3 +53,9 @@ You can use the User Data API with the following integrations:
 * Freshdesk (not Freshchat)
 
 If you require user data for Zendesk Messaging, Gorgias Messaging, Freshchat or the My AskAI widget, please get in touch with us via our Chat and asking to "Talk to a person".
+
+### Why can't I see "Connect live user data"?
+
+If you can't see an option to "Connect live user data" in your Dashboard, it is likely because you are not using one of our supported integrations for live user data.
+
+[Check your integration is supported](./#which-integrations-can-i-use-the-user-data-api-with) before contacting our live chat support as only some integrations are currently supported.

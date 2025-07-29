@@ -22,7 +22,7 @@ There are several reasons why you should use your My AskAI within HubSpot:
 * You can add more knowledge to your AI agent in addition to your website and HubSpot help center by using our [connections](../connections/), live data or [file uploads](../file-uploads.md).
 * You don't have to add any code to your site to get your agent live, just connect our app and you're ready to go.
 * Every AI answer is provided with "References" to the sources used to answer the question.
-* As well as an AI agent, you get all our other features like [Improve](../improve-+-custom-answers.md), [Insights](../insights/), [Email Assistant](../email-assistant.md), [Site Search](../site-search.md), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Improve](../improve/), [Insights](../insights/), [Email Assistant](../email-assistant.md), [Site Search](../site-search.md), [Private (Internal) mode](../private-internal-mode.md), [Integrations with Slack](./) and more.&#x20;
 
 ### How to use your AI agent within HubSpot
 

@@ -193,11 +193,11 @@ The only action it can take via guidance is initiating a handover to a team memb
 
 #### :x: **Changing language**
 
-Guidance should be used to change the language e.g. "respond in Spanish" or "respond in the language you are spoken to in", for this you should use our [language feature](languages-and-localization.md).
+Guidance should be used to change the language e.g. "respond in Spanish" or "respond in the language you are spoken to in", for this you should use our [language feature](../languages-and-localization.md).
 
 #### :x: Adding information or knowledge content
 
-You shouldn't give your AI agent knowledge snippets via guidance, these should be added via the [Knowledge](connections/) section of the dashboard or as [Custom Answers](improve-+-custom-answers.md#how-do-i-create-a-custom-answer).
+You shouldn't give your AI agent knowledge snippets via guidance, these should be added via the [Knowledge](../connections/) section of the dashboard or as [Custom Answers](./#how-do-i-create-a-custom-answer).
 
 #### :x: Instructing the AI agent to "not make things up"
 
@@ -218,7 +218,7 @@ To do this:
 3. Search for your conversation (by email, date, ticket ID, or content).
 4. Click on the conversation and scroll to the response, you should see a section called "Guidance followed" which will tell you which guidance was used in that response.
 
-<figure><img src="../.gitbook/assets/image (486).png" alt="" width="560"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (486).png" alt="" width="560"><figcaption></figcaption></figure>
 
 ### How many pieces of guidance can I add?
 
@@ -244,7 +244,7 @@ Followed by a [Handover & escalation](guidance.md#handover-and-escalation) piece
 
 As you can see here, the answer format from the Context & clarification response is being used in the Handover & escalation guidance, giving a result like this:
 
-<figure><img src="../.gitbook/assets/image (67) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### How do I update my guidance?
 
