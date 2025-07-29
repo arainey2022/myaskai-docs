@@ -9,7 +9,7 @@ description: >-
 
 ### What are tools?
 
-Tools are how your AI support agent can interact with your systems and backend in more autonomous way.
+Tools are how your AI support agent can interact with your systems and backend in a more autonomous way.
 
 For each ticket, your AI agent will decide whether or not it needs to use a tool you give it access to, so it will only use the tool when it deems it necessary.&#x20;
 
