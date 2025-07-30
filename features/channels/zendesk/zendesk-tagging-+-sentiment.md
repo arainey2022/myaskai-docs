@@ -80,6 +80,10 @@ To add a tag to your block list, go to **AI Agent Setup > Auto-Tagging**, select
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or triggers within Zendesk for where certain tickets should be routed depending on the "reason for contact".
 
+{% hint style="info" %}
+You can keep receiving AI note replies, even for blocked AI replies, if you want to see how your AI agent would have responded to the ticket.
+{% endhint %}
+
 ### Why aren't my tags being applied to pre-existing fields?
 
 If your tags aren't being applied to pre-existing fields it may be because your custom tagging fields don't match.

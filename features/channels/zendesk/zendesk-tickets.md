@@ -76,7 +76,11 @@ Only change or update the Channel DO NOT edit any other trigger settings.
 
 ### How do I know what the Zendesk Ticket AI agent has replied to and what has been handed to a human agent?
 
-When a ticket is replied to by your AI agent in Zendesk Tickets a tag `ai-agent-replied` is added to the ticket
+When a ticket is replied to by your AI agent in Zendesk Tickets a tag `ai-agent-replied` is added to the ticket.
+
+{% hint style="info" %}
+If the ticket has been replied to in notes mode the tag will be `ai-agent-replied-note` instead.
+{% endhint %}
 
 When a ticket is replied to by a customer (if they need more help for instance) then the tag `human-handover-requested` is added to the ticket.&#x20;
 
