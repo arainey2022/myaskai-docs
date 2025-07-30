@@ -240,6 +240,20 @@ Yes, your AI agent will use responses given by customers to workflow questions a
 
 This is a great way to improve the accuracy of your AI agent's responses and ensure a better user experience.
 
+### Can I delay my Intercom email replies to make them seem more 'human'?
+
+Yes, you can delay your Intercom email replies to make them seem more human.
+
+{% hint style="info" %}
+Setting the delay will only be for the first reply in the chain.
+{% endhint %}
+
+Go to **Channels > Intercom > First email reply delay** and specify the number of minutes you want the AI agent to wait before sending the reply.
+
+When the time period is up the response will then be sent.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="540"><figcaption></figcaption></figure>
+
 ### Can I stop people speaking to a person on their first message on Intercom?
 
 You can prevent "instant" human handover on the 1st message in a conversation on Intercom by navigating to **Channels > Intercom** and then toggling the "_Ask for more information before handover_" feature.

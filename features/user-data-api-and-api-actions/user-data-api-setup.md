@@ -23,7 +23,7 @@ This API, provided by your company, allows us to retrieve user information based
 
 3. Enter your **API endpoint URL**, **Authorization Header** (required) and **Authorization Header** Key (Required)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Enter a test user email address that will return a response when your Endpoint is called and click **Test User Data API,** you should then see your example response appear below.\
    You can retest this response until you are satisfied with the test data returned.

@@ -241,6 +241,20 @@ Yes, when you connect your Zendesk account to My AskAI, we will automatically im
 
 You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
 
+### Can I delay my Zendesk email replies to make them seem more 'human'?
+
+Yes, you can delay your Zendesk email replies to make them seem more human.
+
+{% hint style="info" %}
+Setting the delay will only be for the first reply in the chain.
+{% endhint %}
+
+Go to **Channels > Zendesk > Zendesk Tickets > First email reply delay** and specify the number of minutes you want the AI agent to wait before sending the reply.
+
+When the time period is up the response will then be sent.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="540"><figcaption></figcaption></figure>
+
 ### How can I stop the AI agent replying in Zendesk Tickets?
 
 To stop the AI agent replying in Zendesk tickets, just reply to the ticket yourself and the AI agent will automatically stop replying.
