@@ -5,7 +5,7 @@ description: >-
   you, on your behalf, to truly automate?
 ---
 
-# 🛠️ Tools
+# 🛠️ AI Actions (Tools)
 
 ### What are tools?
 
@@ -29,7 +29,7 @@ Your AI agent will understand the ticket it is answering and decide when it need
 
 ### How do tools differ from the User Data API?
 
-You can think of tools as 'action-orientated' (for example, [used for the above types of task](tools.md#what-can-tools-be-used-for)) and to be used for obtaining data that isn't specific to a user.
+You can think of tools as 'action-orientated' (for example, [used for the above types of task](ai-actions-tools.md#what-can-tools-be-used-for)) and to be used for obtaining data that isn't specific to a user.
 
 The [User Data API](../api-documentation/user-data-api.md) is to be used when you need to retrieve information or data about a specific user.
 

@@ -1,10 +1,8 @@
 ---
-description: >-
-  Looking to connect your AI agent to your back-end databases or let the agent
-  take actions automatically? Now you can
+description: Looking to connect your AI agent to your back-end databases? Now you can
 ---
 
-# 👤 User data API and API actions
+# 👤 User Data API
 
 ### Can I give my AI agent data on users?
 
@@ -32,7 +30,7 @@ Because of the way our architecture is set up (using silos) there is no risk of 
 
 ### Can I let my AI agent automatically take actions via API?
 
-Yes, your AI agent can take API actions automatically.
+Yes, your AI agent can take API actions automatically, it will do this using a slightly different process, you can read more about it here: [AI Actions (Tools)](../ai-actions-tools.md).
 
 If you are looking for your AI agent to automatically do things like:
 
