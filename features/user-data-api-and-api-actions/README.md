@@ -59,3 +59,7 @@ If you require user data for Zendesk Messaging, Gorgias Messaging, Freshchat or 
 If you can't see an option to "Connect live user data" in your Dashboard, it is likely because you are not using one of our supported integrations for live user data.
 
 [Check your integration is supported](./#which-integrations-can-i-use-the-user-data-api-with) before contacting our live chat support as only some integrations are currently supported.
+
+### How much does the User Data API cost?
+
+There is no cost for using the User Data API, it's usage is included in all plans.
