@@ -8,12 +8,6 @@ description: >-
 
 ### What happens if I go over or exceed my monthly conversation quota, limit or allowance?
 
-#### Essentials Plan
-
-If you are on an Essentials plan, then your AI agent will display a message saying that it is unavailable and that the user should choose the "Talk to a person" option.
-
-You can then choose to either upgrade to a Pro plan or wait until the quote resets at the start of the next billing cycle.
-
 #### Pro Plan
 
 If you are on a Pro plan, then you have "Flex" turned pricing turned on (this cannot be turned off).&#x20;

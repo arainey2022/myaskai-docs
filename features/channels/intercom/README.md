@@ -288,3 +288,9 @@ To pause or temporarily pause AI replies or notes in Intercom go to Channels > I
 <figure><img src="../../../.gitbook/assets/image (60) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.
+
+### Can I turn off the "Just thinking..." or "Just having a think..." messages in Intercom?
+
+Yes, you can turn off the "Just thinking" or "Just having a think" messages.
+
+Just go to **Channels > Intercom > Other Settings** and toggle the "Hide the "just thinking" message to off.

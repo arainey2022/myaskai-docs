@@ -53,6 +53,7 @@
   * [❓ Knowledge Gaps](features/improve/knowledge-gaps.md)
   * [🎯 Guidance](features/improve/guidance.md)
   * [📝 Custom Answers](features/improve/custom-answers.md)
+  * [☑️ Test](features/improve/test.md)
   * [📊 Content Usage](features/improve/content-usage.md)
   * [🔍 Inspect & Logs](features/improve/inspect-and-logs.md)
 * [🔓 Private (Internal) mode](features/private-internal-mode.md)

@@ -47,11 +47,10 @@ Invited team members cannot signup with Google sign in, they must use magic-link
 
 The price will depend on your plan, see the table below, note that prices are monthly, even if you are on an Annual plan:
 
-| Plan       | Team access        |
-| ---------- | ------------------ |
-| Essentials | $25/month per seat |
-| Pro        | Unlimited seats    |
-| Enterprise | Unlimited seats    |
+| Plan       | Team access     |
+| ---------- | --------------- |
+| Pro        | Unlimited seats |
+| Enterprise | Unlimited seats |
 
 ### Can I share a link to the AI agent with my team?
 

@@ -2,6 +2,7 @@
 description: >-
   While we do not have a native integration with Zoho (SalesIQ), you can still
   integrate your AI agent, although you may need the help of a developer.
+hidden: true
 ---
 
 # Zoho (SalesIQ)

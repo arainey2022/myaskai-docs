@@ -14,7 +14,6 @@ On all paid plans there is no limit (subject to fair use) to the number of pages
 
 | Plan       | Page Limit |
 | ---------- | ---------- |
-| Essentials | Unlimited  |
 | Pro        | Unlimited  |
 | Enterprise | Unlimited  |
 

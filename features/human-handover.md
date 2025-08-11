@@ -23,7 +23,7 @@ Human handover works differently depending on whether you are using:
 
 * One of our native live chat integrations:
   * Learn more about [Intercom](channels/intercom/#how-does-human-handover-work-when-using-the-intercom-messenger-integration) handover
-  * Learn more about [Zendesk](channels/zendesk/) (messenger and tickets) handover
+  * Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
   * Learn more about [Freshchat](channels/freshchat.md) handover
   * Learn more about [Freshdesk](channels/freshdesk.md) handover
   * Learn more about [HubSpot](channels/hubspot.md) handover&#x20;
@@ -34,15 +34,10 @@ Human handover works differently depending on whether you are using:
 We currently support the following live chat services:
 
 * [Intercom](channels/intercom/)
-* LiveChat
-* Tawk
 * [Zendesk](channels/zendesk/) (Messenger and Tickets)
-* Crisp
 * [HubSpot](channels/hubspot.md)
-* Zoho (SalesIQ)
 * [Freshchat](channels/freshchat.md) by Freshworks
 * [Freshdesk](channels/freshdesk.md)
-* Tidio
 * Email (also can be used so you can create a ticket in another system)
 * Link (e.g. URL to your help docs or a contact form)
 
@@ -55,13 +50,7 @@ The information passed over with human handover is dependent on the live chat wi
 * Email handover = the email address can be passed into the live chat widget (if [email capture](lead-email-capture.md) is turned on)
 * Conversation summary = the user will always be able to generate a summary of their conversation, it is just whether that summary can be automatically passed over to the widget or whether they will have to copy and paste the summary that is the distinction
 
-<table><thead><tr><th width="188">Live chat provider</th><th width="174" data-type="checkbox">Human handover?</th><th width="161" data-type="checkbox">Email handover?</th><th>Conversation summary<select><option value="uWs7AgXNcdFm" label="Automated" color="blue"></option><option value="dT1X6MF4tSw9" label="Copy + Paste" color="blue"></option></select></th></tr></thead><tbody><tr><td>Intercom</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>LiveChat</td><td>true</td><td>true</td><td><span data-option="dT1X6MF4tSw9">Copy + Paste</span></td></tr><tr><td>Tawk</td><td>true</td><td>false</td><td><span data-option="dT1X6MF4tSw9">Copy + Paste</span></td></tr><tr><td>Zendesk (Messenger + Tickets)</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Crisp</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>HubSpot</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Zoho (SalesIQ)</td><td>true</td><td>false</td><td><span data-option="dT1X6MF4tSw9">Copy + Paste</span></td></tr><tr><td>Freshchat</td><td>true</td><td>false</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Freshdesk</td><td>true</td><td>false</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Tidio</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr></tbody></table>
-
-### Human handover with the My AskAI widget
-
-{% embed url="https://www.loom.com/share/cdefb669fe0541f795d19c32fdaf4f51" %}
-
-<figure><img src="../.gitbook/assets/image (458).png" alt=""><figcaption></figcaption></figure>
+<table><thead><tr><th width="188">Live chat provider</th><th width="174" data-type="checkbox">Human handover?</th><th width="161" data-type="checkbox">Email handover?</th><th>Conversation summary<select><option value="uWs7AgXNcdFm" label="Automated" color="blue"></option><option value="dT1X6MF4tSw9" label="Copy + Paste" color="blue"></option></select></th></tr></thead><tbody><tr><td>Intercom</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Zendesk (Messaging + Tickets)</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>HubSpot</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Freshchat</td><td>true</td><td>false</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Freshdesk</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr><tr><td>Gorgias</td><td>true</td><td>true</td><td><span data-option="uWs7AgXNcdFm">Automated</span></td></tr></tbody></table>
 
 ### When will it be handed over to a human?
 

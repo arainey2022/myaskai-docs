@@ -141,6 +141,12 @@ To take control from the AI agent when it is replying in Gorgias, you can either
 
 Unfortunately, it is currently not possible to use Gorgias triage steps or flows with your AI agent.
 
+### Can I turn off the "Just thinking..." or "Just having a think..." messages in Gorgias?
+
+Yes, you can turn off the "Just thinking" or "Just having a think" messages.
+
+Just go to **Channels > Gorgias > Other Settings** and toggle the "Hide the "just thinking" message to off.
+
 ### How do I remove my Gorgias AI agent?
 
 1. Login to your Dashboard and go to _Channels_.&#x20;

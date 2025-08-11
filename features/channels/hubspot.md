@@ -176,7 +176,14 @@ To stop your AI agent from replying to a specific set of phrases, share with us 
 
 By default your AI agent in HubSpot will reply to messages sent to all channels in your HubSpot.
 
-However, you can also select for it to only reply to specific channels, this could be Live Chat, Facebook Messenger, Email, WhatsApp, SMS or your Customer Portal Thread.
+However, you can also select for it to only reply to specific channels, this could be:
+
+* Live Chat
+* Facebook Messenger
+* Email
+* WhatsApp
+* SMS or&#x20;
+* Customer Portal Thread
 
 To update the channels your AI agent responds to, go to _**Dashboard > Channels > HubSpot**_ and then select your active channels under "**Activate & configure your AI agent".**
 
@@ -189,3 +196,9 @@ To pause or temporarily pause AI replies or notes in HubSpot go to **Channels > 
 <figure><img src="../../.gitbook/assets/image (60) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.
+
+### Can I turn off the "Just thinking..." or "Just having a think..." messages in HubSpot?
+
+Yes you can turn off the "Just thinking" or "Just having a think" messages.
+
+Just go to **Channels > HubSpot > Other Settings** and toggle the "Hide the "just thinking" message to off.

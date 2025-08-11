@@ -211,6 +211,12 @@ It will retain all the [same features of the Freshchat agent](freshchat.md#how-c
 
 You can use the My AskAI Freshchat integration as long as you are on a Freshchat Pro plan or above.
 
+### Can I turn off the "Just thinking..." or "Just having a think..." messages in Freshchat?
+
+Yes you can turn off the "Just thinking" or "Just having a think" messages.
+
+Just go to **Channels > Freshchat > Other Settings** and toggle the "Hide the "just thinking" message to off.
+
 ### How can I pause or temporarily turn off AI replies or notes in Freshchat?
 
 To pause or temporarily pause AI replies or notes in Freshchat go to **Channels > Freshchat** then scroll to the toggle for "Pause AI agent".

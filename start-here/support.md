@@ -9,7 +9,6 @@ description: >-
 
 | Plan       | Support Options                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Essentials | <ul><li>AI Support Agent</li><li>Live Chat</li><li>Email</li></ul>                                                                                                                                |
 | Pro        | <ul><li>AI Support Agent</li><li>Priority Live Chat</li><li>Priority Email (&#x3C;24hr business day response)</li><li>Zoom/Meet/Teams</li></ul>                                                   |
 | Enterprise | <ul><li>AI Support Agent</li><li>Priority Live Chat</li><li>Priority Email (&#x3C;24hr response)</li><li>Zoom/Meet/Teams</li><li>Slack Connect Channel</li><li>Customer Success Manager</li></ul> |
 
