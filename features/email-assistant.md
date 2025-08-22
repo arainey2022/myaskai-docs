@@ -37,6 +37,10 @@ You can have your AI email assistant [auto-respond to things for you](email-assi
 Your AI email assistant will only respond to the 1st email from a user in a thread/chain, it will not have a "back and forth" conversation with them.
 {% endhint %}
 
+{% hint style="info" %}
+The email assistant will not create draft emails, it will directly send emails on your behalf, either for emails you specifically choose (Manual assist) or for all emails (Automatic reply)
+{% endhint %}
+
 ### Email assistant - Modes
 
 <figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
@@ -137,7 +141,7 @@ Forwarding an email to this address will not send any response to your customers
 
 <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-2. Click "Forward a test email", a draft email will pop-up, send this email as it is, and return to My AskAI.
+2. Click "Forward a test email", an email will pop-up, send this email as it is, and return to My AskAI.
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
