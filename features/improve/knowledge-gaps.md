@@ -56,6 +56,12 @@ To connect your Zendesk or Intercom tickets so your AI agent can draft knowledge
 Note that while historic tickets from Zendesk and Intercom can be used to generate knowledge snippets (custom answers), they cannot be used as a knowledge source to directly answer customer questions from.
 {% endhint %}
 
+### Can I choose which historic Zendesk or Intercom tickets are used to draft knowledge snippets?&#x20;
+
+You cannot choose (e.g. by date, filter or user) which historic Zendesk or Intercom tickets are used to draft knowledge snippets.&#x20;
+
+We will take a sample of your recently closed tickets each month.
+
 {% hint style="info" %}
 To remove tickets, please send us a message via our live chat.
 {% endhint %}

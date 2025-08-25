@@ -21,3 +21,11 @@ You cannot disable flex pricing.
 ### Can I limit the number of conversations asked by employees?
 
 There are no ways to currently limit conversations from employees, if this is an issue for you, please contact us via chat.
+
+### Where can I view my current month's conversation usage?
+
+You can view your current month's conversation usage by going to Account Settings, from here you will see how many conversations you have consumed in the current month and any additional costs for overages.
+
+{% hint style="info" %}
+In your 30 day trial, there is no limit to the number of conversations.
+{% endhint %}
