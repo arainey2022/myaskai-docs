@@ -35,6 +35,6 @@ _**Option A**_
 2. Select _\</> Edit code._
 3. In the _Search files..._ search field, search "head".
 4. Select the filtered field that says _\</> header.liquid_
-5. In the code window on the right-hand side, in the line just above where it says \<style>, paste the code snippet from AskAI you obtained by following the instructions referred to in the previous Step 1.
+5. In the code window on the right-hand side, in the line just above where it says \<style>, paste the code snippet from My AskAI you obtained by following the instructions referred to in the previous Step 1.
 6. Click _Save._
 7. Preview your site and try out your agent.

@@ -14,7 +14,6 @@ Conversation limits are at an overall account level, i.e. they are conversations
 
 | Plan       | Number of conversations                     |
 | ---------- | ------------------------------------------- |
-| Essentials | 200                                         |
 | Pro        | 1,000 + $0.10 per conversation beyond limit |
 | Enterprise | Prices upon request                         |
 

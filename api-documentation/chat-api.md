@@ -8,7 +8,7 @@ Each message object has a **role** (user or assistant) and **content**.&#x20;
 
 In the example below you can see a short conversation between a user and an AI agent.&#x20;
 
-The message from the user has the **role: user** and all replies from the AskAI have the **role: assistant**.
+The message from the user has the **role: user** and all replies from the My AskAI have the **role: assistant**.
 
 {% openapi src="../.gitbook/assets/chat.yaml" path="/ask-ai-chat" method="post" expanded="true" %}
 [chat.yaml](../.gitbook/assets/chat.yaml)

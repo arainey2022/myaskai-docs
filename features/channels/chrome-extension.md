@@ -1,7 +1,7 @@
 ---
 description: >-
-  Agents can use our AskAI Chrome extension to get AI answers wherever they're
-  speaking to customers.
+  Agents can use our My AskAI Chrome extension to get AI answers wherever
+  they're speaking to customers.
 ---
 
 # Chrome Extension

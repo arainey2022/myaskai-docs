@@ -61,7 +61,7 @@ You can create a separate account for this if you’d like to customise the name
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-04-18 at 10.16.07.png" alt="" width="563"><figcaption></figcaption></figure>
 
-6. Your AskAI is now connected to HubSpot and will be [providing "note" responses](hubspot.md#how-to-enable-draft-ai-support-replies-for-agent-within-hubspot), that only agents can see. You can [set the AI agent to reply directly to customers](hubspot.md#how-to-set-up-and-activate-the-fully-automated-ai-support-agent).
+6. Your My AskAI is now connected to HubSpot and will be [providing "note" responses](hubspot.md#how-to-enable-draft-ai-support-replies-for-agent-within-hubspot), that only agents can see. You can [set the AI agent to reply directly to customers](hubspot.md#how-to-set-up-and-activate-the-fully-automated-ai-support-agent).
 
 ### How can I use my AI support agent within HubSpot?
 

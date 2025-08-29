@@ -22,7 +22,7 @@ By default, all files or pages uploaded via connections are marked "Public". [Yo
 When in Public mode, your AI support agent will not answer questions that require Private content.
 
 {% hint style="info" %}
-If files or pages connected are marked "Public" in your AskAI, no links to internal content will be shared as references when displayed publicly (i.e. as a widget on your site), only when used privately.
+If files or pages connected are marked "Public" in your My AskAI, no links to internal content will be shared as references when displayed publicly (i.e. as a widget on your site), only when used privately.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
@@ -61,7 +61,7 @@ More connections are coming soon, please let us know if you have a specific conn
 6. You will then be shown a page or file picker for your integration.
 7. Select the files or pages you wish to connect to your AI support agent.
 8. Confirm your selection.
-9. These files are now connected to your AskAI (you can close the file/page picking tab and navigate back to your My AskAI Dashboard to see them being added).
+9. These files are now connected to your My AskAI (you can close the file/page picking tab and navigate back to your My AskAI Dashboard to see them being added).
 
 {% hint style="info" %}
 If you select to add a folder or a page with subpages then the connection will sync all files within that folder and any folders (and their content) inside that folder. The same applies for "pages", all linked pages or subpages will also be added.

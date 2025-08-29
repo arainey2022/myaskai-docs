@@ -59,7 +59,7 @@ To tweak how your widget behaves, go to _**Channels > Add to your website:**_
 
 #### Chat embed
 
-* Live chat widget visibility: You can choose if you want us to hide your live chat widget by default, until someone asks to talk to a person with your AskAI.
+* Live chat widget visibility: You can choose if you want us to hide your live chat widget by default, until someone asks to talk to a person with your My AskAI.
 
 ### Can I modify the tone or the way the AI responds?
 

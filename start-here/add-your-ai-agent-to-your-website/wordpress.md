@@ -22,7 +22,7 @@ You will need a paid WordPress account in order to add your chatbot to your site
 5. Select, install and activate the _WPCode Lite_ plugin
 6. In the menu on the left-hand side you should now see an item for  _Code Snippets,_ in the expanded menu that appears, click _+ Add Snippet_
 7. Click on the _Add Your Custom Code (New Snippet)_ option and _Use Snippet_
-8. You'll then be shown an area to add code (the _Code Preview_), this is where you should paste the code snippet from AskAI you obtained by following the instructions referred to in Step 1
+8. You'll then be shown an area to add code (the _Code Preview_), this is where you should paste the code snippet from My AskAI you obtained by following the instructions referred to in Step 1
 9. Once you have pasted the code snippet, rename the snippet to be something recognizable (e.g. "My AskAI")
 10. Click the _Save Snippet_ button on the right-hand side
 11. Click the toggle next to the _Save Snippet_ button from "Inactive" to "Active", then click _Update_

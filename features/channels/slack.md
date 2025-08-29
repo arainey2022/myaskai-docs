@@ -24,11 +24,11 @@ Available as an add-on for paid plans
 &#x20;       [![Add to Slack](https://platform.slack-edge.com/img/add_to_slack.png)](https://slack.com/oauth/v2/authorize?client_id=3639755760257.5036828617799\&scope=channels:history,channels:join,chat:write,commands,groups:history,im:history\&user_scope=)\
 
 
-3. **Get your AskAI's ID and API Key**\
+3. **Get your My AskAI's ID and API Key**\
    \
-   Go to _**Channels > Slack & Teams**_ and click the Slack icon then copy your AskAI's **ID** and **API Key**.\
+   Go to _**Channels > Slack & Teams**_ and click the Slack icon then copy your My AskAI's **ID** and **API Key**.\
 
-4. **Add your AskAI's ID and API Key to Slack**
+4. **Add your My AskAI's ID and API Key to Slack**
    1. Select the My AskAI app within Slack&#x20;
    2. Select 'Connect My AskAI'
    3. Input the ID and API Key, from step 3, into the popup within Slack

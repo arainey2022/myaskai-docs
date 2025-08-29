@@ -28,13 +28,13 @@ Add My AskAI to 'a team' and then add to any 'channel'.
 
 <figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
-2. **Get your AskAI's ID and API Key**
+2. **Get your My AskAI's ID and API Key**
 
-Go to _**Channels > Slack & Teams**_ and click the Teams icon then copy your AskAI's **ID** and **API Key**.
+Go to _**Channels > Slack & Teams**_ and click the Teams icon then copy your My AskAI's **ID** and **API Key**.
 
 <figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
-3. **Save your AskAI's ID and API Key within Teams**
+3. **Save your My AskAI's ID and API Key within Teams**
 
 You should be automatically sent a welcome message.&#x20;
 

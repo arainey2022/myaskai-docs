@@ -1,6 +1,6 @@
 ---
 description: >-
-  Your AskAI won't be able to answer if you haven't given it the knowledge
+  Your My AskAI won't be able to answer if you haven't given it the knowledge
   (content) it needs.
 ---
 

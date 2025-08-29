@@ -20,7 +20,7 @@ Create a [free Zapier account](https://zapier.com/sign-up) if you don't already 
 
 2. **Create a Zap**
 
-You can use AskAI as an action from any trigger, you input a question, and your AskAI returns an answer.&#x20;
+You can use My AskAI as an action from any trigger, you input a question, and your My AskAI returns an answer.&#x20;
 
 If you need some inspiration on what to build, you could:
 
@@ -29,7 +29,7 @@ If you need some inspiration on what to build, you could:
 * Add an answer to new FAQs that get added to a Google Doc or Airtable from your team
 * You can do almost anything you can think of!
 
-3. **Add AskAI, as an action, to your Zap**
+3. **Add My AskAI, as an action, to your Zap**
 
 Within Zapier you can search for **My AskAI** as an **Action** to add to your Zap.
 
@@ -37,7 +37,7 @@ Within Zapier you can search for **My AskAI** as an **Action** to add to your Za
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (261).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-4. **Connect to your AskAI**
+4. **Connect to your My AskAI**
 
 Go to _**Channels > API access (incl. Zapier)**_ then copy your My AskAI's **ID** and **API Key**.
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Getting started with our API is quick and easy. With the My AskAI API you can
-  ask questions to your AskAI to build your apps or workflows.
+  ask questions to your My AskAI to build your apps or workflows.
 ---
 
 # API Docs Introduction

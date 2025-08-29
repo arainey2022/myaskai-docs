@@ -1,6 +1,6 @@
 ---
 description: >-
-  Your AskAI is specifically controlled so it doesn't have any external
+  Your My AskAI is specifically controlled so it doesn't have any external
   information to answer questions.
 ---
 
