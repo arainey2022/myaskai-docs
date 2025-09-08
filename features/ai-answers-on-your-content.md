@@ -62,7 +62,7 @@ While it is possible to train your AI support agent on your support tickets on h
 * Knowledge in tickets can very quickly become dated, an answer about a feature 1, 3 or 6 months ago may no longer be relevant today so customers will get poor-quality responses that may be inaccurate.
 * If you have a large volume of tickets then managing this knowledge can quickly become a very difficult task as you look through the thousands of agent responses to work out which are still relevant, and which you need to update.
 
-If you want to train your AI on tickets, we recommend that you create a curated list of customer questions and agent responses as a 2 column spreadsheet (ideally added via one of our [Connections](connections/) so it will update every 24 hours as you update it) and add this to your AI agent's knowledge.
+If you want to train your AI on tickets, we recommend that you create a curated list of customer questions and agent responses as a document (ideally added via one of our [Connections](connections/) so it will update every 24 hours as you update it) and add this to your AI agent's knowledge.
 
 Ultimately, the golden knowledge source should be your help documentation and knowledge articles, as these will have been verified, reviewed, and kept up to date. Keeping them updated also means that the customers who don't use your chat still benefit from the updated knowledge.
 

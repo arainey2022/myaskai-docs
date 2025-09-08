@@ -3,6 +3,7 @@ description: >-
   Your email assistant will use your AI assistant's knowledge to automatically
   respond to your support emails on your behalf, users can still contact a human
   if it can't answer.
+hidden: true
 ---
 
 # 📨 Email assistant

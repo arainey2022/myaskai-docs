@@ -30,10 +30,6 @@ description: >-
 
 {% embed url="https://youtu.be/jMK6gYAaBZ0?si=d9Ka45gGyFpPuDBe" %}
 
-### How to Create An AI Email Assistant
-
-{% embed url="https://youtu.be/WG3-qUpZL9s?si=YHOR8J4cgWLwvti2" %}
-
 ### How To Create a Lead (Email) Capture Webhook
 
 {% embed url="https://www.youtube.com/watch?index=8&list=PLNWy3-tZFZ97MtncIjPBJ9aQZpaGA4thC&t=7s&v=mbc8iASV-Ek" %}

@@ -10,9 +10,9 @@ To do this, there are a few options:
 
 1. If you are using Zendesk, and have connected your Zendesk account, we will import your Zendesk Macros as [Custom Answers](../../features/improve/#custom-answers) automatically.
 2. If you want the AI to use the responses verbatim (exactly as written), then you should add them as [Custom Answers](../../features/improve/#how-do-i-create-a-custom-answer).
-3. If you want the AI to just refer to them as another knowledge source, and you don't need the responses to be exactly as written, then you can create a two-column spreadsheet with column headers: "Question" and "Answer" with the macros underneath. \
+3. If you want the AI to just refer to them as another knowledge source, and you don't need the responses to be exactly as written, then you can create and upload a document with the macros in it. \
    \
-   You can then add this as a knowledge source either by uploading directly as a file, or (more efficiently) by adding as a synced Google Sheet or Excel sheet with our [Connections](../../features/connections/).
+   You can then add this as a knowledge source either by uploading directly as a file, or (more efficiently) by adding as a synced Google Doc with our [Connections](../../features/connections/).
 
 If you have a large number of macros that need to be added, get in touch with us via our chat and we will help you to import them from your existing platform.
 
