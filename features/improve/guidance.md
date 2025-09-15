@@ -38,7 +38,9 @@ You should use this for instructions like:
 
 This guidance should be used to define follow-up questions that should be asked by the AI agent in certain scenarios in order to gather more information to better answer questions.
 
-Only one piece of the context & clarification guidance will be used in each response by your AI agent.
+{% hint style="warning" %}
+Only one piece of the context & clarification guidance or handover & escalation guidance will be used in each response by your AI agent. Multiple pieces of context & clarification guidance cannot be used together.
+{% endhint %}
 
 You should use this for instructions like:
 
@@ -52,7 +54,9 @@ You should use this for instructions like:
 
 This guidance should be used so your AI agent knows when a specific topic of conversation should be handed over to one of your human agents for resolution.
 
-Only one piece of the handover guidance will be used in each response by your AI agent.
+{% hint style="warning" %}
+Only one piece of the handover & escalation or context & clarification guidance will be used in each response by your AI agent. Multiple pieces of handover & escalation guidance cannot be used together.
+{% endhint %}
 
 You should use this for instructions like:
 
