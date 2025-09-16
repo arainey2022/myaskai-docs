@@ -257,7 +257,7 @@ Go to **Channels > Zendesk > Zendesk Tickets > First email reply delay** and spe
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### How can I stop the AI agent replying in Zendesk Tickets?
 

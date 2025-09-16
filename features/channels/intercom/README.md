@@ -252,7 +252,7 @@ Go to **Channels > Intercom > First email reply delay** and specify the number o
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### Can I stop people speaking to a person on their first message on Intercom?
 

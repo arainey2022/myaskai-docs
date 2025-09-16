@@ -72,11 +72,11 @@ By default your Freshdesk Ticket AI agent will respond to Email and Web form tic
 
 When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I know what the Freshdesk Ticket AI agent has replied to and what has been handed to a human agent?
 
