@@ -3,6 +3,7 @@ description: >-
   Here's a quick guide that will show you how to add your AI support agent to
   your website so you can bring AI customer support to your customers and
   visitors.
+hidden: true
 ---
 
 # ➕ Add your AI agent to your website

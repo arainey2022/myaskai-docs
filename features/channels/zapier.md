@@ -2,6 +2,7 @@
 description: >-
   Connect your AI support agent to Zapier so your team can query from over 5,000
   different applications and get instant AI answers.
+hidden: true
 ---
 
 # Zapier

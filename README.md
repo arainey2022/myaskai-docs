@@ -50,6 +50,4 @@ Co-founders, My AskAI
 [reviews.md](start-here/reviews.md)
 {% endcontent-ref %}
 
-p.s. If you ever get stuck you can always ask our very own AI support agent a question below or contact us via our chat :point\_down:
-
-{% embed url="https://myaskai.com/share-ask-ai?i=vkvaeSlDOLgADT71TTUAVCFuLifTTG&n=My-AskAI" %}
+p.s. If you ever get stuck you can always ask our very own AI agent in our chat in the corner of the page
