@@ -36,7 +36,7 @@ Ensure that you have turned off Fin before completing these steps.
 {% endhint %}
 
 1. Login to your Dashboard and go to _Channels_.&#x20;
-2. Once enabled you will see "Add to live chat apps" appear, click on the Intercom icon.
+2. Once enabled you will see the section "Add to your existing support tools e.g. Intercom" appear, click on the Intercom icon.
 
 <figure><img src="../../../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
 

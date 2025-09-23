@@ -7,9 +7,9 @@ description: >-
 
 # ☑️ Test
 
-Our Test feature takes a sample of your historic support tickets and previous questions asked (if you have integrated [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/)) and/or lets you add in your own test question set and shows you how your AI agent will respond to those questions, so you can see quickly how it will perform on day 1.
+Our batch Test feature takes a sample of your historic support tickets and previous questions asked (if you have integrated [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/)) and/or lets you add in your own test question set and shows you how your AI agent will respond to those questions, so you can see quickly how it will perform on day 1.
 
-You can find Test in your Dashboard under **Improve > Test**.
+You can find the batch testing feature in your Dashboard under **Improve > Test**.
 
 <figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
@@ -17,7 +17,7 @@ You can find Test in your Dashboard under **Improve > Test**.
 
 There are 2 ways you can add test questions to your AI agent to evaluate its performance:
 
-1. If you have your [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/) connected then when you are on the Test page you will see an option to "Create from previous Intercom/Zendesk conversations". \
+1. If you have your [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/) connected then when you are on the batch Test page you will see an option to "Create from previous Intercom/Zendesk conversations". \
    \
    Clicking this button will import a sample of up to 50 historic conversations or tickets to use as your test question set.
 

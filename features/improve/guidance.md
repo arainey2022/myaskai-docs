@@ -218,7 +218,7 @@ To see which guidance is used for a response by your AI agent, you can inspect t
 To do this:
 
 1. Go to your Dashboard.
-2. Go to **Improve > Inspect & Debug**.
+2. Go to **Improve > Inspect & Logs**.
 3. Search for your conversation (by email, date, ticket ID, or content).
 4. Click on the conversation and scroll to the response, you should see a section called "Guidance followed" which will tell you which guidance was used in that response.
 

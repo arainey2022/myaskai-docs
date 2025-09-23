@@ -3,6 +3,7 @@ description: >-
   Here we cover common questions and fixes for issues connecting your live chat
   provider (excluding Intercom, HubSpot and Zendesk), to your AI agent using our
   human handover feature.
+hidden: true
 ---
 
 # 🗣️ Issue connecting your live chat widget
