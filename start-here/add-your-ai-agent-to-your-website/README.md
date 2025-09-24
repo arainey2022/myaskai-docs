@@ -9,7 +9,7 @@ hidden: true
 # ➕ Add your AI agent to your website
 
 {% hint style="success" %}
-You can also add your AI agent to your site using our native integrations with [Intercom](../../features/channels/intercom/), [Zendesk](../../features/channels/zendesk/zendesk-messaging.md) and [HubSpot](../../features/channels/hubspot.md) in which case you don't need to embed any code into your site, you just need to use the apps from the respective marketplaces.
+You can also add your AI agent to your site using our native integrations with [Intercom](../../features/channels/intercom/), [Zendesk](../../features/channels/zendesk/zendesk-messaging.md) and [HubSpot](../../features/channels/hubspot/) in which case you don't need to embed any code into your site, you just need to use the apps from the respective marketplaces.
 {% endhint %}
 
 See how our AI agents are being used to deflect tickets and bring down response times at Zeffy:

@@ -26,7 +26,7 @@ Human handover works differently depending on whether you are using:
   * Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
   * Learn more about [Freshchat](channels/freshchat.md) handover
   * Learn more about [Freshdesk](channels/freshdesk.md) handover
-  * Learn more about [HubSpot](channels/hubspot.md) handover&#x20;
+  * Learn more about [HubSpot](channels/hubspot/) handover&#x20;
 * [Our AI widget](human-handover.md#human-handover-with-the-my-askai-widget)
 
 ### Which live chat services do you support for human handover?
@@ -35,7 +35,7 @@ We currently support the following live chat services:
 
 * [Intercom](channels/intercom/)
 * [Zendesk](channels/zendesk/) (Messenger and Tickets)
-* [HubSpot](channels/hubspot.md)
+* [HubSpot](channels/hubspot/)
 * [Freshchat](channels/freshchat.md) by Freshworks
 * [Freshdesk](channels/freshdesk.md)
 * Email (also can be used so you can create a ticket in another system)

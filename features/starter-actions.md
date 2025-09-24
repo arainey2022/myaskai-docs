@@ -7,7 +7,7 @@ description: >-
 # ⚡ Starter actions
 
 {% hint style="warning" %}
-This feature is only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot.md) integrations you will have to set up via workflows or chatflows within the respective platforms.
+This feature is only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/) integrations you will have to set up via workflows or chatflows within the respective platforms.
 {% endhint %}
 
 {% embed url="https://www.loom.com/share/0a5c7676040c4678803ce4a5f395074b" %}

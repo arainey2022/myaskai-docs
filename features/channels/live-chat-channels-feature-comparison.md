@@ -24,8 +24,8 @@ For full details on how to use each of these features check out the respective i
 [zendesk-messaging.md](zendesk/zendesk-messaging.md)
 {% endcontent-ref %}
 
-{% content-ref url="hubspot.md" %}
-[hubspot.md](hubspot.md)
+{% content-ref url="hubspot/" %}
+[hubspot](hubspot/)
 {% endcontent-ref %}
 
 {% content-ref url="gorgias.md" %}

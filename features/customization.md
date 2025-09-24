@@ -8,7 +8,7 @@ description: >-
 # 🎨 Customization
 
 {% hint style="warning" %}
-These Customizations are only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot.md) integrations you will have to customize your widget within their respective platforms.
+These Customizations are only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/) integrations you will have to customize your widget within their respective platforms.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>

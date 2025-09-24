@@ -129,7 +129,7 @@ When a user tries to handover immediately they will be asked to provide more inf
 
 Yes, you can have multiple AI agents set-up to respond to your Zendesk Messaging.
 
-There are occasions where you may need to use separate AI agents, whether you have separate products or user groups, for example.
+There are occasions where you may need to use separate AI agents, whether you have separate brands, products or user groups, for example.
 
 In these instances, it can make sense to have separate agents responding, so you can set separate controls, guidance, or knowledge and ensure there is no risk of "mixing up" answers.
 
@@ -191,6 +191,10 @@ Refer to [Zendesk's instructions on how to get each channel set-up with your AI 
 ### How can I capture an email in Zendesk Messaging?
 
 If you are using the Zendesk integration we recommend you use Zendesk authentication to authenticate a user and pass their email into the Zendesk widget (this will then appear in My AskAI’s insight data as well).&#x20;
+
+### How is a user authenticated in Zendesk Messaging?
+
+To authenticate a user in Zendesk Messaging, so you can use [User Data API](../../user-data-api/) features, you must use Zendesk's widget authentication.
 
 ### How do I edit the Starter questions in the Zendesk Messaging widget?
 

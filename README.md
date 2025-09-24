@@ -34,8 +34,8 @@ Mike + Alex
 
 Co-founders, My AskAI
 
-{% content-ref url="start-here/create-your-ai-support-agent.md" %}
-[create-your-ai-support-agent.md](start-here/create-your-ai-support-agent.md)
+{% content-ref url="start-here/create-your-ai-customer-service-agent.md" %}
+[create-your-ai-customer-service-agent.md](start-here/create-your-ai-customer-service-agent.md)
 {% endcontent-ref %}
 
 {% content-ref url="start-here/full-product-demo.md" %}

@@ -34,6 +34,10 @@ Before adding a custom answer, think about whether it would make more sense to u
 
 ### How do I create a custom answer?
 
+{% hint style="info" %}
+For best results, write custom answers in English, they will be automatically translated into the user's language when answering questions.
+{% endhint %}
+
 To create a custom answer (or to correct a response):
 
 1. Go to **Knowledge > Custom answers** or go directly to **Improve**
@@ -75,6 +79,10 @@ To edit a custom answer:
 ### How do I edit an existing answer?
 
 To edit an existing answer your AI support agent is giving, [create a new custom answer](./#how-do-i-create-a-custom-answer) or knowledge snippet using the question you asked and your updated response.
+
+### Can I export custom answers?
+
+At this time it is not possible to export custom answers from the dashboard. If you need a download of these you can contact us to request this by asking to "Talk to a person".
 
 ### How can I see all my custom answers and knowledge snippets?
 

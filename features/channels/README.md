@@ -45,8 +45,8 @@ Try out My AskAI in your channels:
 [freshdesk.md](freshdesk.md)
 {% endcontent-ref %}
 
-{% content-ref url="hubspot.md" %}
-[hubspot.md](hubspot.md)
+{% content-ref url="hubspot/" %}
+[hubspot](hubspot/)
 {% endcontent-ref %}
 
 {% content-ref url="chrome-extension.md" %}

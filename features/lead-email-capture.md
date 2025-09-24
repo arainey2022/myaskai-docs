@@ -8,7 +8,7 @@ description: >-
 # 📩 Lead (Email) Capture
 
 {% hint style="info" %}
-The lead capture is available when using the My AskAI widget, if you are using one of our channels ([Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot.md)), you will use their respective lead capture features to collect email addresses.&#x20;
+The lead capture is available when using the My AskAI widget, if you are using one of our channels ([Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/)), you will use their respective lead capture features to collect email addresses.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>

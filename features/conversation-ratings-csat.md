@@ -12,7 +12,7 @@ Available on paid plans.
 {% endhint %}
 
 {% hint style="warning" %}
-This CSAT feature is only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot.md) integrations you will have to set up CSAT recording within the respective platforms.
+This CSAT feature is only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/) integrations you will have to set up CSAT recording within the respective platforms.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>

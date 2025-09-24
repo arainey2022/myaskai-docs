@@ -6,4 +6,4 @@ Take a set of questions or tickets that have been provided to your support befor
 
 If you share these questions via a spreadsheet with us (via live chat), we can also run them as a "batch" for you and share the results for you to review.
 
-Another, if you are using our integrations for [Intercom](../../features/channels/intercom/), [Zendesk](../../features/channels/zendesk/zendesk-tickets.md) or [HubSpot](../../features/channels/hubspot.md) are to use "Note" or "Comment" replies within those tools so you can see how the AI would respond without it responding directly to a customer.
+Another, if you are using our integrations for [Intercom](../../features/channels/intercom/), [Zendesk](../../features/channels/zendesk/zendesk-tickets.md) or [HubSpot](../../features/channels/hubspot/) are to use "Note" or "Comment" replies within those tools so you can see how the AI would respond without it responding directly to a customer.

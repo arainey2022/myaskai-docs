@@ -4,11 +4,11 @@ description: >-
   add it to your website in just a few minutes of hands' on setup time.
 ---
 
-# 🏗️ Create your AI support agent
+# 🏗️ Create your AI customer service agent
 
 ### **Step 1 - Choose your support tool and enter your email (<10 seconds)**
 
-To get started, click "Create your free AI agent", choose your current support tool or live chat provider, then click to continue with Google or Sign up (you must use a work email).
+To get started and create an account, click "Create your free AI agent" on our homepage, choose your current support tool or live chat provider, then click to continue with Google or Sign up (you must use a work email).
 
 <figure><img src="../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,6 @@ We'll ask you a few quick questions that will help tailor your set-up experience
 
 * How many support tickets do you receive each month?
 * How did you hear about us?
-* Where are your help docs?
 
 <figure><img src="../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 

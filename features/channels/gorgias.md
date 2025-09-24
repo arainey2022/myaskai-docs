@@ -141,11 +141,21 @@ To take control from the AI agent when it is replying in Gorgias, you can either
 
 Unfortunately, it is currently not possible to use Gorgias triage steps or flows with your AI agent.
 
+### I have multiple brands or email accounts, can I have the AI agent only respond to one in Gorgias?
+
+Yes, you can set your AI agent up so it only responds to specific emails or brands in Gorgias, to do this please get in touch with us by asking to "Talk to a person".
+
 ### Can I turn off the "Just thinking..." or "Just having a think..." messages in Gorgias?
 
 Yes, you can turn off the "Just thinking" or "Just having a think" messages.
 
 Just go to **Channels > Gorgias > Other Settings** and toggle the "Hide the "just thinking" message to off.
+
+### Can the AI agent respond to social media messages or comments (Instagram, Facebook/Meta Messenger) in Gorgias?
+
+Yes, you can set your AI agent to respond to your social media accounts too.
+
+Get in touch with us via chat and ask to "Talk to a person" and we'll help you set this up.
 
 ### How do I remove my Gorgias AI agent?
 

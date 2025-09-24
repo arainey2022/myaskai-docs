@@ -18,7 +18,7 @@ All of the conversations held with the AI are recorded and analysed for [insight
 
 But sometimes it is easier to just take the plunge and try it out yourself:
 
-{% content-ref url="../create-your-ai-support-agent.md" %}
-[create-your-ai-support-agent.md](../create-your-ai-support-agent.md)
+{% content-ref url="../create-your-ai-customer-service-agent.md" %}
+[create-your-ai-customer-service-agent.md](../create-your-ai-customer-service-agent.md)
 {% endcontent-ref %}
 

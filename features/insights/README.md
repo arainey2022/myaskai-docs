@@ -13,7 +13,7 @@ We wanted to make it easy to get deep insights into what your users are asking y
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to Use Your AI Support Agent's Insights
 
@@ -23,7 +23,7 @@ Here's how our Insights work:
 
 ### Conversations
 
-A conversation is a chat that a user has had with an AI agent within a session, or 2.5 messages if you are using one of our integrations (i.e. with [Intercom](../channels/intercom/), [Zendesk](../channels/zendesk/zendesk-messaging.md) or [HubSpot](../channels/hubspot.md)). Sessions are re-set after 1 hour. 1 conversation or chat can include multiple messages.
+A conversation is a chat that a user has had with an AI agent within a session, or 2.5 messages if you are using one of our integrations (i.e. with [Intercom](../channels/intercom/), [Zendesk](../channels/zendesk/zendesk-messaging.md) or [HubSpot](../channels/hubspot/)). Sessions are re-set after 1 hour. 1 conversation or chat can include multiple messages.
 
 You can review and re-read conversations at any time by clicking on a topic and selecting the conversation you want to review.
 
@@ -157,7 +157,11 @@ Note, that this data is for the last period from the date you have selected, you
 Insight, Conversation and Question Exports are only available on Pro plans and above.
 {% endhint %}
 
-To export conversational Insights, Conversation, Message History or Question data to Excel, you can click the export button in the top right of the Dashboard.
+To export conversational Insights, Conversation, Message History or Question data to Excel or Google Sheets, you can click the export button in the top right of the Dashboard.
+
+{% hint style="info" %}
+For best results, import the Exported data to Google Sheets, as Excel has a tendency to not be able to parse/read special characters.
+{% endhint %}
 
 This will allow you to choose to export Insight topics, Conversation, Message History or Questions between the two dates you choose into a CSV file that you can use for further analysis.
 

@@ -55,6 +55,10 @@ You will see a toggle under "AI agent access to customer data", if you toggle th
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
+### How do I upgrade my AI agent for Shopify?
+
+To upgrade to a paid plan for your AI agent when using the Shopify integration you must do this via the Shopify app store.
+
 ### How do I disconnect my Shopify store and all of content and user data from my AI agent?
 
 To disconnect your Shopify store and delete all of your content and user data uninstall the My AskAI app from the your Shopify admin panel within Shopify by going to:
