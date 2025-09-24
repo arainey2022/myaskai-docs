@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📊 Content Usage
 
 ### How can I see what content or knowledge is used most often in conversations?
