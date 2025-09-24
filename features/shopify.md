@@ -57,7 +57,9 @@ You will see a toggle under "AI agent access to customer data", if you toggle th
 
 ### How do I upgrade my AI agent for Shopify?
 
-To upgrade to a paid plan for your AI agent when using the Shopify integration you must do this via the Shopify app store.
+To upgrade to a paid plan for your AI agent when using the Shopify integration you must do this via the Shopify app store and you must be an admin for the Shopify store.
+
+If you want to move/upgrade from a monthly to an annual plan and are using our Shopify integration, contact us by asking to "Talk to a person" in our chat.
 
 ### How do I disconnect my Shopify store and all of content and user data from my AI agent?
 

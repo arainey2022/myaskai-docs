@@ -134,7 +134,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 ### How can I use my Freshdesk Ticket AI agent to reply to follow-up tickets?
 
-Once you have [installed your Freshdesk Ticket AI agent](freshdesk.md#how-to-connect-your-ai-agent-to-zendesk-tickets), you can also use your AI agent within the agent workspace to draft a reply to the customer's follow-up questions whenever you want.
+Once you have [installed your Freshdesk Ticket AI agent](freshdesk.md#how-to-connect-your-ai-agent-to-zendesk-tickets), you can also [install our Copilot extension](chrome-extension.md#how-do-i-install-the-chrome-extension-copilot) so you can use your AI agent within the agent workspace to draft a reply to the customer's follow-up questions whenever you want.
 
 To use it:
 
