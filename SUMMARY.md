@@ -51,6 +51,7 @@
 * [👤 User Data API](features/user-data-api/README.md)
   * [👤 User Data API setup](features/user-data-api/user-data-api-setup.md)
 * [🛠️ AI Actions (Tools)](features/ai-actions-tools.md)
+* [👷 Tasks](features/tasks.md)
 * [📈 Improve](features/improve/README.md)
   * [❓ Knowledge Gaps](features/improve/knowledge-gaps.md)
   * [🎯 Guidance](features/improve/guidance.md)
