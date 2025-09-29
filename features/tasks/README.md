@@ -65,3 +65,7 @@ To set up tasks, contact us by asking to "Talk to a person" and we will help you
 Tasks are currently only available to customers with 5,000 tickets/mo or more and Enterprise customers.
 {% endhint %}
 
+### How much do tasks cost?
+
+Tasks are priced at $0.10 per conversation or ticket, but you are only charged if the task has been used, so, if only 5% of your tickets require the task to be executed, then you'll only pay the $0.10 for those 5% of tickets.
+
