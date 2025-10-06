@@ -71,3 +71,6 @@ Tasks are currently only available to customers with 5,000 tickets/mo or more an
 
 Tasks are priced at $0.10 per conversation or ticket, but you are only charged if the task has been used, so, if only 5% of your tickets require the task to be executed, then you'll only pay the $0.10 for those 5% of tickets.
 
+### How do I use a handover within a Task?
+
+To instruct a handover within a Taskm use the phrase `{{handover}}` to reference the handover should be made e.g. “If they are refunding because of a safety issue then `{{handover}}`”

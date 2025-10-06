@@ -40,7 +40,7 @@ There are several reasons why you should use your My AskAI within Zendesk Ticket
 
 5. Enter your Zendesk sub-domain (you can find instructions on how to find your sub-domain [here](https://support.zendesk.com/hc/en-us/articles/4409381383578-Where-can-I-find-my-Zendesk-subdomain)) and click 'Connect your Zendesk account'.
 
-<figure><img src="../../../.gitbook/assets/image (405).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (516).png" alt="" width="540"><figcaption></figcaption></figure>
 
 6. Allow access to your Zendesk account
 

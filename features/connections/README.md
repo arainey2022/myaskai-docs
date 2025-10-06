@@ -39,9 +39,9 @@ You can currently connect the following knowledge sources to your AI agent (you 
 * Notion
 * Microsoft OneDrive (Personal and Business)
 * Dropbox
-* Zendesk Knowledge Base/Help Center
-* Intercom Knowledge Base/Help Center
-* Freshdesk Knowledge Base/Help Center
+* Zendesk Knowledge Base/Help Center (including behind a login)
+* Intercom Knowledge Base/Help Center (including behind a login)
+* Freshdesk Knowledge Base/Help Center (including behind a login)
 * Sharepoint
 * Confluence Knowledge Base
 * Salesforce
