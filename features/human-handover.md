@@ -19,15 +19,14 @@ Before any handover occurs, we use AI to summarize the conversation they have ha
 
 ### How does human handover work?
 
-Human handover works differently depending on whether you are using:
+Human handover works slightly differently depending on which of our native chat integrations you are using:
 
-* One of our native live chat integrations:
-  * Learn more about [Intercom](channels/intercom/#how-does-human-handover-work-when-using-the-intercom-messenger-integration) handover
-  * Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
-  * Learn more about [Freshchat](channels/freshchat.md) handover
-  * Learn more about [Freshdesk](channels/freshdesk.md) handover
-  * Learn more about [HubSpot](channels/hubspot/) handover&#x20;
-* [Our AI widget](human-handover.md#human-handover-with-the-my-askai-widget)
+* Learn more about [Intercom](channels/intercom/#how-does-human-handover-work-when-using-the-intercom-messenger-integration) handover
+* Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
+* Learn more about [Freshchat](channels/freshchat.md) handover
+* Learn more about [Freshdesk](channels/freshdesk.md) handover
+* Learn more about [HubSpot](channels/hubspot/) handover&#x20;
+* Learn more about [Gorgias](channels/gorgias.md#how-does-human-handover-work-when-using-the-gorgias-integration-for-email-tickets) handover
 
 ### Which live chat services do you support for human handover?
 
@@ -38,10 +37,8 @@ We currently support the following live chat services:
 * [HubSpot](channels/hubspot/)
 * [Freshchat](channels/freshchat.md) by Freshworks
 * [Freshdesk](channels/freshdesk.md)
-* Email (also can be used so you can create a ticket in another system)
-* Link (e.g. URL to your help docs or a contact form)
-
-(If your live chat provider is missing, contact us via chat).
+* [Gorgias](channels/gorgias.md)
+* Link (e.g. URL to your help docs or a contact/ticketing form).
 
 ### What information is passed over with human handover?
 
@@ -54,30 +51,21 @@ The information passed over with human handover is dependent on the live chat wi
 
 ### When will it be handed over to a human?
 
-You can decide when users should be able to talk to a person, either:
+Our goal isn't to prevent customers and users from speaking to a person when they need to, just to help them in the most efficient way possible.
 
-* All the time - a contact icon will be added to your chat widget's menu that is always visible, like the below and a "Talk to a person" button will be visible at the end of each message:
+Therefore we have a number of ways they can still speak to a person if they need:
 
-<figure><img src="../.gitbook/assets/image (210).png" alt="" width="415"><figcaption></figcaption></figure>
-
-* Only after asking a question - the contact icon above the chat widget only becomes visible after the user has asked at least one question to the AI support agent.
-* When the user asks to "talk to a person" (or uses similar wording)
-
-In both scenarios, if the AI agent is unable to answer or if a user asked to talk to a person it will immediately give the user the option to talk to a person:
-
-<figure><img src="../.gitbook/assets/image (211).png" alt="" width="374"><figcaption></figcaption></figure>
+1. They can directly ask to "Speak to a person" - our AI agents auto-recognise the intent of the user asking to speak to a human in a variety of different ways and will handover the conversation or ticket.
+2. They may be frustrated - if our AI agent hasn't been able to answer and senses the user is getting annoyed it will proactively hand the conversation or ticket over.&#x20;
+3. When the AI can't answer a question (because it doesn't have the available information), it will offer for the user or customer to handover the conversation or ticket, either by instructing them to type "Talk to a person" or by showing a button for them to click to initiate the handover. If you are using one of our ticketing integrations you can also define auto-handover if the AI can't answer so the user or customer will never see an "I don't know" response.
+4. You can define qualitative rules or scenarios for the AI to look out for to handover the conversation, using [guidance](improve/guidance.md#handover-and-escalation), e.g. "If the user contacts us about a safety issue, handover to a person"
+5. If you are using one of our tagging integrations e.g. [Zendesk](channels/zendesk/zendesk-tagging-+-sentiment.md) or [Intercom](channels/intercom/intercom-tagging.md), you can specify topics that you don't want your AI to answer on, and you want an instant handover to occur.
 
 ### How can I test human handover out?
 
-Head over to Chat within your Dashboard and ask a few questions, then click the Contact icon in the widget menu or click the "Talk to a person" button.
+Head over to Chat within your Dashboard and ask a few questions, ask something it won't be able to answer and it will show a "Talk to a person" button or ask to "Talk to a person" and you should see the handover initiated.
 
 ### Can I change my human handover chat provider at a later date?
 
-Yes, you can, just go to your Dashboard, then _**AI agent setup > Human handover**_ and click the _"change/remove"_ button beneath the chat icon of your current provider.
-
-### **Custom endings for "I don't know" responses**
-
-You have the option of adding your own custom ending each time the AI agent is unable to answer a question. This can allow you to direct users towards links, the "talk to a person" option, or something else.
-
-To edit your Custom ending, just go to _AI Agent Setup > Human Handover > Advanced Settings._
+Yes, you can, just go to your Dashboard, then _**Channels**_ and choose the provider you want to change to.
 
