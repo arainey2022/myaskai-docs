@@ -132,6 +132,10 @@ You can set the agent to automatically create AI note responses for you to use i
 
 3. That's it, now when someone talks with your Intercom you will see the AI response appear as a note you can use to help with your reply.
 
+### How can I run a workflow after a human handover in Intercom?
+
+To assign a ticket or conversation to a specific human agent on handover, [follow our guide here](human-handover-workflows.md).
+
 ### How can I stop draft notes from being generated for a conversation or email in Intercom?
 
 To stop draft notes from being generated for a conversation, just add a note to the conversation with:

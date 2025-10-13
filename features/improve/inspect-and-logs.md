@@ -39,6 +39,8 @@ When a conversation is handed over to a human agent a note will be generated giv
 * Connecting your internal systems for [live customer data](../../api-documentation/user-data-api.md)
 * Drafting AI replies with our [copilot extension](../channels/chrome-extension.md)
 
-You can also turn these notes off by going to **Account Settings > Other settings > Disable admin note tips.**
+### How do I turn off the "Admin notes" that I see on each handover?
+
+You can turn off the "Admin notes" by going to **Account Settings > Other settings > Disable admin note tips.**
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

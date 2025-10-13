@@ -17,6 +17,10 @@ Human handover allows the customer or visitor to switch between talking with the
 
 Before any handover occurs, we use AI to summarize the conversation they have had so far, so the visitor doesn't have to repeat themselves and the support agent can instantly get up to speed with their issue, reducing resolution times.
 
+{% hint style="info" %}
+The user-generated handover summaries that are shown on a human handover summarizing the conversation so far cannot be turned off.&#x20;
+{% endhint %}
+
 ### How does human handover work?
 
 Human handover works slightly differently depending on which of our native chat integrations you are using:
