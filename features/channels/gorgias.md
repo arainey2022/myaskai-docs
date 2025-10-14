@@ -141,9 +141,15 @@ To take control from the AI agent when it is replying in Gorgias, you can either
 
 Unfortunately, it is currently not possible to use Gorgias triage steps or flows with your AI agent.
 
-### I have multiple brands or email accounts, can I have the AI agent only respond to one in Gorgias?
+### I have multiple brands, users or email accounts in Gorgias or Shopify, can I have the AI agent only respond to one of them (or specific ones)?
 
-Yes, you can set your AI agent up so it only responds to specific emails or brands in Gorgias, to do this please get in touch with us by asking to "Talk to a person".
+Yes, you can set your AI agent up so it only responds to specific emails or brands in Gorgias.
+
+By default your AI agent will reply to all inbound emails.
+
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to AI Agent Setup and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
+
+This will ensure it only replies to these accounts.
 
 ### Can I turn off the "Just thinking..." or "Just having a think..." messages in Gorgias?
 
