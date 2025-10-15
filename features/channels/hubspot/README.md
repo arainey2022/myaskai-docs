@@ -168,6 +168,16 @@ This phrase must exactly match the pre-defined button you are going to use in yo
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.
 
+### I have multiple brands, users or email accounts in HubSpot, can I have the AI agent only respond to one of them (or specific ones)?
+
+Yes, you can set your AI agent up so it only responds to specific emails or brands in HubSpot.
+
+By default your AI agent will reply to all inbound emails.
+
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to AI Agent Setup and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
+
+This will ensure it only replies to these accounts.
+
 ### How can I stop the AI agent from replying to a specific phrase in HubSpot?
 
 To stop your AI agent from replying to a specific set of phrases, share with us a list of the phrases you would like to block via chat and we will update your bot with these.

@@ -13,28 +13,16 @@ Available as an add-on for paid plans, all plans have a 30-day free trial
 
 Try out My AskAI in your channels:
 
-{% content-ref url="slack.md" %}
-[slack.md](slack.md)
-{% endcontent-ref %}
-
-{% content-ref url="microsoft-teams.md" %}
-[microsoft-teams.md](microsoft-teams.md)
-{% endcontent-ref %}
-
-{% content-ref url="zapier.md" %}
-[zapier.md](zapier.md)
-{% endcontent-ref %}
-
-{% content-ref url="intercom/" %}
-[intercom](intercom/)
+{% content-ref url="zendesk/zendesk-tickets.md" %}
+[zendesk-tickets.md](zendesk/zendesk-tickets.md)
 {% endcontent-ref %}
 
 {% content-ref url="zendesk/zendesk-messaging.md" %}
 [zendesk-messaging.md](zendesk/zendesk-messaging.md)
 {% endcontent-ref %}
 
-{% content-ref url="zendesk/zendesk-tickets.md" %}
-[zendesk-tickets.md](zendesk/zendesk-tickets.md)
+{% content-ref url="intercom/" %}
+[intercom](intercom/)
 {% endcontent-ref %}
 
 {% content-ref url="freshchat.md" %}
@@ -49,8 +37,24 @@ Try out My AskAI in your channels:
 [hubspot](hubspot/)
 {% endcontent-ref %}
 
+{% content-ref url="gorgias.md" %}
+[gorgias.md](gorgias.md)
+{% endcontent-ref %}
+
 {% content-ref url="chrome-extension.md" %}
 [chrome-extension.md](chrome-extension.md)
+{% endcontent-ref %}
+
+{% content-ref url="slack.md" %}
+[slack.md](slack.md)
+{% endcontent-ref %}
+
+{% content-ref url="microsoft-teams.md" %}
+[microsoft-teams.md](microsoft-teams.md)
+{% endcontent-ref %}
+
+{% content-ref url="zapier.md" %}
+[zapier.md](zapier.md)
 {% endcontent-ref %}
 
 Or build your own with our API:
