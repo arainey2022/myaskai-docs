@@ -121,6 +121,7 @@
 * [😕 Website not added](troubleshooting/website-not-added.md)
 * [🗣️ Issue connecting your live chat widget](troubleshooting/issue-connecting-your-live-chat-widget.md)
 * [🤦‍♂️ Oops there has been an error](troubleshooting/oops-there-has-been-an-error.md)
+* [💳 I can't see any billing information for my account?](troubleshooting/i-cant-see-any-billing-information-for-my-account.md)
 
 ## FAQ
 
