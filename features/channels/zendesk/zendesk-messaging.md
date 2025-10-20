@@ -41,7 +41,7 @@ How to add My AskAI to your Zendesk Mesaging widget
 {% endembed %}
 
 1. Login to your Dashboard and go to _Channels_.&#x20;
-2. Once enabled you will see "Live Chat apps" appear, click on the Zendesk icon.
+2. Go to the section "Add to your existing support tools" and click on the Zendesk icon.
 
 <figure><img src="../../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
 
@@ -92,6 +92,20 @@ How to add My AskAI to your Zendesk Mesaging widget
 <figure><img src="../../../.gitbook/assets/4.png" alt="" width="563"><figcaption></figcaption></figure>
 
 14. You're all done! Ask questions to your new AI agent within your Zendesk Messaging widget and see how it responds.
+
+{% hint style="warning" %}
+Once you have enabled My AskAI in Zendesk Messaging, it will start responding automatically, there is no "Internal Notes" mode for replies in Zendesk Messaging (only Zendesk Tickets). \
+\
+You can, however, pause replies at any time once set up by going to **Channels > Zendesk > Zendesk Messaging**, scrolling to the bottom of the page and toggling "Pause reples" on.
+{% endhint %}
+
+### Are tickets automatically created for conversations when the AI replies in Zendesk Messaging?
+
+No, a ticket is not automatically created for every conversation the AI replies to in Zendesk Messaging.
+
+A ticket is only created in Zendesk Messaging when the conversation is passed over to a human.
+
+At the point of this handover, the ticket will be created and the history of the conversation will be accessible.
 
 ### How can I use my AI agent within Zendesk Messaging?
 

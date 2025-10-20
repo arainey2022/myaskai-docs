@@ -19,7 +19,7 @@ There are several reasons why you should use your My AskAI within Zendesk Ticket
 * You get access to an intelligent AI agent, directly within Zendesk Tickets that can automatically and instantly answer user or visitor queries, using your company knowledgebase.
 * Your AI agent can respond either [directly](zendesk-tickets.md#direct-replies) to users, generate [Internal notes](zendesk-tickets.md#internal-notes) for you, or [generate AI responses on demand](zendesk-tickets.md#how-can-i-use-my-zendesk-ticket-ai-agent-to-reply-to-follow-up-tickets).
 * You can add more knowledge to your AI agent in addition to your website and Zendesk help center by using our [connections](../../connections/) or [file uploads](../../file-uploads.md).
-* You don't have to add any code to your site and you don't need a developer, [just connect our app and you're ready to go](zendesk-tickets.md#how-to-connect-your-ai-chatbot-to-zendesk-messaging).
+* You don't have to add any code to your site and you don't need a developer, [just connect your Zendesk account and you're ready to go](zendesk-tickets.md#how-to-connect-your-ai-chatbot-to-zendesk-messaging).
 * AI answers provided with "References" to the sources used to answer the question.
 * You can add your AI agent to [Zendesk's Messenger](zendesk-messaging.md) too.
 * As well as an AI agent, you get all our other features like [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
@@ -28,9 +28,8 @@ There are several reasons why you should use your My AskAI within Zendesk Ticket
 
 {% embed url="https://youtu.be/lnxOWzyiEKw" %}
 
-1. Install My AskAI to your Zendesk workspace ([from the Zendesk marketplace](https://www.zendesk.co.uk/marketplace/apps/support/1058614/my-askai-for-support/))
-2. Login to your Dashboard and go to _**Channels**_.&#x20;
-3. Once enabled you will see "Live Chat apps" appear, click on the Zendesk icon.
+1. Login to your Dashboard and go to _**Channels**_.&#x20;
+2. In "Add to your existing support tools", click on the Zendesk icon.
 
 <figure><img src="../../../.gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
 
