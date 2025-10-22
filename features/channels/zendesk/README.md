@@ -32,7 +32,7 @@ See the Messenger app in the Zendesk marketplace:
 
 3. Tag your tickets automatically with AI with our tagging app:
 
-{% content-ref url="zendesk-tagging-+-sentiment.md" %}
-[zendesk-tagging-+-sentiment.md](zendesk-tagging-+-sentiment.md)
+{% content-ref url="zendesk-tagging.md" %}
+[zendesk-tagging.md](zendesk-tagging.md)
 {% endcontent-ref %}
 

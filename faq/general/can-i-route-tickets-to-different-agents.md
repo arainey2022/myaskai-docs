@@ -8,7 +8,7 @@ Ticket routing will depend on your support platform being used but can be done i
 
 #### For routing prior to handover e.g. triage
 
-In Zendesk you can use our [Ticket tagging](../../features/channels/zendesk/zendesk-tagging-+-sentiment.md) feature in combination with Zendesk triggers to route conversations to either your AI agent or human agents. This will allow you to have more control over which tickets your AI agent is handling.
+In Zendesk you can use our [Ticket tagging](../../features/channels/zendesk/zendesk-tagging.md) feature in combination with Zendesk triggers to route conversations to either your AI agent or human agents. This will allow you to have more control over which tickets your AI agent is handling.
 
 If you require this feature for Intercom, get in touch with us via our live chat.
 

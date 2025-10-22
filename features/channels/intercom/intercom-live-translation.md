@@ -55,4 +55,4 @@ It costs $0.05 to translate each ticket or conversation, regardless of length or
 
 To turn off or pause your Live Translations, go to **AI Agent Setup > Customization** and scroll to **Live Translation**, then toggle the switch to the 'Translation service disabled' position.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

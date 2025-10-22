@@ -230,10 +230,20 @@ You can add up to 30 pieces of guidance under each category of guidance, so 90 i
 
 If this is insufficient, please get in touch with us via our live chat and ask to talk to a person.
 
+### Can I use separate guidance for email and chat responses?
+
+{% hint style="info" %}
+Note that you can only create separate guidance for [Communication & Style](guidance.md#communication-style) guidance currently.
+{% endhint %}
+
+Yes, you can use separate guidance for email and chat responses.
+
+On your chosen Communication & Style guidance, click the "Select type of guidance" field below the guidance you have entered and select "email only" if you only want that guidance to be used for email replies.
+
 ### Is it possible to create multi-step guidance?
 
 {% hint style="info" %}
-This is an advanced form of using guidance.
+This is an advanced form of using guidance, you may want to consider using [Tasks](../tasks/) instead.
 {% endhint %}
 
 If you want to create guidance that follows a couple of different steps e.g. ask for more information then handover to an agent, you can, here is an example of how you would set this up:

@@ -36,8 +36,8 @@ For full details on how to use each of these features check out the respective i
 [freshchat.md](freshchat.md)
 {% endcontent-ref %}
 
-{% content-ref url="freshdesk.md" %}
-[freshdesk.md](freshdesk.md)
+{% content-ref url="freshdesk/" %}
+[freshdesk](freshdesk/)
 {% endcontent-ref %}
 
 If there is a capability or feature we are missing that you would like to see built, get in touch with us via our chat and we will try our best to help.

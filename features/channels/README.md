@@ -29,8 +29,8 @@ Try out My AskAI in your channels:
 [freshchat.md](freshchat.md)
 {% endcontent-ref %}
 
-{% content-ref url="freshdesk.md" %}
-[freshdesk.md](freshdesk.md)
+{% content-ref url="freshdesk/" %}
+[freshdesk](freshdesk/)
 {% endcontent-ref %}
 
 {% content-ref url="hubspot/" %}

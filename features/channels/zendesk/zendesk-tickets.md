@@ -161,7 +161,7 @@ To use it:
 
 There are 3 ways you can control which tickets your AI agent can reply to:
 
-1. Use the ["Block AI replies"](zendesk-tagging-+-sentiment.md#how-can-i-ensure-the-ai-agent-only-responds-to-certain-types-of-tickets) feature as part of our AI tagging feature in Zendesk.&#x20;
+1. Use the ["Block AI replies"](zendesk-tagging.md#how-can-i-ensure-the-ai-agent-only-responds-to-certain-types-of-tickets) feature as part of our AI tagging feature in Zendesk.&#x20;
 2. Use "Human Handover" [Guidance](../../improve/guidance.md#handover-and-escalation).
 3. Use Zendesk Triggers, this will give you the most control if you want to choose certain user groups the AI agent will reply to, or filter out certain subject lines.
 
@@ -256,7 +256,7 @@ Go to **Channels > Zendesk > Zendesk Tickets > First email reply delay** and spe
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### How can I stop the AI agent replying in Zendesk Tickets?
 

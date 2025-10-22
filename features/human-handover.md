@@ -28,7 +28,7 @@ Human handover works slightly differently depending on which of our native chat 
 * Learn more about [Intercom](channels/intercom/#how-does-human-handover-work-when-using-the-intercom-messenger-integration) handover
 * Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
 * Learn more about [Freshchat](channels/freshchat.md) handover
-* Learn more about [Freshdesk](channels/freshdesk.md) handover
+* Learn more about [Freshdesk](channels/freshdesk/) handover
 * Learn more about [HubSpot](channels/hubspot/) handover&#x20;
 * Learn more about [Gorgias](channels/gorgias.md#how-does-human-handover-work-when-using-the-gorgias-integration-for-email-tickets) handover
 
@@ -40,7 +40,7 @@ We currently support the following live chat services:
 * [Zendesk](channels/zendesk/) (Messenger and Tickets)
 * [HubSpot](channels/hubspot/)
 * [Freshchat](channels/freshchat.md) by Freshworks
-* [Freshdesk](channels/freshdesk.md)
+* [Freshdesk](channels/freshdesk/)
 * [Gorgias](channels/gorgias.md)
 * Link (e.g. URL to your help docs or a contact/ticketing form).
 
@@ -63,7 +63,7 @@ Therefore we have a number of ways they can still speak to a person if they need
 2. They may be frustrated - if our AI agent hasn't been able to answer and senses the user is getting annoyed it will proactively hand the conversation or ticket over.&#x20;
 3. When the AI can't answer a question (because it doesn't have the available information), it will offer for the user or customer to handover the conversation or ticket, either by instructing them to type "Talk to a person" or by showing a button for them to click to initiate the handover. If you are using one of our ticketing integrations you can also define auto-handover if the AI can't answer so the user or customer will never see an "I don't know" response.
 4. You can define qualitative rules or scenarios for the AI to look out for to handover the conversation, using [guidance](improve/guidance.md#handover-and-escalation), e.g. "If the user contacts us about a safety issue, handover to a person"
-5. If you are using one of our tagging integrations e.g. [Zendesk](channels/zendesk/zendesk-tagging-+-sentiment.md) or [Intercom](channels/intercom/intercom-tagging.md), you can specify topics that you don't want your AI to answer on, and you want an instant handover to occur.
+5. If you are using one of our tagging integrations e.g. [Zendesk](channels/zendesk/zendesk-tagging.md) or [Intercom](channels/intercom/intercom-tagging.md), you can specify topics that you don't want your AI to answer on, and you want an instant handover to occur.
 
 ### How can I test human handover out?
 
