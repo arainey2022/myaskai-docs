@@ -25,8 +25,8 @@ Try out My AskAI in your channels:
 [intercom](intercom/)
 {% endcontent-ref %}
 
-{% content-ref url="freshchat.md" %}
-[freshchat.md](freshchat.md)
+{% content-ref url="freshchat/" %}
+[freshchat](freshchat/)
 {% endcontent-ref %}
 
 {% content-ref url="freshdesk/" %}

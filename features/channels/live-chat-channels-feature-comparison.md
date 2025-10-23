@@ -32,8 +32,8 @@ For full details on how to use each of these features check out the respective i
 [gorgias.md](gorgias.md)
 {% endcontent-ref %}
 
-{% content-ref url="freshchat.md" %}
-[freshchat.md](freshchat.md)
+{% content-ref url="freshchat/" %}
+[freshchat](freshchat/)
 {% endcontent-ref %}
 
 {% content-ref url="freshdesk/" %}

@@ -157,13 +157,13 @@ The AI will then stop responding.
 This phrase must exactly match the pre-defined button you are going to use in your chatflow message.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. After creating the trigger phrase/button in your HubSpot chatflow, add a final “Send to team member” (assign to no one) step to your chatflow. Name it and add a message such as “What is your question?” (can be anything to prompt the user to write their question).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.

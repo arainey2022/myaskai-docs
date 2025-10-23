@@ -12,6 +12,10 @@ But now your AI agent can automatically do this classification and categorizatio
 
 ### How do I set up automated tagging and sentiment scores in Freshdesk?
 
+{% hint style="warning" %}
+You can only set up Tagging for Freshchat **OR** Freshdesk, **not both**
+{% endhint %}
+
 1. To set up your tags in Freshdesk, go to **AI Agent Setup > Auto-Tagging** and click **Import tag or custom field.**
 
 <figure><img src="../../../.gitbook/assets/image (488).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -76,7 +80,7 @@ If your tags aren't being applied to pre-existing fields it may be because your 
 
 If you are using a custom field with pre-set values in Freshdesk, you must ensure you use the custom field or tag name from within Freshdesk exactly.
 
-### How do I pause or turn off my Intercom Auto-Tagging?
+### How do I pause or turn off my Freshdesk Auto-Tagging?
 
 To turn off or pause your Auto-Tagging, go to **AI Agent Setup > Auto-Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.
 

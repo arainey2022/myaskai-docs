@@ -27,7 +27,7 @@ Human handover works slightly differently depending on which of our native chat 
 
 * Learn more about [Intercom](channels/intercom/#how-does-human-handover-work-when-using-the-intercom-messenger-integration) handover
 * Learn more about [Zendesk](channels/zendesk/) (messaging and tickets) handover
-* Learn more about [Freshchat](channels/freshchat.md) handover
+* Learn more about [Freshchat](channels/freshchat/) handover
 * Learn more about [Freshdesk](channels/freshdesk/) handover
 * Learn more about [HubSpot](channels/hubspot/) handover&#x20;
 * Learn more about [Gorgias](channels/gorgias.md#how-does-human-handover-work-when-using-the-gorgias-integration-for-email-tickets) handover
@@ -39,7 +39,7 @@ We currently support the following live chat services:
 * [Intercom](channels/intercom/)
 * [Zendesk](channels/zendesk/) (Messenger and Tickets)
 * [HubSpot](channels/hubspot/)
-* [Freshchat](channels/freshchat.md) by Freshworks
+* [Freshchat](channels/freshchat/) by Freshworks
 * [Freshdesk](channels/freshdesk/)
 * [Gorgias](channels/gorgias.md)
 * Link (e.g. URL to your help docs or a contact/ticketing form).

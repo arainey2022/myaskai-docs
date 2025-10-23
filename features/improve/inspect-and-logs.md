@@ -43,4 +43,4 @@ When a conversation is handed over to a human agent a note will be generated giv
 
 You can turn off the "Admin notes" by going to **Account Settings > Other settings > Disable admin note tips.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

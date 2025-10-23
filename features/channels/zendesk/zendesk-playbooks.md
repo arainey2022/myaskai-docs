@@ -13,6 +13,6 @@ To set your Zendesk AI agent to only reply to tickets out-of-hours:
 3. Add a new condition to the list "Meet ALL of the following conditions"
 4. New conditions: Ticket within business hours > is > No
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 This means that the AI agent will only be notified about tickets outside of business hours.

@@ -21,7 +21,7 @@ There are several reasons why you should use your My AskAI within Freshdesk Tick
 * You can add more knowledge to your AI agent in addition to your website and Freshdesk help center by using our [connections](../../connections/) or [file uploads](../../file-uploads.md).
 * You don't have to add any code to your site and you don't need a developer, [just connect our app and you're ready to go](./#how-to-connect-your-ai-chatbot-to-zendesk-messaging).
 * AI answers provided with "References" to the sources used to answer the question.
-* You can add your AI agent to [Freshchat](../freshchat.md) too.
+* You can add your AI agent to [Freshchat](../freshchat/) too.
 * As well as an AI agent, you get all our other features like [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
 
 ### How to connect your AI agent to Freshdesk Tickets
@@ -72,11 +72,11 @@ By default your Freshdesk Ticket AI agent will respond to Email and Web form tic
 
 When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you can use our [Freshdesk tagging](freshdesk-tagging.md) feature to block replies to certain tags, custom fields or topics.
 
@@ -92,7 +92,7 @@ When a ticket is replied to by a customer requesting a person (if they need more
 
 You can then use the `ai-agent-replied` and `human-handover-requested` tags to create views in Freshdesk to manage the escalated tickets or review AI agent responses.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my AI support agent within Freshdesk Tickets?
 
@@ -144,7 +144,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the handover tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my Freshdesk Ticket AI agent to reply to follow-up tickets?
 
