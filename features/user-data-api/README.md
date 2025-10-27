@@ -44,13 +44,13 @@ All via API, to get this set up, contact our team via live chat by typing "Talk 
 
 You can use the User Data API with the following integrations:
 
-* Zendesk Tickets (not Messaging)
-* Intercom
-* Gorgias Tickets (not Messaging)
-* HubSpot
-* Freshdesk (not Freshchat)
+* **Zendesk Tickets** & **Zendesk Messaging**
+* **Intercom**
+* **Gorgias Tickets** (not Gorgias Live Chat)
+* **HubSpot Email** & **HubSpot Live Chat**
+* **Freshdesk** & **Freshchat**
 
-If you require user data for Zendesk Messaging, Gorgias Messaging, Freshchat or the My AskAI widget, please get in touch with us via our Chat and asking to "Talk to a person".
+The User Data API can only be used when there’s a **verified user** — for example, an email support ticket or an authenticated live chat user. Each live chat provider has its own way of authenticating logged-in users.
 
 ### Why can't I see "Connect live user data"?
 

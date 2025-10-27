@@ -29,13 +29,27 @@ Your AI agent will understand the ticket it is answering and decide when it need
 
 ### How do tools differ from the User Data API?
 
-You can think of tools as 'action-orientated' (for example, [used for the above types of task](ai-actions-tools.md#what-can-tools-be-used-for)) and to be used for obtaining data that isn't specific to a user.
-
-The [User Data API](../api-documentation/user-data-api.md) is to be used when you need to retrieve information or data about a specific user.
+The [User Data API](../api-documentation/user-data-api.md) is to be used when you need to retrieve information or data about a specific user and can only be used where you have a verified user (email support ticket or authenticated live chat user).
 
 ### How do I set up tools?
 
-To set up tools, please get in touch with us via the live chat in your Dashboard and ask to "Talk to a person".
+Each tool will map to an API and needs the following details:
+
+* **POST API endpoint:** e.g. `https://api.company.com/orders`
+* **Authentication headers:** e.g. `Authorization: Bearer <token>`
+* **JSON request body:** include the fields your tool needs, such as `"email"` and `"order_id"`
+* **Other headers (optional)**
+*   **JSON response body:** include all the information you want your AI agent to access, e.g.
+
+    ```
+    {
+      "orders": [...]
+    }
+    ```
+
+There is no other specific API format expected by your AI agent, apart from the above. This makes it fairly flexible to integrate existing APIs or modify existing APIs for exposing to your AI agent.
+
+To get your tools set up, open the live chat in your Dashboard and ask to “Talk to a person.”
 
 ### How much do tools cost?
 

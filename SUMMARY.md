@@ -51,6 +51,7 @@
 * [☁️ Connections](features/connections/README.md)
   * [🔑 Authorizations](features/connections/authorizations.md)
 * [🛍️ Shopify](features/shopify.md)
+* [🏢 Connecting to Internal Systems via APIs](features/connecting-to-internal-systems-via-apis.md)
 * [👤 User Data API](features/user-data-api/README.md)
   * [👤 User Data API setup](features/user-data-api/user-data-api-setup.md)
 * [🛠️ AI Actions (Tools)](features/ai-actions-tools.md)
