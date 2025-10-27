@@ -39,6 +39,4 @@ To set up tools, please get in touch with us via the live chat in your Dashboard
 
 ### How much do tools cost?
 
-Tool calls cost $0.05 per ticket or conversation, you will only pay for tickets where tool calls are made. So if you have 2 tickets, one that requires a tool call and one that doesn't you will only pay $0.05.&#x20;
-
-You will only pay for a tool call once per ticket or conversation.
+Tool calls cost $0.02 per reply that used a tool/API call, you will only pay for responses where tool calls are made.

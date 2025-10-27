@@ -69,8 +69,10 @@ Tasks are currently only available to customers with 5,000 tickets/mo or more an
 
 ### How much do tasks cost?
 
-Tasks are priced at $0.10 per conversation or ticket, but you are only charged if the task has been used, so, if only 5% of your tickets require the task to be executed, then you'll only pay the $0.10 for those 5% of tickets.
+Tasks are priced at $0.02 per reply that was part of a task. For example, if you have a 2 step task that collected some information and confirmed that with a user in a conversation (across 2 replies), then this would be charged at 2 x 0.02 = $0.04.
+
+You'll only be charged for AI agent responses where a task was being followed.
 
 ### How do I use a handover within a Task?
 
-To instruct a handover within a Taskm use the phrase `{{handover}}` to reference the handover should be made e.g. “If they are refunding because of a safety issue then `{{handover}}`”
+To instruct a handover within a Task use the phrase `{{handover}}` to reference the handover should be made e.g. “If they are refunding because of a safety issue then `{{handover}}`”
