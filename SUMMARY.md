@@ -57,6 +57,7 @@
 * [🛠️ AI Actions (Tools)](features/ai-actions-tools.md)
 * [👷 Tasks](features/tasks/README.md)
   * [📖 Task Use Cases](features/tasks/task-use-cases.md)
+  * [🗒️ Task End to End Examples (Notebook)](features/tasks/task-end-to-end-examples-notebook.md)
 * [📈 Improve](features/improve/README.md)
   * [❓ Knowledge Gaps](features/improve/knowledge-gaps.md)
   * [🎯 Guidance](features/improve/guidance.md)

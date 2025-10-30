@@ -27,6 +27,14 @@ All performed automatically by your My AskAI agent in your existing help desk.
 
 And all of this can be created easily with natural language instructions to your AI agent instead of adding decision trees.
 
+{% content-ref url="task-use-cases.md" %}
+[task-use-cases.md](task-use-cases.md)
+{% endcontent-ref %}
+
+{% content-ref url="task-end-to-end-examples-notebook.md" %}
+[task-end-to-end-examples-notebook.md](task-end-to-end-examples-notebook.md)
+{% endcontent-ref %}
+
 ### When should I use tasks?
 
 Tasks are an incredibly powerful feature of your AI agent, but they do involve more setup than most other features, so should generally only be used for:
