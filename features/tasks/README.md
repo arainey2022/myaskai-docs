@@ -31,8 +31,8 @@ And all of this can be created easily with natural language instructions to your
 [task-use-cases.md](task-use-cases.md)
 {% endcontent-ref %}
 
-{% content-ref url="task-end-to-end-examples-notebook.md" %}
-[task-end-to-end-examples-notebook.md](task-end-to-end-examples-notebook.md)
+{% content-ref url="task-end-to-end-examples.md" %}
+[task-end-to-end-examples.md](task-end-to-end-examples.md)
 {% endcontent-ref %}
 
 ### When should I use tasks?
@@ -64,23 +64,20 @@ As tasks are a more complex features setting them up will require a few things:
 
 1. **APIs:** While a task doesn't necessarily always require use of a [tool](../ai-actions-tools.md) (API), the majority will. So it is best to start by identifying which (or creating) APIs in your owns systems you want the task to interact with and how you want them to interact.
 2. **Internal alignment:** Most tasks will touch multiple teams, in terms of set-up and ongoing maintenance, this could include your engineering team, customer service or success team, product and operations teams. Ensure everyone is on the same page.
-
-* **Testing and improving**: Tasks will require monitoring and improvements over time, especially as you identify edge-cases, so set up a process to test initially and review their performance over time, along with a feedback and improvement loop.
+3. **Testing and improving**: Tasks will require monitoring and improvements over time, especially as you identify edge-cases, so set up a process to test initially and review their performance over time, along with a feedback and improvement loop.
 
 ### How do I use tasks?
 
-To set up tasks, contact us by asking to "Talk to a person" and we will help you get your Tasks set up.
-
-{% hint style="info" %}
-Tasks are currently only available to customers with 5,000 tickets/mo or more and Enterprise customers.
-{% endhint %}
+For more on setting up Tasks, [read about our End-to-End examples](task-end-to-end-examples.md).
 
 ### How much do tasks cost?
 
-Tasks are priced at $0.02 per reply that was part of a task. For example, if you have a 2 step task that collected some information and confirmed that with a user in a conversation (across 2 replies), then this would be charged at 2 x 0.02 = $0.04.
+Tasks are priced at $0.02 per reply that was part of a task.&#x20;
+
+For example, if you have a 2 step task that collected some information and confirmed that with a user in a conversation (across 2 replies), then this would be charged at 2 x 0.02 = $0.04.
 
 You'll only be charged for AI agent responses where a task was being followed.
 
 ### How do I use a handover within a Task?
 
-To instruct a handover within a Task use the phrase `{{handover}}` to reference the handover should be made e.g. “If they are refunding because of a safety issue then `{{handover}}`”
+To instruct a handover within a Task use the phrase `{{handover}}` to reference the handover should be made e.g. “If they are refunding because of a safety issue then `{{handover}}`”.

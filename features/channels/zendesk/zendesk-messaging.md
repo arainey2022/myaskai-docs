@@ -36,6 +36,10 @@ See how Customer.io are using My AskAI within Zendesk to reduce their ticket vol
 
 ### How to connect your AI agent to Zendesk Messaging
 
+{% hint style="danger" %}
+You must be an Admin in your Zendesk account to connect your AI agent to Zendesk
+{% endhint %}
+
 {% embed url="https://www.youtube.com/watch?v=UpFd5arkVj0" %}
 How to add My AskAI to your Zendesk Mesaging widget
 {% endembed %}

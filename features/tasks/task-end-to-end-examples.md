@@ -4,9 +4,11 @@ description: >-
   your AI Agent.
 ---
 
-# 🗒️ Task End to End Examples (Notebook)
+# 🗒️ Task End-to-End Examples
 
-This guide walks you through **creating your first Task** in AskAI — whether your task uses **tools (APIs)** or runs without them. Tasks let your AI Agent handle structured, repeatable actions like updating customer details, resetting passwords, or collecting feedback.
+This guide walks you through creating your first [Task](./) in My AskAI — whether your task uses [Tools (APIs)](../ai-actions-tools.md) or runs without them.&#x20;
+
+Tasks let your AI Agent handle structured, repeatable actions like updating customer details, resetting passwords, or collecting feedback.
 
 Need some inspiration on what Task to create first?
 
@@ -16,11 +18,14 @@ Need some inspiration on what Task to create first?
 
 ***
 
-### ⚙️ Step 1: Give Your Task a Name and Purpose
+You can create a Task by going to **Tasks & Tools** in the left hand menu of the Dashboard and clicking "Create".&#x20;
+
+### 1. Give Your Task a Name and Purpose
 
 #### **Name**
 
-Give your task a short, action-oriented title that describes what it does.\
+Give your task a short, action-oriented title that describes what it does.
+
 **Examples:** `Update Contact Details`, `Reset Password`, `Schedule Appointment`
 
 #### **Description**
@@ -37,11 +42,12 @@ This description helps your team recognize the task later.
 
 ***
 
-### 💬 Step 2: Add Example Triggers
+### 2. Add Example Triggers
 
 #### **Example questions to trigger this task**
 
-Provide 2–3 sample user messages that should start this task.\
+Provide 2–3 sample user messages that should start this task.
+
 These help the AI agent recognize when to use it.
 
 **Example:**
@@ -67,9 +73,11 @@ These examples improve accuracy and reduce false positives.
 
 ***
 
-### 🔁 Step 3: Write Example End-to-End Flows
+### 3. Write Example End-to-End Flows
 
-Show how a full conversation should go. Write at least one **normal flow** that clearly demonstrates how the AI should respond.
+Show how a full conversation should go.&#x20;
+
+Write at least one normal flow that clearly demonstrates how the AI should respond.
 
 **Example:**
 
@@ -85,10 +93,11 @@ Include variations where the user might only provide one piece of information (e
 
 ***
 
-### 🤔 Step 4: Add Handover or Escalation Rules
+### 4. Add Handover or Escalation Rules
 
-Sometimes users may get stuck or need human help.\
-Use this section to explain **when the AI should hand over to a human agent**.
+Sometimes users may get stuck or need human help.
+
+Use this section to explain when the AI should hand over to a human agent.
 
 **Example:**
 
@@ -98,9 +107,10 @@ Handover if the user is repeatedly struggling to update their contact details.
 
 ***
 
-### 🧪 Step 5: Add Instruction Steps
+### 5. Add Instruction Steps
 
-Instruction steps are the **step-by-step recipe** your AI Agent follows to complete the task.\
+Instruction steps are the step-by-step recipe your AI Agent follows to complete the task.
+
 Each step should include clear instructions in plain English.
 
 #### Common examples:
@@ -122,7 +132,7 @@ Repeat the details back to the user before proceeding.
 
 **Step 3 – Perform the Update**
 
-If your task **uses tools (APIs)**, include the tool reference here:
+If your task uses [tools (APIs)](task-end-to-end-examples.md#step-6-add-available-tools-optional), include the tool reference here:
 
 ```
 Update the booking with the new email and phone.
@@ -130,13 +140,17 @@ Update the booking with the new email and phone.
 - Only proceed after confirmation in Step 2.
 ```
 
+{% hint style="info" %}
+To reference a Tool, use the tool name enclosed in double curly braces, like this: \{{tool\_name\}}
+{% endhint %}
+
 **Step 4 – Confirm Completion**
 
 ```
 Tell the customer the update was successful (or failed) and check if they need any more help.
 ```
 
-If your task **does not use tools**, you could replace this final confirmation step with a handover for an a human agent to complete the final step.
+If your task does not use tools, you could replace this final confirmation step with a handover for an a human agent to complete the final step.
 
 ```
 Let the user know their request will be completed by the team.
@@ -145,7 +159,7 @@ Let the user know their request will be completed by the team.
 
 ***
 
-### 🛠 Step 6: Add Available Tools (Optional)
+### 6. Add Available Tools (Optional)
 
 Tools (API access for AI agents) are available for accounts with 5,000+ conversations per month. You can learn more about tools below.
 
@@ -153,7 +167,9 @@ Tools (API access for AI agents) are available for accounts with 5,000+ conversa
 [ai-actions-tools.md](../ai-actions-tools.md)
 {% endcontent-ref %}
 
-If your task needs to use an API, you'll need to add this as a Tool first. This can then be reference in a task step.
+If your task needs to use an API, you'll need to add this as a Tool first.&#x20;
+
+This can then be reference in a task step.
 
 **Example:**
 
@@ -165,9 +181,13 @@ Update the booking with the new email and phone.
 
 ***
 
-### ✨ Step 7: Guidance for Tone and Style
+### 7. Guidance for Tone and Style
 
-Use the **Guidance** box to define your Agent’s tone for this task. Tasks don't any existing Guidance you have for your AI agent. Tasks have their own Guidance that's more focused on the task at hand.
+Use the Guidance box to define your Agent’s tone for this task.&#x20;
+
+Tasks don't use any existing Guidance you have for your AI agent.&#x20;
+
+Tasks have their own Guidance that's more focused on the task at hand.
 
 **Example:**
 
@@ -179,20 +199,19 @@ This ensures consistency across all responses.
 
 ***
 
-### :test\_tube: Step 8: Save & Test
+### 8. Save & Test
 
 1. Click **Save changes** but do not set live until you've tested it
 2. Once saved, close the task and test your task in the chat widget
 
 ***
 
-### 🚀 Step : Activate
+### 9. Activate
 
-1. Before setti
-2. Once it’s ready, toggle **Set task live**.
-3. Click **Save changes**.
+1. Once it’s ready, toggle **Set task live**.
+2. Click **Save changes**.
 
-Your first AI task is now live! 🎉
+Your first AI task is now live! You can test it out in the preview widget instantly 🎉
 
 ***
 
@@ -214,4 +233,6 @@ Your first AI task is now live! 🎉
 
 #### 🔑 Tip
 
-Start with a simple task (like “Update Contact Details”) before building more advanced ones. Once comfortable, you can chain multiple tasks or integrate APIs for full automation.
+Start with a simple task (like “Update Contact Details”) before building more advanced ones.&#x20;
+
+Once comfortable, you can chain multiple tasks or integrate APIs for full automation.

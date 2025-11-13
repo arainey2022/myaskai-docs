@@ -215,6 +215,16 @@ This phrase must _**exactly**_ match the pre-defined button you are going to use
 4. Turn off "Let customer type" in your initial welcome message workflow
 5. Your AI agent will now only begin responding after the AI chat button has been pressed.
 
+### I have multiple brands, users or email accounts in Intercom, can I have the AI agent only respond to one of them (or specific ones)?
+
+Yes, you can set your AI agent up so it only responds to specific conversations or brands in Intercom.
+
+By default your AI agent will reply to all inbound conversations.
+
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com then you can use workflows to triage tickets.
+
+This will ensure it only replies to these accounts.
+
 ### How can I stop the AI agent from replying to specific phrases in Intercom?
 
 To stop your AI agent from replying to a specific set of phrases in Intercom, [share with us a list of the phrases you would like to block via email](mailto:team@myaskai.com) and we will update your bot with these.
@@ -256,7 +266,7 @@ Go to **Channels > Intercom > First email reply delay** and specify the number o
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### Can I stop people speaking to a person on their first message on Intercom?
 

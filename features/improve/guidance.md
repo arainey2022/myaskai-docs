@@ -8,7 +8,7 @@ description: >-
 
 ### What is guidance?
 
-Guidance is a way to instruct and control your AI agent's responses so that they can more closely align with your brand's communication style, support policies and business processes.
+Guidance is a way to provide instructions and control your AI agent's responses and behavior so that it can more closely align with your brand's communication style, support policies and business processes.
 
 This all results in higher quality responses, better brand identification and consistency and faster resolutions for your users or customers.
 
@@ -52,7 +52,9 @@ You should use this for instructions like:
 
 #### Handover & escalation
 
-This guidance should be used so your AI agent knows when a specific topic of conversation should be handed over to one of your human agents for resolution.
+Handover and escalation guidance is used so your AI agent knows when a specific topic of conversation should be handed over or escalated to one of your human agents for resolution.
+
+This, in effect, will "force" a handover in certain scenarios that you define.
 
 {% hint style="warning" %}
 Only one piece of the handover & escalation or context & clarification guidance will be used in each response by your AI agent. Multiple pieces of handover & escalation guidance cannot be used together.

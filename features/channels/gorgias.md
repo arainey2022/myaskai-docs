@@ -147,7 +147,7 @@ Yes, you can set your AI agent up so it only responds to specific emails or bran
 
 By default your AI agent will reply to all inbound emails.
 
-But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to AI Agent Setup and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to **AI Agent Setup** and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
 
 This will ensure it only replies to these accounts.
 

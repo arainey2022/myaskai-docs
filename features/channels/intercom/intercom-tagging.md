@@ -70,7 +70,7 @@ To add a tag to your block list, go to **AI Agent Setup > Auto-Tagging**, select
 
 If a conversation isn't replied to because it was blocked the tag `ai-agent-tag-blocked` will also be added to the conversation.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you could set up a triage workflow for your AI agent, using rules or triggers within Intercom for where certain conversations should be routed depending on the "reason for contact".
 
@@ -84,4 +84,4 @@ If you are using a custom field with pre-set values in Intercom, you must ensure
 
 To turn off or pause your Auto-Tagging, go to **AI Agent Setup > Auto-Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>

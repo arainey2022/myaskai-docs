@@ -149,7 +149,7 @@ The AI will then stop responding.
 1. [Connect your support agent to HubSpot](./#how-to-connect-your-ai-chatbot-to-hubspot)
 2. Turn on the toggle switch for chatflow/Triage settings
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Decide on a trigger phrase to use for your AI chatflow handover button, type it into the field below the toggle switch and include this as the text in a button in your chatflow (example chatflow for "Chat with AI assistant" as the trigger phrase)
 
@@ -157,24 +157,34 @@ The AI will then stop responding.
 This phrase must exactly match the pre-defined button you are going to use in your chatflow message.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. After creating the trigger phrase/button in your HubSpot chatflow, add a final “Send to team member” (assign to no one) step to your chatflow. Name it and add a message such as “What is your question?” (can be anything to prompt the user to write their question).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.
 
+### How can I change the profile picture and display name of my AI agent in HubSpot?
+
+Messages from your AI agent in HubSpot will be sent from the account/user that is used to login to HubSpot and connect with My AskAI. e.g. AI responses will appear to come from an agent.
+
+You can create a separate account for this if you’d like to customize the name or image of the AI agent (it will need to be a super admin account).\
+​\
+Once you have your separate account, then you'll need disconnect and reconnect your HubSpot account.
+
 ### I have multiple brands, users or email accounts in HubSpot, can I have the AI agent only respond to one of them (or specific ones)?
 
-Yes, you can set your AI agent up so it only responds to specific emails or brands in HubSpot.
+Yes, you can set your AI agent up so it only responds to specific emails, conversations or brands in HubSpot.
 
-By default your AI agent will reply to all inbound emails.
+By default your AI agent will reply to all inbound emails and chat conversations.
 
-But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to AI Agent Setup and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com  then go to **AI Agent Setup** and add the emails accounts you want it to reply to (e.g. support@company.com).&#x20;
+
+For chat conversations you will set up a chatflow with filtering to ensure it only replies to certain brands.
 
 This will ensure it only replies to these accounts.
 

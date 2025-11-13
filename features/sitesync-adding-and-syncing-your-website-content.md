@@ -8,6 +8,10 @@ description: >-
 
 Each fortnight (2 weeks) we re-scrape your webpages (looking for any new ones in the process) and add them to your AI agent to ensure the AI's content is always up to date.
 
+### How many websites can you add?
+
+On all paid plans, you can add a maximum of 3 websites to crawl, however each website can [contain thousands of pages](sitesync-adding-and-syncing-your-website-content.md#how-many-pages-do-you-add).
+
 ### How many pages do you add?
 
 On all paid plans there is no limit (subject to fair use) to the number of pages that are added and by default we will look for up to 2,500 pages per site.

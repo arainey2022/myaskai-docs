@@ -54,7 +54,7 @@ To add a tag to your block list, go to **AI Agent Setup > Auto-Tagging**, select
 
 If a conversation isn't replied to because it was blocked (and you have [created an AI Chat Status property, following the instructions here](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-status-of-a-conversation-is)) the AI Chat Status will be updated to `ai-agent-tag-blocked`.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or automations within Freshchat for where certain tickets should be routed depending on the "reason for contact".
 
@@ -86,4 +86,4 @@ Also, try clicking the "Update" button as sometimes Freshchat doesn't update aut
 
 To turn off or pause your Auto-Tagging, go to **AI Agent Setup > Auto-Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>

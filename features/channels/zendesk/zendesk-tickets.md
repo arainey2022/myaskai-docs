@@ -26,6 +26,10 @@ There are several reasons why you should use your My AskAI within Zendesk Ticket
 
 ### How to connect your AI agent to Zendesk Tickets
 
+{% hint style="danger" %}
+You must be an Admin in your Zendesk account to connect your AI agent to Zendesk
+{% endhint %}
+
 {% embed url="https://youtu.be/lnxOWzyiEKw" %}
 
 1. Login to your Dashboard and go to _**Channels**_.&#x20;
@@ -256,7 +260,7 @@ Go to **Channels > Zendesk > Zendesk Tickets > First email reply delay** and spe
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### How can I stop the AI agent replying in Zendesk Tickets?
 

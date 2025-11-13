@@ -11,9 +11,9 @@ What good is having hundreds or thousands of customer or user conversations if y
 
 We wanted to make it easy to get deep insights into what your users are asking your AI agent, without you having to read through all the transcripts, manually tag things and generally do a lot of "busy work".
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to Use Your AI Support Agent's Insights
 
@@ -208,10 +208,10 @@ In both your main Dashboard page and your individual topics' Insights pages, you
 
 On the Dashboard, you can see: AI resolution rates/AI CSAT and Conversation volumes over time, switching between them using the toggle switch in the bottom right hand side of the chart.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the detailed Insights page you will see a chart showing how often that particular topic has been raised over time, helping you identify peaks and troughs in activity.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 All data is calculated nightly, so you will see conversations summarised from the previous day only.

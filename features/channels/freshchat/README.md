@@ -136,17 +136,17 @@ To add AI statuses of to a Freshchat conversation:
 
 1. Create a conversation property within Freshchat (we can’t create these automatically, unfortunately) by going to **Freshchat Admin Settings > Configuration and Workflow > Conversation Properties**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Create a new **Dropdown** property called: **AI Chat Status**, and ensure the "Internal name" is: `ai_chat_status` . \
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Your new AI Chat Status will always be **one** of:
    * `ai-agent-replied`: used when the AI agent has sent any reply
@@ -165,7 +165,7 @@ Assuming you have [created your AI Chat Status](./#how-do-i-add-conversation-pro
 
 Create a new view and filter using the AI Agent status field: `ai-agent-replied` or `human-handover-requested` or `ai-agent-tag-blocked` .
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How can I take control from or give control to the AI agent in Freshchat?
 
@@ -180,7 +180,7 @@ Just reply to any open conversation as an admin/agent and the conversation's con
 1. [Connect your agent to Freshchat](./#how-to-connect-your-ai-chatbot-to-intercom)
 2. Turn on the toggle switch for Chatbot/Triage settings
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
 3. Decide on a trigger phrase to use for your AI chatbot handover button, type it into the field below the toggle switch and include this as the text in a button in your chatbot (example chatbot flow below for "Speak to AI" as the trigger phrase).
 
@@ -198,6 +198,16 @@ This phrase must _**exactly**_ match the pre-defined button you are going to use
 
 5. Your AI agent will now only begin responding after the "Speak to AI" button has been pressed.
 
+### I have multiple brands, users or email accounts in Freshchat, can I have the AI agent only respond to one of them (or specific ones)?
+
+Yes, you can set your AI agent up so it only responds to specific conversations or brands in Freshchat.
+
+By default your AI agent will reply to all inbound conversations.
+
+But if you want it to reply to only certain email addresses e.g. support@company.com and not vip-support@company.com then you can use workflows to triage tickets.
+
+This will ensure it only replies to these accounts.
+
 ### How can I stop the AI agent from replying to specific topics in Freshchat?
 
 To stop your AI agent from replying to specific topics in Freshchat you can use our [Block replies feature within Freshchat tagging](freshchat-tagging.md).
@@ -206,7 +216,7 @@ To stop your AI agent from replying to specific topics in Freshchat you can use 
 
 To reassign a Freshchat ticket or conversation to a member of your team once it has been handed over create a Conversation Assignment Rule (**Freshchat Admin Settings > Configurations and Workflows > Workflows> Conversation Assignment Rules**) for conversations with AI Chat Status = `human-handover-requested` that re-assigns conversations to agents or groups.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How do I auto-close a ticket in Freshchat after a set amount of time?
 

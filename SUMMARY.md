@@ -10,6 +10,8 @@
   * [💪 What are the benefits of using My AskAI?](start-here/what-is-an-ai-customer-support-agent/what-are-the-benefits-of-using-my-askai.md)
   * [🤔 Who is this for?](start-here/what-is-an-ai-customer-support-agent/who-is-this-for.md)
 * [🏗️ Create your AI customer service agent](start-here/create-your-ai-customer-service-agent.md)
+* [⛵ Onboarding](start-here/onboarding.md)
+* [🧪 Testing](start-here/testing.md)
 * [➕ Add your AI agent to your website](start-here/add-your-ai-agent-to-your-website/README.md)
   * [➕ WordPress](start-here/add-your-ai-agent-to-your-website/wordpress.md)
   * [🛍️ Shopify](start-here/add-your-ai-agent-to-your-website/shopify.md)
@@ -57,7 +59,7 @@
 * [🛠️ AI Actions (Tools)](features/ai-actions-tools.md)
 * [👷 Tasks](features/tasks/README.md)
   * [📖 Task Use Cases](features/tasks/task-use-cases.md)
-  * [🗒️ Task End to End Examples (Notebook)](features/tasks/task-end-to-end-examples-notebook.md)
+  * [🗒️ Task End-to-End Examples](features/tasks/task-end-to-end-examples.md)
 * [📈 Improve](features/improve/README.md)
   * [❓ Knowledge Gaps](features/improve/knowledge-gaps.md)
   * [🎯 Guidance](features/improve/guidance.md)
@@ -118,6 +120,7 @@
 
 ## TROUBLESHOOTING
 
+* [🐞 How to debug an AI answer](troubleshooting/how-to-debug-an-ai-answer.md)
 * [🐢 Slow responses](troubleshooting/slow-responses.md)
 * [💬 Chat bubble not visible](troubleshooting/chat-bubble-not-visible.md)
 * [🤷‍♀️ Why can't it answer?](troubleshooting/why-cant-it-answer.md)

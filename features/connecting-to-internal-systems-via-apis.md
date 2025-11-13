@@ -1,7 +1,7 @@
 ---
 description: >-
   Like your human agents, you'll want to give you AI agent access to your
-  internal systems to look up user's details or take actions like issuing a
+  internal systems to look up a user's details or take actions like issuing a
   refund.
 ---
 
@@ -13,43 +13,65 @@ We provide a number of ways you can give your AI agent access to your internal s
 * Accessing specific information about something e.g. all details about a specific Order ID
 * Taking action e.g. refunding an order
 
-We connect to your internal systems securely via APIs you give your AI agent access to. See the below options to decide what's best for your use case.
+We connect to your internal systems securely via APIs you give your AI agent access to.&#x20;
 
+See the below options to decide what's best for your use case.
+
+{% hint style="danger" %}
 #### Before Getting Started
 
-Before you begin considering connecting your internal systems/data with your AI agent, you will very likely need a developer to help with this step. You will be providing APIs (in most cases new ones) to your AI agent.
+Before you consider connecting your internal systems/data with your AI agent, be aware that you will very likely need a developer to help with this step.&#x20;
 
-#### 1) Get User Information (using verified customers email address)
+This is because you will be providing APIs (in most cases new ones) to your AI agent.
+{% endhint %}
+
+#### 1. User Data API: Get user information (using a verified customer email address)
 
 When a customer is verified, by either emailing you from a known email address or the user is logged in on your system (and you've authenticated them with Zendesk, Intercom, etc.) then your AI agent can view the user's verified email address.
 
-The AI agent will call a user data API you provide and your API will return information about the user.
+The AI agent will call a User Data API you provide and your API will return information about the user.
 
 The is perfect for returning information about a user, their recent orders, their account, subscription, current plan, etc.
+
+You can read more about the User Data API and its set up here:
 
 {% content-ref url="user-data-api/" %}
 [user-data-api](user-data-api/)
 {% endcontent-ref %}
 
-#### 2) Get Specific Information About Something e.g. Order
+#### 2. Actions (Tools): Get specific information about something e.g. an order
 
-Whether a customer is verified or not, you may want to allow them to ask about the status of a particular order. In this case, for example, you would provide your AI agent with an API that can accept a zip/post code and an order ID and return the latest information about that order.
+Whether a customer is verified or not, you may want to allow them to ask about something that is in your back end data, for example, the status of a particular order.&#x20;
+
+In this case, you would provide your AI agent with an API that can accept a zip/post code and an order ID and return the latest information about that order.
 
 The AI agent will call the API you provide and answer the user's question with the content returned from your API.
 
-This is perfect for allow un-verified users to ask about their account/orders or if you want to allow users to ask more about a specific piece of content in your system e.g. order, project, team, etc.
+This is perfect for allowing un-verified users to ask about their account/orders or if you want to allow users to ask more about a specific piece of content in your system e.g. order, project, team, etc.
 
-If your API (tool) is just fetching some information about something, it doesn't need to be part of a task (see more below).
+We call these APIs "Tools" or "Actions".
+
+You can read more about setting these up here:&#x20;
 
 {% content-ref url="ai-actions-tools.md" %}
 [ai-actions-tools.md](ai-actions-tools.md)
 {% endcontent-ref %}
 
-#### 3) Tasks: Take Action e.g. Collect & Save User Data or Cancelling an Order
+{% hint style="info" %}
+If your API (Tool) is just fetching some information about something, it doesn't need to be part of a Task (see more below).
+{% endhint %}
 
-This is a more advanced case where you have a multi-step workflow usually done by your human agents. This might involve collecting some information from a user for booking a demo and then creating the meeting invite. Or it might involved checking recent orders, seeing if an order can be cancelled and then cancelling it.
+#### 3. Tasks: Take action e.g. collect & save user data or cancelling an order
 
-With a task, the AI agent will follow each step you define and some of these steps may involve API calls as well. So you can consider a task as a set of instructions that wrap together tools (APIs) that you have given your AI agent access to.
+This is a more advanced case where you have a multi-step workflow usually done by your human agents.&#x20;
+
+This might involve collecting some information from a user for booking a demo and then creating the meeting invite. Or it might involved checking recent orders, seeing if an order can be cancelled and then cancelling it.
+
+With a task, the AI agent will follow each step you define and some of these steps may involve API calls as well.&#x20;
+
+So you can consider a Task as a set of instructions that wrap together tools (APIs) that you have given your AI agent access to.
+
+You can read more on Tasks here:
 
 {% content-ref url="tasks/" %}
 [tasks](tasks/)

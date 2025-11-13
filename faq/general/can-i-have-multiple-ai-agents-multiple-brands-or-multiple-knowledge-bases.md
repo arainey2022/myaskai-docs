@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 👯 Can I have multiple AI agents, multiple brands or multiple knowledge bases?
 
 ### Can I have multiple AI agents?

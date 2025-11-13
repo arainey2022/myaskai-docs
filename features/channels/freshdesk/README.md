@@ -72,11 +72,11 @@ By default your Freshdesk Ticket AI agent will respond to Email and Web form tic
 
 When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you can use our [Freshdesk tagging](freshdesk-tagging.md) feature to block replies to certain tags, custom fields or topics.
 
@@ -92,7 +92,7 @@ When a ticket is replied to by a customer requesting a person (if they need more
 
 You can then use the `ai-agent-replied` and `human-handover-requested` tags to create views in Freshdesk to manage the escalated tickets or review AI agent responses.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my AI support agent within Freshdesk Tickets?
 
@@ -144,7 +144,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the handover tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my Freshdesk Ticket AI agent to reply to follow-up tickets?
 
@@ -158,6 +158,10 @@ To use it:
 4. An AI response will be generated for you like magic!
 
 <figure><img src="../../../.gitbook/assets/ChromeExtFD1-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
+### I have multiple brands, users or email accounts in Freshdesk, can I have the AI agent only respond to one of them (or specific ones)?
+
+Please get in touch with us by asking to "Talk to a person" if you have multiple brands in Freshdesk.
 
 ### How do I remove my Freshdesk Ticket AI agent?
 
