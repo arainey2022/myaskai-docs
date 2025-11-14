@@ -228,6 +228,6 @@ You can confirm they have been imported by going to the **Knowledge** section of
 
 To pause or temporarily pause AI replies or notes in Zendesk Messaging go to **Channels > Zendesk Messaging** then scroll to the toggle for "Pause AI agent".
 
-<figure><img src="../../../.gitbook/assets/image (60) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.
