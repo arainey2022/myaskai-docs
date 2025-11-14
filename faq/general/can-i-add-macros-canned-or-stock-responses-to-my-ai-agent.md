@@ -8,7 +8,7 @@ If you use these often, you may want to add them as a knowledge source to your A
 
 To do this, there are a few options:
 
-1. If you are using Zendesk, and have connected your Zendesk account, we will import your Zendesk Macros as [Custom Answers](../../features/improve/#custom-answers) automatically.
+1. If you are using Zendesk, and have connected your Zendesk account, you can import your Zendesk Macros as [Custom Answers](../../features/improve/#custom-answers) by going to the Knowledge page of your Dashboard and clicking "**Import Macros**".
 2. If you want the AI to use the responses verbatim (exactly as written), then you should add them as [Custom Answers](../../features/improve/#how-do-i-create-a-custom-answer).
 3. If you want the AI to just refer to them as another knowledge source, and you don't need the responses to be exactly as written, then you can create and upload a document with the macros in it. \
    \

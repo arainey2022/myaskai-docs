@@ -213,23 +213,17 @@ This option is on by default.
 
 When a user tries to handover immediately they will be asked to provide more information first. On any subsequent messages, they can initiate a handover to an agent.
 
-### Can I have multiple AI agents responding to my Zendesk Tickets?
+### I have multiple brands, users or email accounts in Zendesk, can I have the AI agent only respond to one of them (or specific ones)?
 
-Yes, you can have multiple AI agents set-up to respond to your Zendesk Tickets.
+Yes, you can set your AI agent up so it only responds to specific emails or brands in Zendesk.
 
-There are occasions where you may need to use separate AI agents, whether you have separate products or user groups, for example.
+By default your AI agent will reply to all inbound emails and chats.
 
-In these instances, it can make sense to have separate agents responding, so you can set separate controls, guidance, or knowledge and ensure there is no risk of "mixing up" answers.
+But if you want it to reply to only certain email addresses or brands e.g. support@company.com and not vip-support@company.com  then you can edit the Trigger conditions and add the brands or email accounts you want it to reply to (e.g. support@company.com).&#x20;
 
-To do this:
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-1. &#x20;Set up separate AI agent accounts for each use case and connect your knowledge.
-2. [Follow the normal setup steps as outlined above](zendesk-tickets.md#how-to-connect-your-ai-agent-to-zendesk-tickets).
-3. When you are updating the 2 My AskAI triggers that you have created, append to each of them a unique identifier to the `organization_id` field e.g.  `-1` (or `-2` if it is a third account)
-
-<figure><img src="../../../.gitbook/assets/image (76) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-4. Once you have done this, notify us via our live chat, sharing the email addresses of the accounts you have created and the unique identifiers you have used and we will update your account settings.
+This will ensure it only replies to these brand and accounts.
 
 ### How do I remove my Zendesk Ticket AI agent?
 
@@ -248,9 +242,9 @@ To do this:
 
 ### Can I train it on my Zendesk Macros?
 
-Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve/#custom-answers) (where you can edit and manage them).
+Yes, when you connect your Zendesk account to My AskAI, you can also import your Zendesk Macros as [Custom Answers](../../improve/#custom-answers) (where you can edit and manage them).
 
-You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
+To do this, go to the **Knowledge** section of your **Dashboard** and click **"Import Macros"**.
 
 ### Can I delay my Zendesk email replies to make them seem more 'human'?
 

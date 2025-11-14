@@ -220,9 +220,9 @@ To edit the starter questions in the Zendesk Messaging widget go to the **Dashbo
 
 ### Can I train it on my Zendesk Macros?
 
-Yes, when you connect your Zendesk account to My AskAI, we will automatically import your Zendesk Macros as [Custom Answers](../../improve/#custom-answers) (where you can edit and manage them).
+Yes, when you connect your Zendesk account to My AskAI, you can also import your Zendesk Macros as [Custom Answers](../../improve/#custom-answers) (where you can edit and manage them).
 
-You can confirm they have been imported by going to the **Knowledge** section of your **Dashboard**.
+To do this, go to the **Knowledge** section of your **Dashboard** and click **"Import Macros"**.
 
 ### How can I pause or temporarily turn off AI replies or notes in Zendesk Messaging?
 

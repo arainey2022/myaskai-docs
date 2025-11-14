@@ -42,7 +42,7 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Request email (continuous conversation)
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2. Collect the email in the chat within the Zendesk Messaging widget
 
@@ -62,4 +62,4 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Send message to customer, Name of agent: AI Agent, Message: e.g. What's your email, please?
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -22,6 +22,14 @@ You'll only need to get a developer involved if/when you start wanting to connec
 
 ### How quickly will I have my AI agent replying?
 
+Most of our customers will have their AI agent writing draft/note replies for their human agents on the first day they sign up!&#x20;
+
+It’s that quick and easy.&#x20;
+
+They’ll then add in more knowledge and guidance to perfect their agent’s responses. And once they’re confident with the AI’s replies (which might days or weeks) they’ll allow the AI agent to reply directly to their customers.
+
+So how quickly the AI agent is live is up to you. It can be a day, or it can be a few weeks if you want to monitor and tweak the AI agent more before setting live.
+
 You can [sign up on our homepage](https://myaskai.com/) today, no sales calls or demos required (unless you want one).
 
 Once you sign up, you will [go through a simple onboarding set-up](create-your-ai-customer-service-agent.md) where you'll:
@@ -34,9 +42,9 @@ Once you sign up, you will [go through a simple onboarding set-up](create-your-a
 
 There is obviously much more you can do to improve this setup, but principally when you have completed the above onboarding (\~5-10 mins) you will be getting AI replies.
 
-### What will the first 90 days of using my AI agent look like?
+### What will the first 30 days of using my AI agent look like?
 
-Here's what a typical first 90 days looks like for a new customer:
+Here's what a typical first 30 days (and beyond) looks like for a new customer:
 
 #### **Day 1 (15-30 mins)**
 
@@ -74,21 +82,14 @@ Here's what a typical first 90 days looks like for a new customer:
 
 * Add credit card and upgrade to paid account
 
-#### Day 31 - 60 (15-45 mins/day, 1-3hrs one-off for APIs)
+#### Months 2-3 (15-45 mins/day, 1-3hrs one-off for APIs)
 
+* Daily/weekly QA review of a sample of AI agent replies
+  * Review and approve knowledge gap suggestions
+  * Tweak guidance
+  * Look for low AI resolution or CSAT topics
 * Create and connect APIs to provide dynamic, personalized data to AI agent via [User Data API](../features/user-data-api/)
-* Daily/weekly QA review of a sample of AI agent replies
-  * Review and approve knowledge gap suggestions
-  * Tweak guidance
-  * Look for low AI resolution or CSAT topics
-
-#### Day 61 - 90 (15-45 mins/day, 1-3hrs one-off for APIs)
-
 * Create APIs to allow AI agent to interact with back-end databases via [Tools](../features/ai-actions-tools.md)
-* Daily/weekly QA review of a sample of AI agent replies
-  * Review and approve knowledge gap suggestions
-  * Tweak guidance
-  * Look for low AI resolution or CSAT topics
 * Create multi-step [Tasks](../features/tasks/) (including tools) for highest impact processes
 
 ### How do I test my AI agent's responses?

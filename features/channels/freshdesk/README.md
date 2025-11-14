@@ -72,7 +72,7 @@ By default your Freshdesk Ticket AI agent will respond to Email and Web form tic
 
 When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
 
@@ -144,7 +144,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the handover tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my Freshdesk Ticket AI agent to reply to follow-up tickets?
 

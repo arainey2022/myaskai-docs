@@ -142,7 +142,7 @@ To add AI statuses of to a Freshchat conversation:
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
