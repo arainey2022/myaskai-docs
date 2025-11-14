@@ -30,6 +30,10 @@ There are several reasons why you should use your My AskAI within Zendesk Ticket
 You must be an Admin in your Zendesk account to connect your AI agent to Zendesk
 {% endhint %}
 
+{% hint style="info" %}
+Your AI agent can use one of your existing Zendesk ticket agent seats or you can create a new one, specifically for it.&#x20;
+{% endhint %}
+
 {% embed url="https://youtu.be/lnxOWzyiEKw" %}
 
 1. Login to your Dashboard and go to _**Channels**_.&#x20;
