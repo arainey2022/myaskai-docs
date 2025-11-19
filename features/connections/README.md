@@ -137,7 +137,11 @@ The maximum size of a local file to be uploaded is 10MB (this is a limitation pu
 
 ### Can I train my AI support agent on historic support tickets?
 
-We do not recommend training your AI support agent on historic support tickets for a few reasons:
+Yes, you can.
+
+If you don't have a help center and only have historic tickets, we can help you create one, ask to "Talk to a person" and we will help you to set this up.&#x20;
+
+We generally do not recommend training your AI support agent directly on your historic support tickets for a few reasons:
 
 * There is no 'version control' of support tickets - answers that agents gave a year ago about a feature may have changed or no longer be relevant
 * They rely on consistent responses from your agents - not all agents will respond in the same way, some will be better, some worse, the AI won't be able to distinguish from them
@@ -146,5 +150,3 @@ We do not recommend training your AI support agent on historic support tickets f
 We therefore always recommend that you use a verifiable source of truth to train your AI (like a help center or knowledgebase which has been through a review process and is managed).
 
 This will ensure your AI gives the best quality AI responses.
-
-However, if you still are interested in training on historic tickets, please get in touch with us via our live chat, as we can offer integrations with Zendesk, Freshdesk and Intercom tickets on our Enterprise plans.&#x20;
