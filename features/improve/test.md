@@ -11,6 +11,10 @@ Our batch Test feature takes a sample of your historic support tickets and previ
 
 You can find the batch testing feature in your Dashboard under **Improve > Test**.
 
+{% hint style="info" %}
+Historic tickets for batch testing are only imported at onboarding, you can't import them subsequent to this. We will however use your human replies to tickets on an ongoing basis to generate proposed custom answers to fill knowledge gaps. &#x20;
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I add test questions to my AI agent to evaluate its performance?

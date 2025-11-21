@@ -10,7 +10,7 @@ Here's how we would recommend testing and rolling out your AI agent:
 
 ### 1. Use batch-testing initially to get comfortable with replies
 
-[Our batch-testing feature](../features/improve/test.md) will import a sample of historic tickets from your helpdesk and demonstrate how your AI agent would have responded to them, had it had the opportunity.
+[Our batch-testing feature](../features/improve/test.md) will import a sample of historic tickets from your helpdesk when you sign up (you can't import historic tickets after signing up) and demonstrate how your AI agent would have responded to them, had it had the opportunity.
 
 You can add additional sample questions to this batch-test set and re-run over all questions to simulate its responses.
 

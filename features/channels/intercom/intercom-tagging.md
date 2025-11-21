@@ -80,6 +80,13 @@ If your attributes aren't being applied to pre-existing fields it may be because
 
 If you are using a custom field with pre-set values in Intercom, you must ensure you use the attribute name from within Intercom exactly.
 
+### When does the Intercom conversation attribute get added or updated when using tagging?
+
+The live chat attribute will be updated:&#x20;
+
+* If there are no [blocked tags or attributes](intercom-tagging.md#how-can-i-ensure-the-ai-agent-only-responds-to-certain-types-of-intercom-conversations-or-tickets) (i.e. AI is replying) then the conversation attribute is updated after 5 mins from first user message.
+* If there are some blocked attributes, then the conversation attribute is updated immediately (on first the user message).
+
 ### How do I pause or turn off my Intercom Auto-Tagging?
 
 To turn off or pause your Auto-Tagging, go to **AI Agent Setup > Auto-Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.
