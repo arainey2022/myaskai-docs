@@ -157,11 +157,11 @@ To add AI statuses of to a Freshchat conversation:
 
 When a ticket is replied to by your AI agent in Freshchat  you will see the AI response in the conversation thread.
 
-Additionally ([if you have created your AI Chat Status for Freshchat](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-status-of-a-conversation-is)) you will see the AI Chat Status tag updated to `ai-agent-replied`  for the thread.
+Additionally ([if you have created your AI Chat Status for Freshchat](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-chat-status-of-a-freshchat-conversation-i)) you will see the AI Chat Status tag updated to `ai-agent-replied`  for the thread.
 
-When a conversation is replied to by a customer requesting a person (if they need more help for instance) then an internal note is also added to the ticket and ([if you have created your AI Chat Status for Freshchat](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-status-of-a-conversation-is)) the AI Chat Status is updated to `human-handover-requested`.
+When a conversation is replied to by a customer requesting a person (if they need more help for instance) then an internal note is also added to the ticket and ([if you have created your AI Chat Status for Freshchat](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-chat-status-of-a-freshchat-conversation-i)) the AI Chat Status is updated to `human-handover-requested`.
 
-Assuming you have [created your AI Chat Status](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-status-of-a-freshchat-conversation-is) you can then use the `ai-agent-replied` and `human-handover-requested` conversation properties to create custom views in Freshchat to manage the escalated tickets or review AI agent responses.
+Assuming you have [created your AI Chat Status](./#how-do-i-add-conversation-properties-so-i-know-what-the-ai-chat-status-of-a-freshchat-conversation-i) you can then use the `ai-agent-replied` and `human-handover-requested` conversation properties to create custom views in Freshchat to manage the escalated tickets or review AI agent responses.
 
 Create a new view and filter using the AI Agent status field: `ai-agent-replied` or `human-handover-requested` or `ai-agent-tag-blocked` .
 
