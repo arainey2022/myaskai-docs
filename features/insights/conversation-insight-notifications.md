@@ -49,21 +49,17 @@ _This should be done by your Slack Workspace admin. Some of the steps are mildly
 1. Decide on a channel you want to receive notifications or create a new channel, e.g. #askai-insights
 2. Sign into Slack on the web and create a new 'App': [https://api.slack.com/apps?new\_app=1](https://api.slack.com/apps?new_app=1)
 3. Choose 'Create from scratch', name the app 'My AskAI Insights' and select your Workspace
-4.  Select 'Incoming webhooks' within the section 'Add features and functionality'\
-
+4.  Select 'Incoming webhooks' within the section 'Add features and functionality'<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2024-03-01 at 15.04.40.png" alt="" width="563"><figcaption></figcaption></figure></div>
-5.  Activate incoming webhooks with the toggle switch\
-
+5.  Activate incoming webhooks with the toggle switch<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (131).png" alt="" width="563"><figcaption></figcaption></figure></div>
 6. Create a webhook by scrolling down and selecting the button 'Add New Webhook to Workspace'.
-7.  Select the channel you want to send the insights to and 'Allow' permission for this app with your Workspace.\
-
+7.  Select the channel you want to send the insights to and 'Allow' permission for this app with your Workspace.<br>
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (132).png" alt="" width="563"><figcaption></figcaption></figure></div>
-8.  Copy your Slack webhook URL (scroll down).\
-
+8.  Copy your Slack webhook URL (scroll down).<br>
 
     <figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 9. Paste this webhook URL in your My AskAI Dashboard's Slack notifications settings.

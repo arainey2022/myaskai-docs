@@ -1,16 +1,16 @@
 ---
 description: >-
-  My AskAI's SiteSync feature ensures that your AI agent is always automatically
-  up to date with your website and help documentation.
+  Your AI agent will ensure your content is always automatically up to date from
+  your website and help documentation.
 ---
 
-# 🔁 SiteSync — Adding & syncing your website content
+# 🔁 Adding & syncing your website content
 
 Each fortnight (2 weeks) we re-scrape your webpages (looking for any new ones in the process) and add them to your AI agent to ensure the AI's content is always up to date.
 
 ### How many websites can you add?
 
-On all paid plans, you can add a maximum of 3 websites to crawl, however each website can [contain thousands of pages](sitesync-adding-and-syncing-your-website-content.md#how-many-pages-do-you-add).
+On all paid plans, you can add a maximum of 3 websites to crawl, however each website can [contain thousands of pages](adding-and-syncing-your-website-content.md#how-many-pages-do-you-add).
 
 ### How many pages do you add?
 
@@ -33,7 +33,7 @@ To see the pages added, just click on each URL in your Website Content section a
 
 ### Can I add individual webpages to my AI support agent?
 
-Yes, you can add individual webpages. Just go to your _Dashboard > AI Agent setup > Knowledge_ then click on the domain you want to add the site to, and at the top of the pop-up you will see an option to add a new page (we'll check for duplicates too so you don't add multiple versions of the same page).
+Yes, you can add individual webpages. Just go to your _Dashboard >  Knowledge_ then click on the domain you want to add the site to, and at the top of the pop-up you will see an option to add a new page (we'll check for duplicates too so you don't add multiple versions of the same page).
 
 <figure><img src="../.gitbook/assets/image (296).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ The webpage(s) will then be included in any future site syncs.
 
 ### Can I refresh or update webpages before the fortnightly sync?
 
-Yes, you can update webpages at any time,  just go to your _Dashboard > AI agent setup > Knowledge_ then click on the domain that has the individual page you want to refresh, then from the pop-up, find the page you want to refresh and click the refresh icon next to the page, we'll then force a manual re-sync of that page.
+Yes, you can update webpages at any time,  just go to your _Dashboard > Knowledge_ then click on the domain that has the individual page you want to refresh, then from the pop-up, find the page you want to refresh and click the refresh icon next to the page, we'll then force a manual re-sync of that page.
 
 <figure><img src="../.gitbook/assets/image (297).png" alt="" width="563"><figcaption></figcaption></figure>
 

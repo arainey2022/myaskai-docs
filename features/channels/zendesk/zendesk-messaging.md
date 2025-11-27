@@ -55,8 +55,7 @@ How to add My AskAI to your Zendesk Mesaging widget
 
 4. If you have multiple Zendesk accounts, you will need to input your Zendesk subdomain, which you can find by looking at the URL of your Admin Center or Agent Dashboard e.g. (the text in <mark style="color:blue;">**blue**</mark> is the subdomain):\
    \
-   &#x20;       _https://<mark style="color:blue;">**teammyaskai**</mark>.zendesk.com_\
-
+   &#x20;       _https://<mark style="color:blue;">**teammyaskai**</mark>.zendesk.com_<br>
 5. Enter your subdomain and click "Sign in"
 
 <figure><img src="../../../.gitbook/assets/image (367).png" alt="" width="453"><figcaption></figcaption></figure>
@@ -72,8 +71,7 @@ How to add My AskAI to your Zendesk Mesaging widget
 <figure><img src="../../../.gitbook/assets/image (74) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 10. After tickets have been 'Solved' they need to be moved to 'Closed', so that the AI assistant can take control of the conversation again. There are two ways you can do this.
-    1.  Go to _**Objects and rules > Automations**_, and find the existing automation called "Close ticket 4 days". Edit the "Hours since status..." field to 1 (recommended, but you can choose your own value). This means after tickets are solved, they will be closed within an hour and control returned to the AI assistant.\
-
+    1.  Go to _**Objects and rules > Automations**_, and find the existing automation called "Close ticket 4 days". Edit the "Hours since status..." field to 1 (recommended, but you can choose your own value). This means after tickets are solved, they will be closed within an hour and control returned to the AI assistant.<br>
 
         <figure><img src="../../../.gitbook/assets/image (402).png" alt="" width="563"><figcaption></figcaption></figure>
     2. If you want to immediately pass back control to the AI assistant when a ticket has been solved, then you will need to set up a 'Trigger'. To do this, go to _**Objects and rules > Triggers > Create trigger.**_\

@@ -11,7 +11,7 @@ description: >-
 Available on our Pro plan.
 {% endhint %}
 
-To add more knowledge (in addition to adding [website content](../sitesync-adding-and-syncing-your-website-content.md) and [files](../file-uploads.md)) to your AI support agent you can connect your cloud-based knowledge sources.
+To add more knowledge (in addition to adding [website content](../adding-and-syncing-your-website-content.md) and [files](../file-uploads.md)) to your AI support agent you can connect your cloud-based knowledge sources.
 
 {% hint style="info" %}
 Where possible, you should always try and add knowledge using Connections as you will get much better answer quality as a result.

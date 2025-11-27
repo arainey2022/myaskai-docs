@@ -235,8 +235,7 @@ This is only necessary when your AI email assistant is in ["Autopilot" mode](ema
 <figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 8. You have now created a forwarding address. But no email will be automatically forwarded until you either:
-   1.  Choose to "Forward a copy of all incoming mail to \<your new forwarding address>" from the Forwarding and POPMAP settings\
-
+   1.  Choose to "Forward a copy of all incoming mail to \<your new forwarding address>" from the Forwarding and POPMAP settings<br>
 
        <figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
    2. You [create a filter rule to decide which mail is forwarded](email-assistant.md#setting-up-email-filtering-for-gmail)

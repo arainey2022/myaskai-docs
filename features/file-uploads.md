@@ -11,7 +11,7 @@ description: >-
 Available on all paid plans.
 {% endhint %}
 
-To add more knowledge (in addition to adding [website content](sitesync-adding-and-syncing-your-website-content.md) and [connected content](connections/)) to your AI chatbot you can upload files from your local device.
+To add more knowledge (in addition to adding [website content](adding-and-syncing-your-website-content.md) and [connected content](connections/)) to your AI chatbot you can upload files from your local device.
 
 By default, all files uploaded are marked "Public". [You can also make them private](private-internal-mode.md#setting-visibility-on-files-and-connections).&#x20;
 

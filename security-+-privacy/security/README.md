@@ -25,10 +25,10 @@ For full details of our processors, data retention, technical architecture pleas
 
 For additional security:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/Cb1mdXm83EjjluGvCiAo" %}
+[Broken link](/broken/pages/Cb1mdXm83EjjluGvCiAo)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/EYZnERYW2uCNhTM3ob5f" %}
+[Broken link](/broken/pages/EYZnERYW2uCNhTM3ob5f)
 {% endcontent-ref %}

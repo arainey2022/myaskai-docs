@@ -26,8 +26,7 @@ You can find the tagging app in the [Zendesk Marketplace here](https://www.zende
 
 3. If you chose a Custom Field and have one setup in Zendesk already, then we will automatically import your Custom Fields to choose from. Select the one you want to auto-tag and we will import all of your tags for that Custom Field and auto generate a description for each tag.\
    \
-   If you chose a Custom Field and don't have one setup in Zendesk already or you chose Tag then you will need to add a list of values/tags and descriptions for those values/tags so the AI knows under which circumstances each value/tag should be applied.\
-
+   If you chose a Custom Field and don't have one setup in Zendesk already or you chose Tag then you will need to add a list of values/tags and descriptions for those values/tags so the AI knows under which circumstances each value/tag should be applied.<br>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

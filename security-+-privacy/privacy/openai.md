@@ -12,7 +12,7 @@ You can learn more about their data retention policy here: [https://openai.com/p
 
 ### Do I need to add an OpenAI key
 
-No, unless you are on an [Enterprise plan and choose to use your own key](broken-reference).
+No, unless you are on an [Enterprise plan and choose to use your own key](/broken/pages/EYZnERYW2uCNhTM3ob5f).
 
 ### Can OpenAI access documents?
 

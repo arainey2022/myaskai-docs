@@ -19,8 +19,7 @@ Available as an add-on for paid plans
 
 This needs to be done by a Workspace Owner.
 
-[https://appsource.microsoft.com/en/product/office/WA200005660?tab=Overview](https://appsource.microsoft.com/en/product/office/WA200005660?tab=Overview)\
-
+[https://appsource.microsoft.com/en/product/office/WA200005660?tab=Overview](https://appsource.microsoft.com/en/product/office/WA200005660?tab=Overview)<br>
 
 Add My AskAI to 'a team' and then add to any 'channel'.
 

@@ -15,19 +15,16 @@ Available as an add-on for paid plans
 
 ### How to connect to Slack with My AskAI
 
-1. Sign in to your Slack Workspace as an **admin**\
-
+1. Sign in to your Slack Workspace as an **admin**<br>
 2. **Add My AskAI** to your Slack to your Workspace\
    \
    Click below :point\_down:
 
-&#x20;       [![Add to Slack](https://platform.slack-edge.com/img/add_to_slack.png)](https://slack.com/oauth/v2/authorize?client_id=3639755760257.5036828617799\&scope=channels:history,channels:join,chat:write,commands,groups:history,im:history\&user_scope=)\
-
+&#x20;       [![Add to Slack](https://platform.slack-edge.com/img/add_to_slack.png)](https://slack.com/oauth/v2/authorize?client_id=3639755760257.5036828617799\&scope=channels:history,channels:join,chat:write,commands,groups:history,im:history\&user_scope=)<br>
 
 3. **Get your My AskAI's ID and API Key**\
    \
-   Go to _**Channels > Slack & Teams**_ and click the Slack icon then copy your My AskAI's **ID** and **API Key**.\
-
+   Go to _**Channels > Slack & Teams**_ and click the Slack icon then copy your My AskAI's **ID** and **API Key**.<br>
 4. **Add your My AskAI's ID and API Key to Slack**
    1. Select the My AskAI app within Slack&#x20;
    2. Select 'Connect My AskAI'
@@ -49,8 +46,7 @@ e.g. **/askAI what is our refund policy?**
 \
 You can then ask follow-up questions within the same Slack thread and start a conversation with your AskAI.\
 \
-If you want to ask a question in a **private channel**, you need to add **@askai** to your channel. Just tag **@askai** and then select "Invite".\
-
+If you want to ask a question in a **private channel**, you need to add **@askai** to your channel. Just tag **@askai** and then select "Invite".<br>
 
 {% hint style="info" %}
 Your Slack bot will not search your Slack history.

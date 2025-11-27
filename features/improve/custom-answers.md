@@ -27,7 +27,7 @@ Tip: When creating a custom answer, to get best results, type the question in 3 
 Custom answers should be used for small corrections, adjustments, or if there is a question that doesn't warrant its own documentation.
 
 {% hint style="info" %}
-Before adding a custom answer, think about whether it would make more sense to update your documentation and [refresh the page](../sitesync-adding-and-syncing-your-website-content.md#can-i-refresh-or-update-webpages-before-the-weekly-sync) to allow your AI support agent to answer instead.
+Before adding a custom answer, think about whether it would make more sense to update your documentation and [refresh the page](../adding-and-syncing-your-website-content.md#can-i-refresh-or-update-webpages-before-the-weekly-sync) to allow your AI support agent to answer instead.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>

@@ -69,7 +69,7 @@
   * [🔍 Inspect & Logs](features/improve/inspect-and-logs.md)
 * [🔓 Private (Internal) mode](features/private-internal-mode.md)
 * [📂 File uploads](features/file-uploads.md)
-* [🔁 SiteSync — Adding & syncing your website content](features/sitesync-adding-and-syncing-your-website-content.md)
+* [🔁 Adding & syncing your website content](features/adding-and-syncing-your-website-content.md)
 * [💡 Insights](features/insights/README.md)
   * [🔔 Conversation insight notifications](features/insights/conversation-insight-notifications.md)
 * [👯 Team access](features/team-access.md)

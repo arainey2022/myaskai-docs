@@ -48,8 +48,7 @@ conversations.write
 3. Then click the "Connect your HubSpot account" button.
 
 {% hint style="info" %}
-Messages from your AI agent will be sent from the account/user that is used to login to HubSpot and connect with My AskAI. e.g. AI responses will appear to come from an agent.\
-
+Messages from your AI agent will be sent from the account/user that is used to login to HubSpot and connect with My AskAI. e.g. AI responses will appear to come from an agent.<br>
 
 You can create a separate account for this if you’d like to customise the name or image of the AI agent.
 {% endhint %}
@@ -77,12 +76,10 @@ There are 2 ways you can use your AI support agent within HubSpot:
 
 <figure><img src="../../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
-3.  _(Highly Recommended - but optional)_ - Disable your “Knowledge base search” within any “Chatflows”\
-
+3.  _(Highly Recommended - but optional)_ - Disable your “Knowledge base search” within any “Chatflows”<br>
 
     <figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
-4.  _(Recommended - but optional)_ - Change your chat to show as "available 24/7" and don't show "Typical reply time", you can get to this from: _Conversations (drop down) > Inbox > Inbox Settings > Channels: Chat > ‘Edit’_\
-
+4.  _(Recommended - but optional)_ - Change your chat to show as "available 24/7" and don't show "Typical reply time", you can get to this from: _Conversations (drop down) > Inbox > Inbox Settings > Channels: Chat > ‘Edit’_<br>
 
     <figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 5. That's it! Your Hubspot live chat will now automatically respond to user queries using your AI agent's knowledge.

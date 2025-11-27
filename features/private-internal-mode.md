@@ -36,7 +36,7 @@ In the bottom left corner, you will see a toggle switch, which will allow you to
 
 #### Slack, Teams, Zapier, API
 
-When using any of our integrations with [Slack](channels/slack.md), [Microsoft Teams](channels/microsoft-teams.md), [Zapier](channels/zapier.md) or the [API](broken-reference), responses will be given using the Public + Private mode, so your team can access answers on your complete knowledge base.
+When using any of our integrations with [Slack](channels/slack.md), [Microsoft Teams](channels/microsoft-teams.md), [Zapier](channels/zapier.md) or the [API](/broken/pages/dNdFSSoUyqRI4TkfZFuY), responses will be given using the Public + Private mode, so your team can access answers on your complete knowledge base.
 
 ### Setting visibility on files and connections
 

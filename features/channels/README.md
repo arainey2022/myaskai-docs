@@ -59,8 +59,8 @@ Try out My AskAI in your channels:
 
 Or build your own with our API:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/dNdFSSoUyqRI4TkfZFuY" %}
+[Broken link](/broken/pages/dNdFSSoUyqRI4TkfZFuY)
 {% endcontent-ref %}
 
 ### Is user information from Intercom, Zendesk, HubSpot, Freshchat, Freshdesk, Slack or Teams used in the AI responses?
