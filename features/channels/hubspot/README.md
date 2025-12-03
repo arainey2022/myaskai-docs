@@ -64,6 +64,10 @@ You can create a separate account for this if you’d like to customise the name
 
 ### How can I use my AI support agent within HubSpot?
 
+{% hint style="info" %}
+Note that our HubSpot integration works with the HubSpot Service Hub, not with the HubSpot Ticketing System, so tickets are not currently created.
+{% endhint %}
+
 There are 2 ways you can use your AI support agent within HubSpot:
 
 1. [_Fully automated AI support agent_](./#how-to-set-up-and-activate-the-fully-automated-ai-support-agent)
@@ -158,9 +162,9 @@ This phrase must exactly match the pre-defined button you are going to use in yo
 
 4. After creating the trigger phrase/button in your HubSpot chatflow, add a final “Send to team member” (assign to no one) step to your chatflow. Name it and add a message such as “What is your question?” (can be anything to prompt the user to write their question).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.

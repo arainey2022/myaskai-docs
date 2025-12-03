@@ -31,9 +31,13 @@ There are 2 ways you can do this depending on your needs:
 
 **How to set up:**
 
-1. In Zendesk go to: **Objects and rules > Business rules > Messaging triggers**
-2. Create a trigger and name it e.g. "Ask for email after human handover" with a description e.g. "Ask for email after the AI agent hands the messaging conversation to a human agent"
-3. Setup with the following settings:\
+1. In Zendesk first enable continuous conversations within **Object and rules > Tickets > Settings**
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+2. Then go to: **Objects and rules > Business rules > Messaging triggers**
+3. Create a trigger and name it e.g. "Ask for email after human handover" with a description e.g. "Ask for email after the AI agent hands the messaging conversation to a human agent"
+4. Setup with the following settings:\
    \
    Activate this trigger = checked\
    Run only once per ticket = checked\
@@ -42,7 +46,7 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Request email (continuous conversation)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2. Collect the email in the chat within the Zendesk Messaging widget
 
@@ -62,4 +66,4 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Send message to customer, Name of agent: AI Agent, Message: e.g. What's your email, please?
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

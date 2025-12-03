@@ -109,6 +109,7 @@
   * [Download an invoice](account-management/billing/download-an-invoice.md)
   * [Discounts](account-management/billing/discounts.md)
   * [Refunds](account-management/billing/refunds.md)
+  * [Usage costs](account-management/billing/usage-costs.md)
   * [Tax](account-management/billing/tax.md)
   * [Cancel subscription](account-management/billing/cancel-subscription.md)
 * [🧑‍🤝‍🧑 User access](account-management/user-access/README.md)
@@ -133,6 +134,7 @@
 ## FAQ
 
 * [🪖 General](faq/general/README.md)
+  * [🎟️ Can I train it initially on my historic tickets?](faq/general/can-i-train-it-initially-on-my-historic-tickets.md)
   * [🧪 How can I test my AI agent without it responding to customers?](faq/general/how-can-i-test-my-ai-agent-without-it-responding-to-customers.md)
   * [📱 Can I use the AI agent within a mobile app?](faq/general/can-i-use-the-ai-agent-within-a-mobile-app.md)
   * [🥫 Can I add macros, canned or stock responses to my AI agent?](faq/general/can-i-add-macros-canned-or-stock-responses-to-my-ai-agent.md)
@@ -155,9 +157,9 @@
   * [✅ How can I test the accuracy of my AI agent's answers?](faq/general/how-can-i-test-the-accuracy-of-my-ai-agents-answers.md)
   * [📚 (Large Language Models) LLMs](faq/general/large-language-models-llms.md)
   * [✏️ Can I use my own OpenAI assistant or Custom GPT?](faq/general/can-i-use-my-own-openai-assistant-or-custom-gpt.md)
-  * [📊 Do you have a status or uptime page?](faq/general/do-you-have-a-status-or-uptime-page.md)
-  * [🤹‍♂️ How many concurrent conversations can the AI handle?](faq/general/how-many-concurrent-conversations-can-the-ai-handle.md)
-  * [💭 Does the AI agent have memory?](faq/general/does-the-ai-agent-have-memory.md)
+  * [🚦 Do you offer a SLA or uptime guarantee?](faq/general/do-you-offer-a-sla-or-uptime-guarantee.md)
+  * [🛑 Do you have any rate limits for conversations for your AI agent?](faq/general/do-you-have-any-rate-limits-for-conversations-for-your-ai-agent.md)
+  * [🧠 Does the AI agent use the ticket or conversation history when responding?](faq/general/does-the-ai-agent-use-the-ticket-or-conversation-history-when-responding.md)
   * [🥫 How do you manage spam tickets, chats or conversations?](faq/general/how-do-you-manage-spam-tickets-chats-or-conversations.md)
   * [🤔 How does it work?](faq/general/how-does-it-work.md)
 

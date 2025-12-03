@@ -13,7 +13,7 @@ We wanted to make it easy to get deep insights into what your users are asking y
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How to Use Your AI Support Agent's Insights
 
@@ -141,7 +141,7 @@ The median resolution time across all conversations can also be found on the mai
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt="" width="230"><figcaption></figcaption></figure>
 
-### Historic data
+### Historic data (Logs)
 
 At any time you can see the historic Insights data for your AI agent by using the period dropdown to see data from the last day, week, month, quarter, half year and year.
 
@@ -151,19 +151,15 @@ Note, that this data is for the last period from the date you have selected, you
 
 <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-### Export Insights, Conversations, Message History and Questions
+### Export Insights, Conversation History and Questions (Logs)
 
-{% hint style="info" %}
-Insight, Conversation and Question Exports are only available on Pro plans and above.
-{% endhint %}
-
-To export conversational Insights, Conversation, Message History or Question data to Excel or Google Sheets, you can click the export button in the top right of the Dashboard.
+To export conversational Insights, Conversation History or Question data to Excel or Google Sheets, you can click the export button in the top right of the Dashboard.
 
 {% hint style="info" %}
 For best results, import the Exported data to Google Sheets, as Excel has a tendency to not be able to parse/read special characters.
 {% endhint %}
 
-This will allow you to choose to export Insight topics, Conversation, Message History or Questions between the two dates you choose into a CSV file that you can use for further analysis.
+This will allow you to choose to export Insight topics, Conversation History or Questions between the two dates you choose into a CSV file that you can use for further analysis.
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt="" width="563"><figcaption></figcaption></figure>
 

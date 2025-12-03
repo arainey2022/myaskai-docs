@@ -7,14 +7,16 @@ description: >-
 
 # 🔓 Private (Internal) mode
 
-{% hint style="success" %}
-Available on all paid plans.
+Your AI agent in the dashboard has 2 modes depending on how you want to use it:
+
+* **Private + Public content** On: In this mode your AI agent will be able to answer questions from all available information uploaded to your AI agent as knowledge. It is also the mode used by your AI agent when using our Copilot Chrome Extension.
+* **Private content** Of&#x66;**:** In this mode, your AI agent will only use knowledge and content designated as public to answer questions, this will replicate how your AI agent will reply directly to customers in tickets or chats.
+
+{% hint style="info" %}
+Note that toggling between these modes for the widget in the dashboard will not impact your content visibility or its use by the AI agent for end customers/users. \
+\
+If you want to make specific content available to the AI agent for end customers/users you will need to [update its visiblity](private-internal-mode.md#setting-visibility-on-files-and-connections).
 {% endhint %}
-
-Your AI agent has 2 modes depending on how you want to use it:
-
-* **Public mode (Private content hidden)**: This is the mode used when you embed your AI agent on a webpage, it only has access to websites uploaded and any content you explicitly designate as "public".
-* **Public + Private mode:** This is the mode you should use when using your AI agent internally, within your business, it has access to all content added or uploaded to your agent.
 
 <figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
 

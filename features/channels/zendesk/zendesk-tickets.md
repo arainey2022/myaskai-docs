@@ -221,7 +221,7 @@ By default your AI agent will reply to all inbound emails and chats.
 
 But if you want it to reply to only certain email addresses or brands e.g. support@company.com and not vip-support@company.com  then you can edit the Trigger conditions and add the brands or email accounts you want it to reply to (e.g. support@company.com).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This will ensure it only replies to these brand and accounts.
 
