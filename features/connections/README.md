@@ -7,10 +7,6 @@ description: >-
 
 # ☁️ Connections
 
-{% hint style="success" %}
-Available on our Pro plan.
-{% endhint %}
-
 To add more knowledge (in addition to adding [website content](../adding-and-syncing-your-website-content.md) and [files](../file-uploads.md)) to your AI support agent you can connect your cloud-based knowledge sources.
 
 {% hint style="info" %}

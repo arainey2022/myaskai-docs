@@ -8,9 +8,7 @@ description: >-
 
 ### What happens if I go over or exceed my monthly conversation quota, limit or allowance?
 
-#### Pro Plan
-
-If you are on a Pro plan, then you have "Flex" turned pricing turned on (this cannot be turned off).&#x20;
+Your AI agent uses "Flex" or usage-based pricing.&#x20;
 
 Flex allows your AI agent to continue responding when you go beyond your conversation limits, each conversation beyond your account limit is charged at $0.10 and is charged in the next month's invoice or on cancellation.
 

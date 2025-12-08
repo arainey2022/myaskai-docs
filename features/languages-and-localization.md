@@ -6,10 +6,6 @@ description: >-
 
 # 🌍 Languages and Localization
 
-{% hint style="success" %}
-Available on our Pro plan.
-{% endhint %}
-
 <figure><img src="../.gitbook/assets/Languages.png" alt=""><figcaption></figcaption></figure>
 
 ### How do I change the language and localize my AI agent?

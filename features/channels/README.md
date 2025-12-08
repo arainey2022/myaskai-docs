@@ -7,10 +7,6 @@ description: >-
 
 # 🔌 Channels
 
-{% hint style="success" %}
-Available as an add-on for paid plans, all plans have a 30-day free trial
-{% endhint %}
-
 Try out My AskAI in your channels:
 
 {% content-ref url="zendesk/zendesk-tickets.md" %}

@@ -70,6 +70,10 @@ Your AI agent can use one of your existing Zendesk ticket agent seats or you can
 
 By default your Zendesk Ticket AI agent will respond to Email tickets that are "New" or "Open" (identified by a webhook trigger).
 
+{% hint style="warning" %}
+By default your AI agent won’t reply to tickets that are created by an agent. If you need to change this, please contact by asking to "Talk to a person".
+{% endhint %}
+
 If you want the Zendesk Ticket AI agent to respond to other channels, for example, a web form, then you will need to add a new trigger by either:
 
 * Duplicating the "Trigger" in Zendesk (if you want a web form in addition to your email tickets)
