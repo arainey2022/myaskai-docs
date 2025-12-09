@@ -12,4 +12,4 @@ These models are continually being re-evaluated, benchmarked and A/B tested to i
 
 We predominantly use OpenAI models (generally whichever is the latest model at time of writing), however for certain tasks we may use Google or Anthropic models where performance is superior.
 
-We don't currently use any reasoning models (such as O1 or O3 due to the slow speed at which they operate).
+We don't currently use any reasoning models due to their slower speeds for responses.

@@ -20,15 +20,11 @@ To set these alerts go to:&#x20;
 
 **Account Settings > Conversation Topic Alerts** then toggle the "Activate alerts" on and configure the number of new conversations of the same topic being discussed and the timeframe for those conversations and choose how you want to receive the alerts ([Email](conversation-insight-notifications.md#email-notifications) or [Slack](conversation-insight-notifications.md#slack-notifications)).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure>
-
 ## Email notifications
 
 <figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption><p>Example of an email notification for a conversation insight</p></figcaption></figure>
 
-Email notifications are sent to all team members (incl. the admin). Email notifications can be turned on within 'Account settings'. Notifications can only be turned on or off by an admin.
-
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+Email notifications are sent to all team members (incl. the admin). Email notifications can be turned on within 'Account settings'. Notifications can only be turned on or off by an admin and cannot be turned off for individual team members.
 
 ## Slack notifications
 
@@ -36,11 +32,7 @@ If your team uses Slack, you can receive insight notifications within a specific
 
 Slack notifications can be turned on within 'Account settings'. Notifications can only be turned on or off by an admin.
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
-
 ### Slack notification setup instructions
-
-
 
 {% hint style="warning" %}
 _This should be done by your Slack Workspace admin. Some of the steps are mildly technical._

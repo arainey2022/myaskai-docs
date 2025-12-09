@@ -28,18 +28,10 @@ To understand why your AI agent answered in the way that it did, you can use our
 **Tip:** If you can't locate the ticket or remember where you saw it, if you ask the same question in the preview widget e.g. on the Guidance page, you can then see that new conversation in the Inspect & Logs screen in a few seconds.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="470"><figcaption></figcaption></figure>
 
 2. Click the ticket and the Inspect side panel will open for that ticket or conversation.
-
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
-
 3. Click on "Inspect answer" and ask your question.
-
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="493"><figcaption></figcaption></figure>
-
 4. The AI inspector will then explain why the answer was given in the way that it was, and will share details of:\
    \
    \- A summary of the answer.\

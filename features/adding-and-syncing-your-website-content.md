@@ -29,25 +29,21 @@ Just enter your site URL and click "Add new site".
 
 ### How do I see which pages have been added to my AI support agent?
 
-To see the pages added, just click on each URL in your Website Content section and you'll see a pop-up with a list of all the webpages from that URL
+To see the pages added, just click on each URL in your Add Website Content section and you'll see a pop-up with a list of all the webpages from that URL
 
 ### Can I add individual webpages to my AI support agent?
 
-Yes, you can add individual webpages. Just go to your _Dashboard >  Knowledge_ then click on the domain you want to add the site to, and at the top of the pop-up you will see an option to add a new page (we'll check for duplicates too so you don't add multiple versions of the same page).
-
-<figure><img src="../.gitbook/assets/image (296).png" alt="" width="563"><figcaption></figcaption></figure>
+Yes, you can add individual webpages. Just go to your _**Dashboard >  Content > Knowledge > Add website content**_ then click on the domain you want to add the site to, and at the top of the pop-up you will see an option to add a new page (we'll check for duplicates too so you don't add multiple versions of the same page).
 
 The webpage(s) will then be included in any future site syncs.
 
 ### Can I refresh or update webpages before the fortnightly sync?
 
-Yes, you can update webpages at any time,  just go to your _Dashboard > Knowledge_ then click on the domain that has the individual page you want to refresh, then from the pop-up, find the page you want to refresh and click the refresh icon next to the page, we'll then force a manual re-sync of that page.
-
-<figure><img src="../.gitbook/assets/image (297).png" alt="" width="563"><figcaption></figcaption></figure>
+Yes, you can update webpages at any time,  just go to your _**Dashboard > Content > Knowledge > Add website content**_ then click on the domain that has the individual page you want to refresh, then from the pop-up, find the page you want to refresh and click the refresh icon next to the page, we'll then force a manual re-sync of that page.
 
 ### Can I hide or delete individual webpage(s) from the AI agent to prevent it from training on them? &#x20;
 
-Yes, you can hide or delete individual webpage(s) from the AI agent to prevent it from training on them. To do this, go to your _Dashboard > Knowledge,_ then click on the domain that has the individual page/URL you want to delete, then from the pop-up, find the page you want to delete and click the "Visible" toggle button, it will then move to "Hidden".&#x20;
+Yes, you can hide or delete individual webpage(s) from the AI agent to prevent it from training on them. To do this, go to your _**Dashboard > Content > Knowledge > Add website content**,_ then click on the domain that has the individual page/URL you want to delete, then from the pop-up, find the page you want to delete and click the "Visible" toggle button, it will then move to "Hidden".&#x20;
 
 This will mean that the page/URL will no longer be used to answer customer/user questions.
 
@@ -55,11 +51,9 @@ This will mean that the page/URL will no longer be used to answer customer/user 
 If you have removed the page from your site permanently, then use the trash can icon to delete the page.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-22 082252.png" alt=""><figcaption></figcaption></figure>
-
 ### How do I know when a website (or other content) was last synced?
 
-To see when a piece of content was last synced (i.e. when the content was last added to your AI agent), go to your _**Dashboard > Knowledge**_, then select your Knowledge source (either website domain or knowledge connection).
+To see when a piece of content was last synced (i.e. when the content was last added to your AI agent), go to your _**Dashboard > Content > Knowledge**_, then select your Knowledge source (either website domain or knowledge connection).
 
 When you click into this, next to each piece of knowledge (file or webpage) you should see a "last sync" date.
 
@@ -67,7 +61,7 @@ When you click into this, next to each piece of knowledge (file or webpage) you 
 
 Yes, you can exclude certain sites, sub-folders, directories or pages.
 
-If you want to exclude certain sites or pages from your crawl, please email us with the sub-folders to be included or excluded e.g. Exclude: [company.com/blog/\*](http://company.com/blog/*) OR Include: [company.com/products/\*](http://company.com/products/*).
+If you want to exclude certain sites or pages from your crawl, please ask via live chat by asking to "Talk to a person" and share the sub-folders to be included or excluded e.g. Exclude: [company.com/blog/\*](http://company.com/blog/*) OR Include: [company.com/products/\*](http://company.com/products/*).
 
 ### How can I change or remove the website it has crawled?
 

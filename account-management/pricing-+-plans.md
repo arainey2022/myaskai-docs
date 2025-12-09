@@ -25,6 +25,7 @@ Because we have a number of integrations and channels that all work in different
 The simplest way to understand this is:
 
 * If you are using our own (My AskAI) widget, then a 'conversation' is any number of questions or AI responses within a 1 hour period from one user, without them refreshing their chat session
-* If you are using any of our integrations/partners (e.g. Zendesk, HubSpot, Intercom, Freshdesk, Freshchat or Gorgias) - then a 'conversation' is every 2.5 AI responses. We came up with this number from looking at the average length of conversations we saw people having with AI agents.\
+* If you are using any of our integrations/partners (e.g. Zendesk, HubSpot, Intercom, Freshdesk, Freshchat or Gorgias) - then a chat 'conversation' is every 2.5 AI responses. We came up with this number from looking at the average length of conversations we saw people having with AI agents.\
   This means, that each time you get an AI reply/response from our AI agent it counts as 0.4 of a conversation.\
-  Equating this to 'tickets', each response to a ticket question will count as 0.4 of a conversation, so if a ticket is 10 user messages long, this will count as 4 conversations. If it is only one message, it will be 0.4 of a conversation. &#x20;
+  If however you are using My AskAI for ticket/email replies, then the first AI reply counts as 1 "conversation", and subsequent responses are 0.4 of a conversation.\
+  Equating this to 'tickets', each response to a ticket question will count as 0.4 of a conversation, so if a ticket is 10 user messages long, this will count as 4.6 conversations. If it is only one message, it will be 1 conversation. &#x20;

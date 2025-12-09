@@ -1,8 +1,8 @@
-# Human Handover Workflows
+# Human Escalation Workflows
 
-### How can I run a workflow after a human handover in Intercom?
+### How can I run a workflow after a human escalation in Intercom?
 
-To run a workflow after a human handover in Intercom:
+To run a workflow after a human escalation in Intercom:
 
 1. Create a new workflow by going to ‘**+ New workflow**’ > ‘**Start from scratch**’ > ‘**Customer sends any message**’
 
@@ -29,4 +29,4 @@ To run a workflow after a human handover in Intercom:
 
 Assign the conversation to your human team
 
-4. Finally, set the new workflow live and your handover will automatically take place.
+4. Finally, set the new workflow live and your escalation will automatically take place.

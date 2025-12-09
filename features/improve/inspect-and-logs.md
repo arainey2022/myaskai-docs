@@ -8,15 +8,11 @@ From this view, you can search for any ticket or conversation, by date, Ticket I
 
 If you are an Intercom or Zendesk user, you can also click the Ticket ID link in the conversation/ticket view and it will take you to that ticket in your Intercom ro Zendesk account.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082837.png" alt=""><figcaption></figcaption></figure>
-
 From the conversation/ticket history you can see:
 
 * The knowledge sources used to answer any question
 * The interpretation of the question as the AI understood it
 * A button to "Inspect answer"
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082859.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Clicking the "Inspect answer" button will let you ask questions to understand why the AI answered in the way that it did, for example:
 
@@ -24,11 +20,7 @@ Clicking the "Inspect answer" button will let you ask questions to understand wh
 * "Why did it handover the ticket?"
 * "Where did it find x information?"
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="554"><figcaption></figcaption></figure>
-
 After you have typed your question, clicking "Ask question" will then show you the explanation for the answer, including any sources, user data or guidance that the AI agent used to answer.
-
-<img src="../../.gitbook/assets/image (3).png" alt="" data-size="original">&#x20;
 
 If this wasn't a satisfactory answer for you, you will also be shown options to "Fix" the answer by either:
 
@@ -50,5 +42,3 @@ When a conversation is handed over to a human agent a note will be generated giv
 ### How do I turn off the "Admin notes" that I see on each handover?
 
 You can turn off the "Admin notes" by going to **Account Settings > Other settings > Disable admin note tips.**
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

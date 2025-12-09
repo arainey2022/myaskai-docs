@@ -22,14 +22,6 @@ description: >-
 
 {% embed url="https://youtu.be/o1QDEa68v-Y?si=j3ZfNSOSz03aJ0d0" %}
 
-### How to Customize Your AI Support Agent
-
-{% embed url="https://youtu.be/l4BqH04rKw4" %}
-
 ### How to Use Your AI Support Agent Internally (Public v Private mode)
 
 {% embed url="https://youtu.be/jMK6gYAaBZ0?si=d9Ka45gGyFpPuDBe" %}
-
-### How To Create a Lead (Email) Capture Webhook
-
-{% embed url="https://www.youtube.com/watch?index=8&list=PLNWy3-tZFZ97MtncIjPBJ9aQZpaGA4thC&t=7s&v=mbc8iASV-Ek" %}

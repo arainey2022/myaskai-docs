@@ -1,8 +1,3 @@
----
-description: >-
-  We are currently undergoing our SOC-2 Type 2 certification, we hope to share
-  when we are live with it soon!
----
-
 # SOC-2
 
+We are SOC-2 type 2 certified, you can [review our trust page here](https://trust.myaskai.com/).

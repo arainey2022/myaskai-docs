@@ -3,6 +3,7 @@ description: >-
   Site Search allows your customers to not only ask questions in conversation,
   but also search your entire site quickly and accurately, using natural
   language.
+hidden: true
 ---
 
 # 🔍 Site search

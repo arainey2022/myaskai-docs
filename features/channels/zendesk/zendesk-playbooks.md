@@ -25,9 +25,9 @@ There are 2 ways you can do this depending on your needs:
 
 #### 1. Collect the email using a form within the Zendesk Messaging widget
 
-**Pros**: The email is collected using a form so the email can be added as an attribute or property within Zendesk ticket or user.
+**Pros (+)**: The email is collected using a form so the email can be added as an attribute or property within Zendesk ticket or user.
 
-**Cons**: The message sent when collecting the email cannot be edited, it will say _"We're offline. Check back later or leave your email to be notified when an agent responds"_.
+**Cons (-)**: The message sent when collecting the email cannot be edited, it will say _"We're offline. Check back later or leave your email to be notified when an agent responds"_.
 
 **How to set up:**
 
@@ -50,9 +50,9 @@ There are 2 ways you can do this depending on your needs:
 
 #### 2. Collect the email in the chat within the Zendesk Messaging widget
 
-**Pros:** Complete customizability of the email request message.&#x20;
+**Pros (+):** Complete customizability of the email request message.&#x20;
 
-**Cons:** The email is collected within the chat as text, it is not saved to the Zendesk ticket or user itself.
+**Cons (-):** The email is collected within the chat as text, it is not saved to the Zendesk ticket or user itself.
 
 **How to set up:**
 

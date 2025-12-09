@@ -22,7 +22,7 @@ Also, bear in mind that answer speeds are always improving with the pace of AI d
 
 ### What do you/can I do to try and make responses "feel" faster?
 
-Depending on your helpdesk integration your AI agent will display something different while the user is awaiting a reply, for example on:
+Depending on your helpdesk integration your AI agent can display something different while the user is awaiting a reply, for example on:
 
 * Zendesk Messaging: an animated "..." icon will be displayed
 * Intercom chat: a "just thinking..." message will be displayed ([this can be turned off if required](../features/channels/intercom/#can-i-turn-off-the-just-thinking...-or-just-having-a-think...-messages-in-intercom))&#x20;

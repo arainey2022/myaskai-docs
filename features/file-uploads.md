@@ -19,31 +19,25 @@ By default, all files uploaded are marked "Public". [You can also make them priv
 If files or pages uploaded are marked "Public", no links to internal content will be shared as references when displayed publicly (i.e. as a widget on your site).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (447).png" alt=""><figcaption></figcaption></figure>
-
 ### How do I upload a file?
 
 To upload a file to your AI support agent:
 
-1. Go to _**Knowledge > Upload files.**_
+1. Go to _**Knowledge > Content > Upload files.**_
 2. Click "**Upload files**".
 3. Click on the "**File picker**".
 4. Drag and drop any files or click the button to select files from your computer (up to 25 at once).
 5. Once dropped or selected the files will be added immediately.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
-
 ### How do I remove or delete a file?
 
 To delete a file from your AI support agent:
 
-1. Go to &#x4B;_**nowledge > Upload files**_
+1. Go to &#x4B;_**nowledge > Content > Upload files**_
 2. Click "**Manage**"
 3. Search for and select the file you want to remove and click the trash can icon :wastebasket: next to the item
 
-Once a file is removed from the knowledge of a chatbot it is no longer used by the AI to answer questions and that knowledge is removed.
-
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+Once a file is removed from the knowledge of an AI agent it is no longer used by the AI to answer questions and that knowledge is removed.
 
 ### Who sees the files I have uploaded?
 

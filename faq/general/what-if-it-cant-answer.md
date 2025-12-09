@@ -8,4 +8,4 @@ description: >-
 
 If your AI support agent is unable to answer a question then it will give an “I don’t know” response.&#x20;
 
-It will also give the user the [option to transfer to a person](../../features/human-handover.md).
+It will also give the user the [option to transfer to a person](../../features/human-escalation.md).

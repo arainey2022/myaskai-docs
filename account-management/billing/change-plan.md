@@ -8,5 +8,3 @@ To change your plan, downgrade, upgrade, add or remove add-ons like team seats a
 
 Stripe (our payments processor) will then open and you will be able to Update your plan details from there.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
-

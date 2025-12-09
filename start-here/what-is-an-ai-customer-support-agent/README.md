@@ -12,7 +12,7 @@ Think of it as your own custom [ChatGPT](https://chat.openai.com/) that knows on
 
 When it answers, it will provide links to the help documents or knowledge articles on your sites from which the answer came from so they can read more if they choose.
 
-If the AI can't answer the question, or if at any time the customer wants to speak to a person, they can too by using our [human handover](../../features/human-handover.md) feature.
+If the AI can't answer the question, or if at any time the customer wants to speak to a person, they can too by using our [human handover](../../features/human-escalation.md) feature.
 
 All of the conversations held with the AI are recorded and analysed for [insights](../../features/insights/) that you can use to improve your product and services.
 

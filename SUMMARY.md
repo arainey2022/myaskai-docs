@@ -17,7 +17,6 @@
   * [🛍️ Shopify](start-here/add-your-ai-agent-to-your-website/shopify.md)
   * [💬 Zendesk](start-here/add-your-ai-agent-to-your-website/zendesk.md)
 * [📼 Full product demo](start-here/full-product-demo.md)
-* [⏲️ How long does it take to set-up?](start-here/how-long-does-it-take-to-set-up.md)
 * [📺 Video tutorials](start-here/video-tutorials.md)
 * [⭐ Reviews](start-here/reviews.md)
 * [🆘 Support](start-here/support.md)
@@ -25,7 +24,7 @@
 ## Features
 
 * [❓ AI answers on your content](features/ai-answers-on-your-content.md)
-* [🤝 Human handover](features/human-handover.md)
+* [🤝 Human escalation](features/human-escalation.md)
 * [🔌 Channels](features/channels/README.md)
   * [Zapier](features/channels/zapier.md)
   * [Zendesk](features/channels/zendesk/README.md)
@@ -37,7 +36,7 @@
     * [Intercom (Tagging)](features/channels/intercom/intercom-tagging.md)
     * [Intercom (Live Translation)](features/channels/intercom/intercom-live-translation.md)
     * [Intercom Playbooks](features/channels/intercom/intercom-playbooks.md)
-    * [Human Handover Workflows](features/channels/intercom/human-handover-workflows.md)
+    * [Human Escalation Workflows](features/channels/intercom/human-escalation-workflows.md)
   * [Freshchat](features/channels/freshchat/README.md)
     * [Freshchat (Tagging)](features/channels/freshchat/freshchat-tagging.md)
   * [Freshdesk](features/channels/freshdesk/README.md)
@@ -146,7 +145,6 @@
   * [🐦 What are your social accounts?](faq/general/what-are-your-social-accounts.md)
   * [⚖️ What is the difference between My AskAI and My AskAI Classic?](faq/general/what-is-the-difference-between-my-askai-and-my-askai-classic.md)
   * [🙅 Will it answer questions about competitors' products?](faq/general/will-it-answer-questions-about-competitors-products.md)
-  * [♻️ My website has dynamic content, can I use My AskAI?](faq/general/my-website-has-dynamic-content-can-i-use-my-askai.md)
   * [🤷‍♂️ What if it can't answer?](faq/general/what-if-it-cant-answer.md)
   * [👃 Will it make things up?](faq/general/will-it-make-things-up.md)
   * [💡 Feature suggestions](faq/general/feature-suggestions.md)

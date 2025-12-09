@@ -7,8 +7,6 @@ description: >-
 
 # 👯 Team access
 
-<figure><img src="../.gitbook/assets/image (471).png" alt=""><figcaption></figcaption></figure>
-
 You may want other people in your business to see what is being asked by your customers or visitors. Luckily you can invite them to your Insights dashboard so they can see everything, each team member you invite is classed as a "seat".
 
 ### What will team members be able to see/do?

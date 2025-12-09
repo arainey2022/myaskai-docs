@@ -6,8 +6,6 @@ description: >-
 
 # Intercom
 
-<figure><img src="../../../.gitbook/assets/Frame 9.png" alt=""><figcaption></figcaption></figure>
-
 You can now integrate your AI support agent directly into Intercom for a seamless AI experience with our Intercom app, [you can find it here in the Intercom app store](https://www.intercom.com/app-store/?app_package_code=my-askai-7tpd).
 
 {% hint style="success" %}
@@ -18,12 +16,12 @@ The Intercom integration is available on all paid plans, [see pricing](https://m
 
 There are several reasons why you should use your My AskAI within Intercom:
 
-* While Intercom has its own AI agent (called "Fin"), it is expensive, around 5-10x the price of My AskAI per conversation (we also think ours is smarter, but we'll let you be the judge!)
+* While Intercom has its own AI agent (called "Fin"), it is expensive, around 5-10x the price of My AskAI per conversation (we also think ours is smarter, but we'll let you be the judge!), [you can read our full comparison here](https://myaskai.com/blog/my-askai-vs-intercom-fin-ai-agent).
 * You can add more knowledge to your AI agent in addition to your website and Intercom help center by using our [connections](../../connections/), live data or [file uploads](../../file-uploads.md).
 * [There are several ways your CS team can use your AI agent within Intercom](./#how-can-i-use-my-ai-chatbot-within-intercom), so you can use whichever works for them ([read on below for more](./#how-can-i-use-my-ai-chatbot-within-intercom)).
 * You don't have to add any code to your site to get your AI agent live, just connect our app and you're ready to go.
 * Every AI answer is provided with "References" to the sources used to answer the question.
-* As well as an AI agent, you get all our other features like [Improve](../../improve/), [Insights](../../insights/), [Email Assistant](../../email-assistant.md), [Site Search](../../site-search.md), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
+* As well as an AI agent, you get all our other features like [Improve](../../improve/), [Insights](../../insights/), [Private (Internal) mode](../../private-internal-mode.md), [Integrations with Slack](../) and more.&#x20;
 
 ### How to use your AI agent within Intercom Messenger
 
@@ -36,14 +34,8 @@ Ensure that you have turned off Fin before completing these steps.
 {% endhint %}
 
 1. Login to your Dashboard and go to _Channels_.&#x20;
-2. Once enabled you will see the section "Add to your existing support tools e.g. Intercom" appear, click on the Intercom icon.
-
-<figure><img src="../../../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
-
+2. Once enabled you will see the section "Add to helpdesk", click on the Intercom icon.
 3. Then click the "Connect your Intercom account" button.
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-11 161907.png" alt="" width="563"><figcaption></figcaption></figure>
-
 4. This will open an authorizations/permissions screen, click "Authorize access" if you agree.
 
 <figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -52,67 +44,16 @@ Ensure that you have turned off Fin before completing these steps.
 
 ### How can I use my AI support agent within Intercom?
 
-There are 4 ways you can use your AI agent within Intercom (you can use as many of these as you want at once):
+There are 3 ways you can use your AI agent within Intercom (you can use as many of these as you want at once):
 
 1. [_As a full conversational AI agent_](./#how-to-set-up-an-ai-powered-chatbot-within-intercom-fully-conversational-support)
-2. [_As an AI-powered Q\&A widget on your Intercom homepage_](./#how-to-set-up-an-ai-powered-q-and-a-homepage-widget)
-3. [_As an internal tool for your support team to answer questions faster_](./#how-else-can-i-use-my-ai-powered-q-and-a-widget)
-4. Default: [_As an agent tool to draft responses in notes, ready to send (or edit)_](./#how-to-draft-ai-conversational-replies-to-users-without-sending-them)
-
-### How to set up an AI-powered Q\&A homepage widget in Intercom
-
-1. [Connect your AI agent to Intercom](./#how-to-connect-your-ai-chatbot-to-intercom)
-2. In Intercom in the left-hand sidebar go to "**Messenger & Omnichannel**"
-
-<figure><img src="../../../.gitbook/assets/image (346).png" alt="" width="261"><figcaption></figcaption></figure>
-
-3. On the Messenger application, click "**Manage settings**"
-
-<figure><img src="../../../.gitbook/assets/image (347).png" alt="" width="375"><figcaption></figcaption></figure>
-
-4. Then expand the "**Customize Home with apps**" accordion.
-
-<figure><img src="../../../.gitbook/assets/image (348).png" alt="" width="563"><figcaption></figcaption></figure>
-
-5. Click "**Add an app**" at the foot of the page, then select "**My AskAI**" from the list of apps&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (349).png" alt="" width="563"><figcaption></figcaption></figure>
-
-6. Click the "**Save changes**" button at the top right of the page.
-
-<figure><img src="../../../.gitbook/assets/image (351).png" alt="" width="563"><figcaption></figcaption></figure>
-
-7. You will now see an AI Q\&A widget on your Intercom messenger homepage, it'll look like this.
-
-<figure><img src="https://downloads.intercomcdn.com/i/o/987938755/c607b958e2251d4c8a650922/widget.png" alt="" width="375"><figcaption></figcaption></figure>
-
-8. To remove the widget or to edit the visibility of it you can read more [here](https://www.intercom.com/help/en/articles/1827291-customize-your-messenger-home-with-apps).
-
-### How else can I use my AI-powered Q\&A widget?
-
-In addition to [adding the widget to your homepage](./#how-to-set-up-an-ai-powered-q-and-a-homepage-widget):
-
-* You can share the widget as part of the conversation with the user by pressing CTRL+K and then searching for "My AskAI" and pressing enter. The user will then be given the Q\&A widget in the chat itself.
-
-<figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="563"><figcaption></figcaption></figure>
-
-* Your team can use the widget within the Help Desk to get answers they can share with the user. To do this:
-
-<figure><img src="../../../.gitbook/assets/image (354).png" alt="" width="563"><figcaption></figcaption></figure>
-
-1. Scroll to the bottom of the right-hand panel
-2. Click "**Add app**"
-3. Select "My AskAI"
-4. Drag the app to be visible in the panel.
-5. You're done!
+2. [_As an internal tool for your support team to answer questions faster_](./#how-else-can-i-use-my-ai-powered-q-and-a-widget)
+3. Default: [_As an agent tool to draft responses in notes, ready to send (or edit)_](./#how-to-draft-ai-conversational-replies-to-users-without-sending-them)
 
 ### How to set up an AI-powered support agent within Intercom (Fully conversational support)
 
 1. [Connect your AI agent to Intercom](./#how-to-connect-your-ai-chatbot-to-intercom)
-2. Toggle conversational replies "on" by going to your Dashboard then _**Channels > Intercom**_ clicking the "Reply directly to customers" button.
-
-<figure><img src="../../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
-
+2. Toggle conversational replies "on" by going to your Dashboard then _**Channels > Intercom**_ clicking the "Direct replies" button beneath "Reply type".
 3. That's it! Your Intercom messenger will now automatically respond to user queries using your AI agent's knowledge.
 
 <figure><img src="https://downloads.intercomcdn.com/i/o/987939190/c785d586083ee92b2f11751b/chatbot.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -126,15 +67,12 @@ You can set the agent to automatically create AI note responses for you to use i
 <figure><img src="../../../.gitbook/assets/image (113).png" alt="" width="563"><figcaption></figcaption></figure>
 
 1. [Connect your AI support agent to Intercom](./#how-to-connect-your-ai-chatbot-to-intercom)
-2. Toggle note replies "on" by going to your Dashboard then _Channels > Intercom_ clicking the "Reply with 'notes' for admins" toggle.
-
-<figure><img src="../../../.gitbook/assets/image (388).png" alt="" width="563"><figcaption></figcaption></figure>
-
+2. Toggle note replies "on" by going to your Dashboard then _Channels > Intercom_ clicking the "Draft 'note' replies" toggle.
 3. That's it, now when someone talks with your Intercom you will see the AI response appear as a note you can use to help with your reply.
 
-### How can I run a workflow after a human handover in Intercom?
+### How can I run a workflow after a human escalation in Intercom?
 
-To assign a ticket or conversation to a specific human agent on handover, [follow our guide here](human-handover-workflows.md).
+To assign a ticket or conversation to a specific human agent on escalation, [follow our guide here](human-escalation-workflows.md).
 
 ### How can I stop draft notes from being generated for a conversation or email in Intercom?
 
@@ -146,7 +84,7 @@ _`"Stop AI replies"`_
 This must be written as a 'Note' and not a 'Reply'
 {% endhint %}
 
-### How does human handover work when using the Intercom messenger integration?
+### How does human escalation work when using the Intercom messenger integration?
 
 If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect).
 
@@ -154,9 +92,9 @@ Once the conversation is passed over to the human, the AI will not respond again
 
 When the AI agent cannot answer a question, it will also prompt the user to type "Talk to a person" to make it obvious they can speak to a person.
 
-As part of the handover, the AI agent will summarize the conversation so the agent can pick up where the user left off so there is no repetition or frustration.
+As part of the escalation, the AI agent will summarize the conversation so the agent can pick up where the user left off so there is no repetition or frustration.
 
-To trigger a workflow after a human handover has taken place, [follow these instructions](human-handover-workflows.md).
+To trigger a workflow after a human escalation has taken place, [follow these instructions](human-escalation-workflows.md).
 
 ### Will the AI agent reply to emails within Intercom?
 
@@ -201,10 +139,7 @@ Just reply to any open conversation as an admin/agent and the conversation's con
 
 1. [Connect your agent to Intercom](./#how-to-connect-your-ai-chatbot-to-intercom)
 2. Turn on the toggle switch for Workflow/Triage settings
-
-<figure><img src="../../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
-
-3. Decide on a trigger phrase to use for your AI workflow handover button, type it into the field below the toggle switch and include this as the text in a button in your workflow (example workflow below for "Chat with AI assistant" as the trigger phrase)
+3. Decide on a trigger phrase to use for your AI workflow escalation button, type it into the field below the toggle switch and include this as the text in a button in your workflow (example workflow below for "Chat with AI assistant" as the trigger phrase)
 
 {% hint style="danger" %}
 This phrase must _**exactly**_ match the pre-defined button you are going to use in your workflow message.
@@ -225,22 +160,13 @@ But if you want it to reply to only certain email addresses e.g. support@company
 
 This will ensure it only replies to these accounts.
 
-### How can I stop the AI agent from replying to specific phrases in Intercom?
-
-To stop your AI agent from replying to a specific set of phrases in Intercom, [share with us a list of the phrases you would like to block via email](mailto:team@myaskai.com) and we will update your bot with these.
-
-(Available on Pro accounts and above).
-
 ### How do I auto-close a ticket in Intercom after a set amount of time?
 
 You can auto-close tickets in Intercom (that have not been transferred to a person) after a certain time period without a response to an AI agent's response by:
 
-1. Going to **Channels > Add to live chat apps** and click on the Intercom icon
-2. In the pop-up, scroll to "Use inactivity auto-close settings" and toggle "Automatically close a conversations" to the On position
-
-<figure><img src="../../../.gitbook/assets/image (102).png" alt="" width="474"><figcaption></figcaption></figure>
-
-3. Set the amount of time you want the ticket to close after (by default this is 60 mins)
+1. Going to **Channels > Add to helpdesk** and click on the Intercom icon
+2. In the pop-up, scroll to "Auto-close inactive conversations" and toggle "Automatically close a conversations" to the On position
+3. Set the amount of time you want the ticket or conversation to close after (by default this is 60 mins)
 4. (Optional) You can also set a message to send automatically when the ticket closes notifying the user the ticket will be closed.
 5. These changes will go live immediately.
 
@@ -262,21 +188,17 @@ Yes, you can delay your Intercom email replies to make them seem more human.
 Setting the delay will only be for the first reply in the chain.
 {% endhint %}
 
-Go to **Channels > Intercom > First email reply delay** and specify the number of minutes you want the AI agent to wait before sending the reply.
+Go to **Channels > Add to helpdesk > Intercom > First email reply delay** and specify the number of minutes you want the AI agent to wait before sending the reply.
 
 When the time period is up the response will then be sent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
-
 ### Can I stop people speaking to a person on their first message on Intercom?
 
-You can prevent "instant" human handover on the 1st message in a conversation on Intercom by navigating to **Channels > Intercom** and then toggling the "_Ask for more information before handover_" feature.
-
-<figure><img src="../../../.gitbook/assets/image (69).png" alt="" width="563"><figcaption></figcaption></figure>
+You can prevent "instant" human escalation on the 1st message in a conversation on Intercom by navigating to **Channels > Intercom** and then toggling the "_Prevent immediate escalation_" feature.
 
 This option is on by default.
 
-When a user tries to handover immediately they will be asked to provide more information first. On any subsequent messages, they can initiate a handover to an agent.
+When a user tries to escalate immediately they will be asked to provide more information first. On any subsequent messages, they can initiate a escalate to an agent.
 
 ### How can I add my Intercom AI agent to other services, like WhatsApp, Instagram, Facebook Messenger, or SMS?
 
@@ -287,7 +209,7 @@ You can use the Intercom integration to use your AI agent directly within:
 * Facebook Messenger
 * SMS
 
-It will retain all the [same features of the Intercom agent](./#how-can-i-use-my-ai-chatbot-within-intercom), including human handover, but within the respective platforms.
+It will retain all the [same features of the Intercom agent](./#how-can-i-use-my-ai-chatbot-within-intercom), including human escalation, but within the respective platforms.
 
 Refer to [Intercom's instructions on how to get each channel set-up with your AI agent](https://www.intercom.com/help/en/collections/2094746-apps-for-sales-and-support).
 
@@ -299,12 +221,10 @@ You can use the My AskAI Intercom integration on any Intercom plan.
 
 To pause or temporarily pause AI replies or notes in Intercom go to Channels > Intercom then scroll to the toggle for "Pause AI agent".
 
-<figure><img src="../../../.gitbook/assets/image (60) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.
 
 ### Can I turn off the "Just thinking..." or "Just having a think..." messages in Intercom?
 
 Yes, you can turn off the "Just thinking" or "Just having a think" messages.
 
-Just go to **Channels > Intercom > Other Settings** and toggle the "Hide the "just thinking" message to off.
+Just go to **Channels > Add to helpdesk > Intercom > Hide 'just thinking' message** and toggle the "Hide the "just thinking" message to off.

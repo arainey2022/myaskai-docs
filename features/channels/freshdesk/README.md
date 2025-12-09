@@ -6,8 +6,6 @@ description: >-
 
 # Freshdesk
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
-
 You can now integrate your AI agent directly into Freshdesk Tickets for a seamless AI support experience.
 
 The Freshdesk Ticket integration is available on all paid My AskAI plans, [see our pricing](https://myaskai.com/pricing).
@@ -33,13 +31,7 @@ _**Recommended:**_ AI replies will come from whichever agent account you set the
 1. Install My AskAI to your Freshdesk workspace ([from the Freshworks marketplace](https://www.freshworks.com/apps/))
 2. Login to your Dashboard and go to _**Channels**_.&#x20;
 3. Once enabled you will see "Live Chat apps" appear, click on the Freshdesk icon.
-
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
-
 4. Select 'Freshdesk Tickets'
-
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
-
 5. Enter your Freshdesk domain (your domain is within the URL of your Freskdesk inbox. e.g. **myaskai**.freshdesk.com) and your API key and click 'Connect your Freshdesk account'.
 
 {% hint style="info" %}
@@ -50,17 +42,9 @@ When adding your Freshdesk domain, ensure it is your original Freshdesk domain e
 To find your API key go to your dashboard, click on your _**Profile icon > Profile Settings > View API Key**_ and copy your API key ([more details here](https://support.freshdesk.com/support/solutions/articles/215517-how-to-find-your-api-key)).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 083531.png" alt=""><figcaption></figcaption></figure>
-
 6. Once connected it'll change to say "Freshdesk account connected" and look like this:
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 083552.png" alt=""><figcaption></figcaption></figure>
-
 7. Once back at My AskAI, you can choose how you want your AI agent to reply, by default it will create [Internal Note](./#internal-notes) responses, but you can also enable [Direct replies](./#direct-replies).&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 084110.png" alt=""><figcaption></figcaption></figure>
-
-7. You will now be generating AI replies to your tickets, test it out by emailing your Freshdesk inbox.&#x20;
+8. You will now be generating AI replies to your tickets, test it out by emailing your Freshdesk inbox.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 084143.png" alt=""><figcaption></figcaption></figure>
 
@@ -118,11 +102,9 @@ By default, all messages of the ticket will be replied to, however you can chang
 If you’re using your AI agent to directly reply to users in Freshdesk Tickets, we recommend you disable automatic email replies (for ticket creation acknowledgement), otherwise users will receive multiple emails.&#x20;
 {% endhint %}
 
-### How does human handover work when using the Freshdesk Ticket integration?
+### How does human escalation work when using the Freshdesk Ticket integration?
 
 When using in either [Direct reply](./#direct-replies) or [Internal Note](./#internal-notes) reply mode, by default your Freshdesk Ticket AI agent will respond to all Ticket messages sent to you. You can change this however by selecting "Reply 1st message only".&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 084244.png" alt=""><figcaption></figcaption></figure>
 
 If you change to "Reply to 1st message only", any further questions or responses will be handed over to you, as the agent, to address.
 
@@ -134,7 +116,7 @@ If however, you have selected for the AI to "Reply to all messages" then you can
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 084656.png" alt=""><figcaption></figcaption></figure>
 
-* "Customer handover request"- it will only handover if the customer explicitly requests to speak to a human agent&#x20;
+* "Escalation request"- it will only escalate if the customer explicitly requests to speak to a human agent&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-12-18 084527 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -142,7 +124,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 ### How can I reassign a Freshdesk ticket that has been handed over or escalated to a member of my team?
 
-To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the handover tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
+To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the escalation tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,22 +148,12 @@ Please get in touch with us by asking to "Talk to a person" if you have multiple
 ### How do I remove my Freshdesk Ticket AI agent?
 
 1. Login to your Dashboard and go to _Channels_.&#x20;
-2. If enabled you will see "Live Chat apps" appear, click on the Freshdesk icon.
-
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
-
+2. If enabled you will see "Add to helpdesk", click on the Freshworks icon.
 3. Select 'Freshdesk Tickets'
-
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
-
-4. Expand the "Install My AskAI within Freshdesk" header and click "Disconnect Freshdesk Integration" then confirm your deletion.
-
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+4. Expand the "Install" header and click "Disconnect Freshdesk Integration" then confirm your deletion.
 
 ### How can I pause or temporarily turn off AI replies or notes in Freshdesk?
 
-To pause or temporarily pause AI replies or notes in Freshdesk go to **Channels > Freshdesk** then scroll to the toggle for "Pause AI agent".
-
-<figure><img src="../../../.gitbook/assets/image (60) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+To pause or temporarily pause AI replies or notes in Freshdesk go to **Channels > Add to helpdesk > Freshworks > Freshdesk** then scroll to the toggle for "Pause AI agent".
 
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.

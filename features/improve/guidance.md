@@ -1,7 +1,7 @@
 ---
 description: >-
   Our guidance feature will help you set up your AI agent to respond exactly how
-  you want it to, tone, scenarios and when you want it to handover to your team.
+  you want it to, tone, scenarios and when you want it to escalate to your team.
 ---
 
 # 🎯 Guidance
@@ -54,7 +54,7 @@ You should use this for instructions like:
 
 Handover and escalation guidance is used so your AI agent knows when a specific topic of conversation should be handed over or escalated to one of your human agents for resolution.
 
-This, in effect, will "force" a handover in certain scenarios that you define.
+This, in effect, will "force" an escalation in certain scenarios that you define.
 
 {% hint style="warning" %}
 Only one piece of the handover & escalation or context & clarification guidance will be used in each response by your AI agent. Multiple pieces of handover & escalation guidance cannot be used together.
@@ -257,10 +257,6 @@ Create a [Context & clarification](guidance.md#context-and-clarification) piece 
 Followed by a [Handover & escalation](guidance.md#handover-and-escalation) piece of guidance, for example:
 
 > If a user provides you with details about a bug, namely a device, URL and when the issue was noticed.
-
-As you can see here, the answer format from the Context & clarification response is being used in the Handover & escalation guidance, giving a result like this:
-
-<figure><img src="../../.gitbook/assets/image (67) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### How do I update my guidance?
 

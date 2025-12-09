@@ -6,7 +6,7 @@ description: >-
 
 # Zendesk
 
-There are 3 ways you can add your AI support agent to Zendesk depending on your setup:
+There are 3 ways you can add your AI customer service agent to Zendesk depending on your setup:
 
 1. If you use Zendesk Ticketing (questions via email or form), you can use our Zendesk Tickets integration:
 
@@ -27,8 +27,6 @@ See the Tickets app in the Zendesk marketplace:
 See the Messenger app in the Zendesk marketplace:
 
 {% embed url="https://www.zendesk.co.uk/marketplace/apps/messaging/139/my-askai/" %}
-
-<figure><img src="../../../.gitbook/assets/image (91).png" alt="" width="302"><figcaption></figcaption></figure>
 
 3. Tag your tickets automatically with AI with our tagging app:
 

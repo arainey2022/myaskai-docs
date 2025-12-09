@@ -12,32 +12,16 @@ But now your AI agent can automatically do this classification and categorizatio
 
 You can find the tagging app in the [Zendesk Marketplace here](https://www.zendesk.co.uk/marketplace/apps/support/1083190/ai-ticket-tagging-by-my-askai/?queryID=5d9bd561d9462ed0f8f61a97e5aebaed).
 
-<figure><img src="../../../.gitbook/assets/tags (1).png" alt=""><figcaption></figcaption></figure>
-
 ### How do I set up automated tagging and sentiment scores in Zendesk?
 
-1. To set up your tags in Zendesk, go to **AI Agent Setup > Auto-Tagging** and click **Add custom field or tags.**
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
+1. To set up your tags in Zendesk, go to **AI Agent Setup > AI Tagging** and click **Import custom field or tags.**
 2. Select whether you want to auto-tag a **Custom Field** or a **Tag**
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 3. If you chose a Custom Field and have one setup in Zendesk already, then we will automatically import your Custom Fields to choose from. Select the one you want to auto-tag and we will import all of your tags for that Custom Field and auto generate a description for each tag.\
    \
    If you chose a Custom Field and don't have one setup in Zendesk already or you chose Tag then you will need to add a list of values/tags and descriptions for those values/tags so the AI knows under which circumstances each value/tag should be applied.<br>
-
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 4. Once you have reviewed the descriptions for each tag and checked they are correct then you can turn on the auto-tagging.
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 5. You will then see your tags auto-applied in Zendesk, additionally the tag `ai-agent-tags-applied` will be applied so you know when it has been used.\
    If you feel any tags have been applied incorrectly, review the description for each tag to ensure it is clear.
-
-<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Ho**w much does it cost to automatically tag and get a sentiment score for each ticket or conversation?
 
@@ -63,8 +47,6 @@ We would recommend using fewer than 200 tags.
 
 Your Auto-Tagging isn't automatically kept in sync in Zendesk, so if you add or remove a field or tag in Zendesk, you will have to do the same in My AskAI and vice versa.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### How can I ensure the AI agent only responds to certain types of Zendesk tickets?
 
 If you are using Zendesk Tickets you can use our Ticket tagging product to tell the AI agent which tickets it should respond to.
@@ -76,8 +58,6 @@ If "unsubscribe" was the tag added by our AI agent, and that tag was on your blo
 To add a tag to your block list, go to **AI Agent Setup > Auto-Tagging**, select the Custom Field or Tag that has the tag you want to block, then find the tag and click **Block AI Replies.**
 
 If a ticket isn't replied to because it was blocked the tag `ai-agent-tag-blocked` will also be added to the ticket.
-
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or triggers within Zendesk for where certain tickets should be routed depending on the "reason for contact".
 
@@ -95,6 +75,4 @@ If you are using a custom field with pre-set values in Zendesk, you must ensure 
 
 ### How do I pause or turn off my Zendesk Auto-Tagging?
 
-To turn off or pause your Auto-Tagging, go to **AI Agent Setup > Auto-Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.
-
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+To turn off or pause your Auto-Tagging, go to **AI Agent Setup > AI Tagging** and scroll to **Pause tagging**, then toggle the switch to the 'paused' position.

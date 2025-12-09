@@ -6,9 +6,7 @@ description: >-
 
 # Gorgias
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
-You can now integrate your AI agent directly into Gorgias for a seamless AI support experience.
+ou can now integrate your AI agent directly into Gorgias for a seamless AI support experience.
 
 The Gorgias integration is available on all paid My AskAI plans, [see our pricing](https://myaskai.com/pricing).
 
@@ -29,29 +27,11 @@ There are several reasons why you should use your My AskAI within Gorgias:&#x20;
 
 1. Install My AskAI to your Gorgias workspace (from the Gorgias App Store)
 2. Login to your Dashboard and go to _**Channels**_.&#x20;
-3. Once enabled you will see "Add to your existing support tools" appear, click on the Gorgias icon.
-
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
-
-5. Enter your Gorgias domain (your domain is within the URL of your Gorgias inbox. e.g. **myaskai**.gorgias.com) and click 'Connect your Gorgias account'.
-
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
-6. Once connected it'll say "Successfully connected with your Gorgias account" and look like this:
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-7. Once back at My AskAI, you can choose how you want your AI agent to reply separately to both email tickets or chat tickets, by default it will create [Internal Note](gorgias.md#internal-notes) responses for both, but you can also enable [Direct replies](gorgias.md#direct-replies).\
-   \
-   Email/Tickets:
-
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-Chat:
-
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
-
-8. You will now be generating AI replies to your emails/tickets and chat, test it out by submitting a ticket to your Gorgias inbox or sending a message in your chat widget.&#x20;
+   1. Go to "Add to helpdesk" and click on the Gorgias icon.
+3. Enter your Gorgias domain (your domain is within the URL of your Gorgias inbox. e.g. **myaskai**.gorgias.com) and click 'Connect your Gorgias account'.
+4. Once connected it'll say "Successfully connected with your Gorgias account".
+5. Once back at My AskAI, you can choose how you want your AI agent to reply separately to both email tickets or chat tickets, by default it will create [Internal Note](gorgias.md#internal-notes) responses for both, but you can also enable [Direct replies](gorgias.md#direct-replies).
+6. You will now be generating AI replies to your emails/tickets and chat, test it out by submitting a ticket to your Gorgias inbox or sending a message in your chat widget.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,29 +77,27 @@ Chat:
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-### How does human handover work when using the Gorgias integration for email/tickets?
+### How does human escalation work when using the Gorgias integration for email/tickets?
 
 When using in either [Direct reply](gorgias.md#direct-replies) or [Internal Note](gorgias.md#internal-notes) reply mode for Gorgias tickets (not chat), by default your Gorgias AI agent will respond to all Ticket messages sent to you. You can change this however by selecting "Reply 1st message only".&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-If you change to "Reply to 1st message only", any further questions or responses will be handed over to you, as the agent, to address.
+If you change to "Single reply", any further questions or responses will be handed over to you, as the agent, to address.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
-If however, you have selected for the AI to "Reply to all messages" then you can choose when you want the AI to hand over the conversation to your human agents, either select:
+If however, you have selected for the AI to "Multiple replies" then you can choose when you want the AI to hand over the conversation to your human agents, either select:
 
-* "Can't answer a question" - when it can't answer a question instead of saying as such it will automatically pass over to a person
+* "Cannot answer" - when it can't answer a question instead of saying as such it will automatically pass over to a person
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* "Customer handover request"- it will only handover if the customer explicitly requests to speak to a human agent&#x20;
+* "Escalation request"- it will only escalate if the customer explicitly requests to speak to a human agent&#x20;
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### How does human handover work when using the Gorgias integration for chat?
+### How does human escalation work when using the Gorgias integration for chat?
 
-When you are using your AI agent within Gorgias chat in [Direct reply](gorgias.md#direct-replies) mode, a human handover will only take place when a user asks to speak to a person directly (using any one of a number of phrases).
+When you are using your AI agent within Gorgias chat in [Direct reply](gorgias.md#direct-replies) mode, a human escalation will only take place when a user asks to speak to a person directly (using any one of a number of phrases).
 
 When they do the following happens:
 
@@ -155,7 +133,7 @@ This will ensure it only replies to these accounts.
 
 Yes, you can turn off the "Just thinking" or "Just having a think" messages.
 
-Just go to **Channels > Gorgias > Other Settings** and toggle the "Hide the "just thinking" message to off.
+Just go to **Channels > Add to helpdesk > Gorgias** and toggle the "Hide the "just thinking" message to off.
 
 ### Can the AI agent respond to social media messages or comments (Instagram, Facebook/Meta Messenger) in Gorgias?
 
@@ -166,22 +144,15 @@ Get in touch with us via chat and ask to "Talk to a person" and we'll help you s
 ### How do I remove my Gorgias AI agent?
 
 1. Login to your Dashboard and go to _Channels_.&#x20;
-2. If enabled you will see "Live Chat apps" appear, click on the Gorgias icon.
-
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-3. Expand the "Install My AskAI within Gorgias" header and click "Disconnect Gorgias Integration" then confirm your deletion.
-
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+2. Go to "Add to helpdesk" and click on the Gorgias icon.
+3. Expand the "Connect" header and click "Disconnect Gorgias Integration" then confirm your deletion.
 
 ### How can I pause or temporarily turn off AI replies or notes in Gorgias?
 
-To pause or temporarily pause AI replies or notes in Gorgias go to **Channels > Gorgias** then scroll to the toggle for "Pause AI agent".
+To pause or temporarily pause AI replies or notes in Gorgias go to **Channels > Add to helpdesk > Gorgias** then scroll to the toggle for "Pause AI agent".
 
 {% hint style="info" %}
 Note that you will have to do this separately for Gorgias chat and Gorgias tickets.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 When you are ready to turn it back on, just toggle the Pause button once more and it will start responding again.

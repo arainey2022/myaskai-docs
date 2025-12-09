@@ -3,19 +3,14 @@ description: >-
   You can find out what your customers think of your AI agent by turning on
   Conversation ratings (CSAT), so you can see where you might need to improve
   your agent's responses.
+hidden: true
 ---
 
 # 👍 Conversation ratings (CSAT)
 
-{% hint style="success" %}
-Available on paid plans.
-{% endhint %}
-
 {% hint style="warning" %}
 This CSAT feature is only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/) integrations you will have to set up CSAT recording within the respective platforms.
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 ### Why should I use conversation ratings?
 
@@ -45,17 +40,11 @@ To turn on conversation ratings (CSAT), go to _AI agent setup > Human handover >
 
 Your agent will immediately start collecting responses from customers.
 
-<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
-
 ### How does a user rate a conversation?
 
-After each question within a conversation OR at the point of [human handover](human-handover.md) the user will be presented with this " :thumbsup: **That helped**" button:
-
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+After each question within a conversation OR at the point of [human handover](human-escalation.md) the user will be presented with this " :thumbsup: **That helped**" button:
 
 Once they click this button they will be shown an emoji picker, they can then select the emoji that best demonstrates their feedback to submit.
-
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 The customer may change the emoji/score they have selected until the conversation [Insight](insights/) is generated (60 minutes after the conversation has ended).
 
@@ -68,12 +57,7 @@ While you may provide CSAT responses as an admin/team member, these responses ar
 There are a few places you can view the conversation ratings:
 
 * As an overall score in your Insights dashboard
-
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
-
 * If you look at a conversation within a specific topic (you will also see the overall topic CSAT score)
-
-<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 ### What can I do to improve my CSAT score?
 

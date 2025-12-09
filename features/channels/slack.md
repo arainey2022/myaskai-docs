@@ -11,7 +11,7 @@ description: >-
 Available as an add-on for paid plans
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption><p>An example conversation within Slack with your AI assistant</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (539).png" alt=""><figcaption></figcaption></figure>
 
 ### How to connect to Slack with My AskAI
 
@@ -25,19 +25,19 @@ Available as an add-on for paid plans
 3. **Get your My AskAI's ID and API Key**\
    \
    Go to _**Channels > Slack & Teams**_ and click the Slack icon then copy your My AskAI's **ID** and **API Key**.<br>
-4. **Add your My AskAI's ID and API Key to Slack**
-   1. Select the My AskAI app within Slack&#x20;
-   2. Select 'Connect My AskAI'
-   3. Input the ID and API Key, from step 3, into the popup within Slack
-   4. Select 'Submit' to save these settings
+4.  **Add your My AskAI's ID and API Key to Slack**
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+    1. Select the My AskAI app within Slack&#x20;
+    2. Select 'Connect My AskAI'
+    3. Input the ID and API Key, from step 3, into the popup within Slack
+    4. Select 'Submit' to save these settings
 
+    <figure><img src="../../.gitbook/assets/image (541).png" alt=""><figcaption></figcaption></figure>
 5. **Ask your first question with the /askAI command**\
    \
    You and your team can start asking questions to your AI support agent in any channel with the **/askAI** command, followed by your question.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
 
 You can also use the **/askAI-help** command, for more help at any time.
 

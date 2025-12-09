@@ -18,8 +18,6 @@ Note that toggling between these modes for the widget in the dashboard will not 
 If you want to make specific content available to the AI agent for end customers/users you will need to [update its visiblity](private-internal-mode.md#setting-visibility-on-files-and-connections).
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
-
 ### How to use your AI agent internally (Public v Private mode)
 
 {% embed url="https://youtu.be/jMK6gYAaBZ0" %}
@@ -42,31 +40,23 @@ When using any of our integrations with [Slack](channels/slack.md), [Microsoft T
 
 ### Setting visibility on files and connections
 
+{% hint style="info" %}
+If you are asking a question on content you have uploaded but are not getting a response, the most common reason is that you have the content marked as private but you are asking questions in public mode.\
+\
+To fix this, either mark the content as public, or toggle the widget to public + private mode.
+{% endhint %}
+
 Each type of content added to your AI agent's knowledge base can be specified as "Public" or "Public + Private", except for the content added from your public site, which is always classed "Public".&#x20;
 
 #### File uploads
 
 By default, [files uploaded](private-internal-mode.md#file-uploads) to your AI agent are public.&#x20;
 
-You can change this either for all files at once:
+You can change this for each file:
 
-1. Go to _**Knowledge > Upload files**_
-2. Click "**Manage**"
-3. Click on the :gear: icon next to "Content visibility"
-4. Select either "**Set all to Public**" or "**Set all to Private**"
-5. Each file will then be classified in your chosen setting, this may take a few minutes depending on the number of files you have uploaded.
-
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
-
-Or by specifying on an individual file:
-
-1. Go to _**Knowledge > Upload files**_
+1. Go to _**Knowledge > Content > Upload files**_
 2. Click "**Manage**"
 3. Click on the toggle switch next to the file you want to amend the privacy of
-
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 #### Connections
 
@@ -74,20 +64,14 @@ By default, files uploaded or pages added via connections to your AI chatbot are
 
 You can change this to Private either for all files at once:
 
-1. Go to _**Knowledge > Connect knowledge sources > Live connections**_
+1. Go to _**Knowledge > Content > Connect knowledge sources >**_**&#x20;Connected knowledge sources**
 2. Click "**Manage**"
-3. Click on the :gear: icon next to "Content visibility"
-4. Select either "**Set all to Public**" or "**Set all to Private**"
+3. Click on "**Change visibility**"
+4. Click "**Set x content to private/public"**
 5. Each connected file or page will then be classified in your chosen setting, this may take a few minutes depending on the number of files or pages you have connected.
-
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 Or by specifying on an individual connected file or page:
 
-1. Go to _**Knowledge > Connect knowledge sources > Live connections**_
+1. Go to _**Knowledge > Content > Connect knowledge sources >**_**&#x20;Connected knowledge sources**
 2. Click "**Manage**"
 3. Click on the toggle switch next to the file you want to amend the privacy of
-
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>

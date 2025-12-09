@@ -33,6 +33,8 @@ The [User Data API](../api-documentation/user-data-api.md) is to be used when yo
 
 ### How do I set up tools?
 
+In your Dashboard go to **Tasks & Tools > Tools (APIs)** and click **+ New.**
+
 Each tool will map to an API and needs the following details:
 
 * **POST API endpoint:** e.g. `https://api.company.com/orders`

@@ -3,6 +3,7 @@ description: >-
   You can customize almost everything on your AI support agent to match your
   brand, from colours and questions to the way your AI agent behaves when a user
   lands on your site.
+hidden: true
 ---
 
 # 🎨 Customization
@@ -11,19 +12,13 @@ description: >-
 These Customizations are only available in the My AskAI widget, if you are using our [Intercom](channels/intercom/), [Zendesk](channels/zendesk/zendesk-messaging.md) or [HubSpot](channels/hubspot/) integrations you will have to customize your widget within their respective platforms.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
-
 ### How to Customize Your AI Support Agent
-
-{% embed url="https://youtu.be/l4BqH04rKw4" %}
 
 You can customize your AI agent to match your business brand with just a few clicks, just head to _**AI agent setup > Customization**_:
 
 ### Starter questions
 
 These are the questions your customers and visitors will see when they first see your widget, you could make them your most common questions or questions you want them to ask or even to direct them to something topical for your company.
-
-<figure><img src="../.gitbook/assets/image (217).png" alt="" width="241"><figcaption></figcaption></figure>
 
 ### Company name
 
@@ -40,8 +35,6 @@ This is the colour that will be used for your widget's menu bar, user icon and f
 ### Welcome message
 
 This is the first message a customer or visitor sees when they open your widget, you could use it to say hello, to give the user a little more information or tell them what sorts of things they should ask your AI chatbot.
-
-<figure><img src="../.gitbook/assets/image (218).png" alt="" width="241"><figcaption></figcaption></figure>
 
 ### Remove branding
 

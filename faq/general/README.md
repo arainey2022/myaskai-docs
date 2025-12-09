@@ -2,7 +2,7 @@
 
 ### Will it work offline?
 
-No, unfortunately not, we need to be able to send questions to OpenAI in order for your AskAI to function.
+No, unfortunately not, we need to be able to send questions to AI providers in order for your AskAI to function.
 
 ### Does it have internet access?
 

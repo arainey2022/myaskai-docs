@@ -23,15 +23,13 @@ This needs to be done by a Workspace Owner.
 
 Add My AskAI to 'a team' and then add to any 'channel'.
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
 
 2. **Get your My AskAI's ID and API Key**
 
 Go to _**Channels > Slack & Teams**_ and click the Teams icon then copy your My AskAI's **ID** and **API Key**.
-
-<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 3. **Save your My AskAI's ID and API Key within Teams**
 
@@ -51,7 +49,7 @@ Please: [Manage Apps](https://admin.teams.microsoft.com/policies/manage-apps) > 
 You will then have to log in with your Microsoft account and approve the My AskAI app. It's been unhelpfully named, by Microsoft, as '_msbtteambtbotbtc3fe79_' within the permissions screen.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure>
 
 4. **Ask your first question with the @My AskAI command**
 
@@ -59,7 +57,7 @@ You and your team can start asking questions to your AI support agent in any cha
 
 e.g. **@My AskAI what is our refund policy?**
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (538).png" alt=""><figcaption></figcaption></figure>
 
 If you want to ask a private question you can add **My AskAI** to a private Chat.
 

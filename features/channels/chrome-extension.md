@@ -26,22 +26,11 @@ Get the extension:
 
 ### How do I install the Chrome Extension Copilot?
 
-1. Go to **Channels** and scroll to the section titled **Chrome extension** and click "Enable Chrome extension".
-
-<figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
-
+1. Go to **Channels** and scroll to the section titled **Chrome extension copilot** and click "Enable Chrome extension".
 2. Go to the Chrome Web Store and [Install the My AskAI app](https://chromewebstore.google.com/detail/my-askai-ai-customer-supp/bamboiagbocaobgfbkjehlaojipfjecf).
 3. Return to My AskAI and open the My AskAI Chrome extension from your extensions menu, the side panel will then open on the right hand side.
-
-<figure><img src="../../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
-
-3. Copy the code from Step 2 in the My AskAI Chrome extension instructions and paste it into the field in the side panel menu, then click Save.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
-
-4. Congratulations! Your AI copilot has now been installed! You should see it appear as a chat window in the side panel.
-
-<figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+4. Copy the code from Step 2 in the My AskAI Chrome extension instructions and paste it into the field in the side panel menu, then click Save.&#x20;
+5. Congratulations! Your AI copilot has now been installed! You should see it appear as a chat window in the side panel.
 
 ### How can I use the Chrome Extension?
 
@@ -96,9 +85,7 @@ You do not have to pay team seat fees, the only charges will be based on your ov
 
 ### What permissions does the Chrome extension have?
 
-When you install your Chrome Extension you may see a message like this:
-
-<figure><img src="../../.gitbook/assets/image (434).png" alt="" width="563"><figcaption></figcaption></figure>
+When you install your Chrome Extension you may see a message that says "Add My AskAI - AI Customer Support Agent, it can: Read and change all your data on all all websites".
 
 What this means is that when you launch the Chrome Extension and actually open it, it can view the HTML of the webpage you’re on (Almost all Chrome Extensions work in this way).&#x20;
 

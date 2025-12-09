@@ -56,7 +56,7 @@ You can add up to 10,000 pieces of content across these connections, please cont
 
 ### Can I train my AI support agent on my support tickets?
 
-While it is possible to train your AI support agent on your support tickets on historic conversations, we strongly advise against it for a few reasons:
+While it is possible to train your AI support agent on your support tickets or historic conversations, we strongly advise against it for a few reasons:
 
 * Agent responses are highly variable and inconsistent depending on the agent's tone, experience and demeanour, this will all feed into the AI's answers
 * Knowledge in tickets can very quickly become dated, an answer about a feature 1, 3 or 6 months ago may no longer be relevant today so customers will get poor-quality responses that may be inaccurate.
@@ -67,6 +67,8 @@ If you want to train your AI on tickets, we recommend that you create a curated 
 Ultimately, the golden knowledge source should be your help documentation and knowledge articles, as these will have been verified, reviewed, and kept up to date. Keeping them updated also means that the customers who don't use your chat still benefit from the updated knowledge.
 
 We recommend that if you do want to use your historic tickets to train your AI support agent,  you should use them to create knowledge articles using our [Improve](improve/) features.&#x20;
+
+If however, you still want to train on your historic tickets, get in touch with us by asking to "Talk to a person" and we will explain how this can be done.
 
 ## References
 

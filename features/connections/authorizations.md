@@ -38,7 +38,7 @@ Before you begin, ensure you have:
 
 * Gone through My AskAI's managed OAuth flow and submitted the admin consent request (see screenshot below):
 
-![](<../../.gitbook/assets/image (53).png>)
+<figure><img src="../../.gitbook/assets/image (542).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * An administrator role or designated reviewer role to review admin consent requests
 
@@ -65,7 +65,7 @@ If you are unable to consent to the approval request under **My Pending** becaus
 
 To authorize your Dropbox connection, you just need to log into your Dropbox account when asked.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption></figcaption></figure>
 
 ### Intercom
 
@@ -122,7 +122,7 @@ For more information, please refer to [this solution article](https://docs.carbo
 
 To authorize your Notion connection, you just need to log in and authorize your Notion account when asked and grant permission.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (544).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### SharePoint
 
@@ -144,7 +144,7 @@ Click the “Confirm” button to grant us permission to access your SharePoint.
 
 Once clicking “Confirm”, you will be taken through a flow to grant permissions.
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (548).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 You may get a message like the below, if you are using a workplace Sharepoint, if so you will need to get your company admin to grant access to 3rd party apps in order to connect, you can [read more on user consent and permissions here](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?view=o365-worldwide).
@@ -154,7 +154,7 @@ You may get a message like the below, if you are using a workplace Sharepoint, i
 Note, the app approval request will be for My AskAI.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (547).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Approving the SharePoint admin request
 
@@ -187,7 +187,7 @@ For example, if the Confluence workspace URL is `https://myaskai.confluence.com`
 
 <figure><img src="../../.gitbook/assets/image (326).png" alt="" width="301"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
 
 ### Salesforce
 
@@ -201,4 +201,6 @@ For example, if the Salesforce account URL is `https://myaskai.my.salesforce.com
 
 <figure><img src="../../.gitbook/assets/image (364).png" alt="" width="242"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (545).png" alt=""><figcaption></figcaption></figure>

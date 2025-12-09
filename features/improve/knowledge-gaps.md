@@ -16,8 +16,6 @@ You can think of this view as your 'to-do' list to improve your AI agent's knowl
 
 You can fix a knowledge gap immediately by clicking "Fix knowledge gap" and then writing your own custom answer, however My AskAI will automatically generate answers for you based on your historic tickets when the knowledge gap has reached 3 questions.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082351.png" alt="" width="563"><figcaption></figcaption></figure>
-
 When fixing a knowledge gap you can:
 
 1. _Generate a knowledge snippet from your existing documentation_\
@@ -27,15 +25,9 @@ When fixing a knowledge gap you can:
 3. _Draft a knowledge snippet from scratch_\
    If you don't want to use AI to generate your knowledge snippet, you can just draft one from scratch yourself using our text editor.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082648.png" alt="" width="563"><figcaption></figcaption></figure>
-
 Whichever way you choose to begin with, you can always edit the knowledge snippet at a later date.
 
-Once you have created your knowledge snippet click on "Save & Test", this will show you what response your AI agent will give to your question, you can then choose to either add this snippet to your AI agent's knowledge (if you are happy with the response) by clicking 'Finish' or continue editing (if you don't like the response) by clicking 'Back/Edit'.
-
-<figure><img src="../../.gitbook/assets/image (419).png" alt="" width="563"><figcaption></figcaption></figure>
-
-If you add the snippet the knowledge gap will be Resolved and will be cleared from your Improve view.
+Once you have created your knowledge snippet click on "Save" to add this knowledge to your AI agent.
 
 ### How do I connect my Zendesk or Intercom tickets?
 

@@ -21,8 +21,6 @@ When in Public mode, your AI support agent will not answer questions that requir
 If files or pages connected are marked "Public" in your My AskAI, no links to internal content will be shared as references when displayed publicly (i.e. as a widget on your site), only when used privately.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
-
 ### How to Add Knowledge to Your AI Support Agent
 
 {% embed url="https://www.youtube.com/watch?v=HdqX28CMJ-g" %}
@@ -45,11 +43,9 @@ You can currently connect the following knowledge sources to your AI agent (you 
 
 More connections are coming soon, please let us know if you have a specific connection you would like to see [by requesting it here](https://feedback.myaskai.com/).
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt="" width="563"><figcaption></figcaption></figure>
-
 ### How do I connect a knowledge source?
 
-1. Go to _**Knowledge > Connect knowledge sources.**_
+1. Go to _**Knowledge > Content > Connect knowledge sources**_
 2. Click "**+ Add new connection**".
 3. Click on the [knowledge source](./#which-knowledge-sources-do-you-have-connections-or-integrations-with) you would like to integrate with e.g. Google Drive, Intercom etc.
 4. You will then be taken to an authorization screen for the relevant integration.
@@ -71,11 +67,9 @@ If you "Unpublish" or move an article back into "Draft" in Intercom, Zendesk or 
 
 To delete a file from your AI support agent:
 
-1. Go to _**Knowledge > Connect knowledge sources > Live connections**_
+1. Go to _**Knowledge > Content > Connect knowledge sources > Connected knowledge sources**_
 2. Click "**Manage**"
 3. Search for and select the file or pages you want to remove and click the trash can icon :wastebasket: next to the item
-
-<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 Once a file is removed from the knowledge of an agent it is no longer used by the AI to answer questions and that knowledge is removed.
 
@@ -96,8 +90,6 @@ See the full table below for content update schedules:
 <table><thead><tr><th width="160">Content source</th><th width="145" data-type="checkbox">Added files/folders/pages automatically re-synced?</th><th width="153" data-type="checkbox">New files/folders/pages automatically added and synced?</th><th width="151">Sync frequency</th><th data-type="checkbox">Links visible</th></tr></thead><tbody><tr><td>Websites</td><td>true</td><td>true</td><td>Fortnightly (or on request)</td><td>true</td></tr><tr><td>Google Drive</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>Notion</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>OneDrive</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>SharePoint</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>Intercom</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>true</td></tr><tr><td>Zendesk</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>true</td></tr><tr><td>Freshdesk</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>true</td></tr><tr><td>Dropbox</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>Confluence</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>Salesforce</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>false</td></tr><tr><td>Shopify</td><td>true</td><td>true</td><td>24 hours (if modified)</td><td>true</td></tr></tbody></table>
 
 If you need to update an item intra-day you can find the item in the relevant connection, then click the "Refresh" icon next to it for an instant update.
-
-<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 ### Who sees the files and pages I have uploaded?
 

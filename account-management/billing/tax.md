@@ -23,9 +23,6 @@ To ensure your tax is calculated correctly on your subscription ensure you provi
 If you are already a My AskAI user and are being charged tax then you can update your Tax ID like this:
 
 1. Go to _**Account settings > Billing**_ then click on _"Manage subscription on Stripe"._
-
-<figure><img src="../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
-
 2. Click "Update information"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-08-15/b77f5939-733c-4448-b8ba-568ee237efc1/user_cropped_screenshot.jpeg?tl_px=325,461\&br_px=1185,942\&force_format=png\&width=560.0\&wat_scale=50\&wat=1\&wat_opacity=1\&wat_gravity=northwest\&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/EAB308_standard.png\&wat_pad=262,138)

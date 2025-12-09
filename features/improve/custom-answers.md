@@ -30,8 +30,6 @@ Custom answers should be used for small corrections, adjustments, or if there is
 Before adding a custom answer, think about whether it would make more sense to update your documentation and [refresh the page](../adding-and-syncing-your-website-content.md#can-i-refresh-or-update-webpages-before-the-weekly-sync) to allow your AI support agent to answer instead.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
-
 ### How do I create a custom answer?
 
 {% hint style="info" %}
@@ -40,17 +38,11 @@ For best results, write custom answers in English, they will be automatically tr
 
 To create a custom answer (or to correct a response):
 
-1. Go to **Knowledge > Custom answers** or go directly to **Improve**
+1. Go to **Knowledge > Custom answers**
 2. Select "_Add/manage custom answers_"
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082614.png" alt=""><figcaption></figcaption></figure>
-
 3. Click the button "+ _Add new custom answer_"
 4. Add your question and answer pair
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082630.png" alt="" width="563"><figcaption></figcaption></figure>
-
-5. Click "Save & Test", this will show you what response your AI agent will give to your question
+5. Click "Save".
 6. You can then choose to either add this snippet to your AI agent's knowledge (if you are happy with the response) by clicking 'Finish' or continue editing (if you don't like the response) by clicking 'Back/Edit'.
 
 That's it, you should be able to then ask your AI agent the question and have it respond with the updated response.&#x20;
@@ -59,22 +51,18 @@ That's it, you should be able to then ask your AI agent the question and have it
 
 To delete a custom answer:
 
-1. Go to **Improve > Custom Answers**
+1. Go to **Knowledge > Custom Answers**
 2. Select the Custom Answer you wish to delete.
 3. Click the trash can icon next to that Custom Answer and you answer will be deleted immediately.
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-22 082614 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I edit a custom answer or knowledge snippet?
 
 To edit a custom answer:
 
-1. Go to **Improve > Custom answers**
+1. Go to **Knowledge > Custom answers**
 2. Select the Custom Answer you wish to edit.
 3. Click the button pencil icon next to that Custom Answer.
 4. Update your Custom Answer/knowledge snippet and click "Save & Test"
-
-<figure><img src="../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
 ### How do I edit an existing answer?
 
@@ -86,4 +74,4 @@ At this time it is not possible to export custom answers from the dashboard. If 
 
 ### How can I see all my custom answers and knowledge snippets?
 
-To view all of your custom answers and knowledge snippets, go to **Improve > Custom answers**
+To view all of your custom answers and knowledge snippets, go to **Knowledge > Custom answers**
