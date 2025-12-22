@@ -52,6 +52,10 @@ The request body will be in JSON format and will include only the following fiel
 
 #### **Response**
 
+{% hint style="warning" %}
+If responses from the User Data API exceed 1,500 characters, each response will be charged as a tool (at $0.02 per message).
+{% endhint %}
+
 The API must respond with a JSON object containing the requested user information:
 
 ```json

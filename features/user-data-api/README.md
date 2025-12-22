@@ -61,3 +61,7 @@ If you can't see an option to "Connect live user data" in your Dashboard, it is 
 ### How much does the User Data API cost?
 
 There is no cost for using the User Data API, it's usage is included in all plans.
+
+{% hint style="warning" %}
+If responses from the User Data API exceed 1,500 characters, each response will be charged as a tool (at $0.02 per message).
+{% endhint %}
