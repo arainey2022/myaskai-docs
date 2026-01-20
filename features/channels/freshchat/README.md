@@ -54,7 +54,7 @@ If you need to create an API key you can do so by [following the instructions he
 
 5. Once enabled, copy the webhook address from My AskAI and paste it into Freshchat's webhook field, then enter your email for failure notification alerts and click save.\
    \
-   Webhook address: [https://myaskai.com/api/1.1/wf/freshchat-webhook](https://myaskai.com/api/1.1/wf/freshchat-webhook)
+   Webhook address: [https://ask.myaskai.com/projects/webhooks/freshchat](https://ask.myaskai.com/projects/webhooks/freshchat)
 
 <figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
