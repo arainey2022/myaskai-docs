@@ -10,7 +10,7 @@ description: >-
 
 Your AI agent uses "Flex" or usage-based pricing.&#x20;
 
-Flex allows your AI agent to continue responding when you go beyond your conversation limits, each conversation beyond your account limit is charged at $0.10 and is charged in the next month's invoice or on cancellation.
+Flex allows your AI agent to continue responding when you go beyond your conversation limits, each conversation beyond your account limit is charged at $0.12 for Pro plans (or $0.10 for Scale and Enterprise plans)  and is charged in the next month's invoice or on cancellation.
 
 ### Can I disable Flex?
 

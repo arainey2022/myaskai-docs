@@ -43,6 +43,10 @@ You can currently connect the following knowledge sources to your AI agent (you 
 
 More connections are coming soon, please let us know if you have a specific connection you would like to see [by requesting it here](https://feedback.myaskai.com/).
 
+{% hint style="warning" %}
+Note that unpublished articles in Zendesk will also be synced to your AI agent, if you don't want these to be added to the AI agent's knowledge for public-facing answers, select them by going to Knowledge, clicking on the Zendesk connection and switching the articles to "Private".
+{% endhint %}
+
 ### How do I connect a knowledge source?
 
 1. Go to _**Knowledge > Content > Connect knowledge sources**_

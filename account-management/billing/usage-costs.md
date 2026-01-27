@@ -6,11 +6,11 @@ Our conversation credit pricing works slightly differently depending on how you 
 
 #### Tickets
 
-If you use one of our helpdesk ticket integrations (e.g. Zendesk Tickets, Intercom email, Freshdesk, Gorgias email, or HubSpot email), then the first message received will be charged as 1 conversation credit (or $0.10 if you exceed the included allowance), then each subsequent message will be 0.4 of a conversation credit ($0.04 if you exceed the included allowance).
+If you use one of our helpdesk ticket integrations (e.g. Zendesk Tickets, Intercom email, Freshdesk, Gorgias email, or HubSpot email), then the first message received will be charged as 1 conversation/ticket credit, then each subsequent message will be 0.5 of a conversation/ticket credit.
 
 #### Conversations/Chats
 
-If you use one of our helpdesk chat or conversation integrations (e.g. Zendesk Messaging, Intercom conversations, Freshchat, Gorgias chat, or HubSpot chat), then each message received will be charged as 0.4 of a conversation credit ($0.04 if you exceed the included allowance).
+If you use one of our helpdesk chat or conversation integrations (e.g. Zendesk Messaging, Intercom conversations, Freshchat, Gorgias chat, or HubSpot chat), then each message received will be charged as 0.5 of a conversation/ticket credit.
 
 #### My AskAI widget
 
@@ -22,7 +22,7 @@ We do not charge based on "resolutions", we charge based on usage, this means:
 
 * Your costs will be more predictable month to month (as you know how many tickets you get)
 * As you work to improve your AI agent's performance it becomes more economical for you (not less)
-* Because of our cheap pricing model ($0.10 per ticket), we are often at least 3x cheaper than our competitor's pricing when resolution-based pricing and a reasonable resolution rate is applied.&#x20;
+* Because of our cheap pricing model, we are often at least 3x cheaper than our competitor's pricing when resolution-based pricing and a reasonable resolution rate is applied.&#x20;
 
 ### Does a ticket have to be finalized or solved for billing?
 

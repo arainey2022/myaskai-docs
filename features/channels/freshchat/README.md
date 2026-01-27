@@ -123,11 +123,11 @@ To add AI statuses of to a Freshchat conversation:
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Your new AI Chat Status will always be **one** of:
    * `ai-agent-replied`: used when the AI agent has sent any reply
@@ -146,7 +146,7 @@ Assuming you have [created your AI Chat Status](./#how-do-i-add-conversation-pro
 
 Create a new view and filter using the AI Agent status field: `ai-agent-replied` or `human-handover-requested` or `ai-agent-tag-blocked` .
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How can I take control from or give control to the AI agent in Freshchat?
 
@@ -194,7 +194,7 @@ To stop your AI agent from replying to specific topics in Freshchat you can use 
 
 To reassign a Freshchat ticket or conversation to a member of your team once it has been handed over create a Conversation Assignment Rule (**Freshchat Admin Settings > Configurations and Workflows > Workflows> Conversation Assignment Rules**) for conversations with AI Chat Status = `human-handover-requested` that re-assigns conversations to agents or groups.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How do I auto-close a ticket in Freshchat after a set amount of time?
 
