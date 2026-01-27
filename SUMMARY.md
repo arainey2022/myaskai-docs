@@ -135,7 +135,6 @@
 ## FAQ
 
 * [🪖 General](faq/general/README.md)
-  * [🎟️ Can I train it initially on my historic tickets?](faq/general/can-i-train-it-initially-on-my-historic-tickets.md)
   * [🧪 How can I test my AI agent without it responding to customers?](faq/general/how-can-i-test-my-ai-agent-without-it-responding-to-customers.md)
   * [📱 Can I use the AI agent within a mobile app?](faq/general/can-i-use-the-ai-agent-within-a-mobile-app.md)
   * [🥫 Can I add macros, canned or stock responses to my AI agent?](faq/general/can-i-add-macros-canned-or-stock-responses-to-my-ai-agent.md)

@@ -126,19 +126,3 @@ If this is an issue, please get in touch with us via chat.
 ### What are the file size limitations?
 
 The maximum size of a local file to be uploaded is 10MB (this is a limitation put on us by Google, Microsoft et al and so is not something we can work around unfortunately).&#x20;
-
-### Can I train my AI support agent on historic support tickets?
-
-Yes, you can.
-
-If you don't have a help center and only have historic tickets, we can help you create one, ask to "Talk to a person" and we will help you to set this up.&#x20;
-
-We generally do not recommend training your AI support agent directly on your historic support tickets for a few reasons:
-
-* There is no 'version control' of support tickets - answers that agents gave a year ago about a feature may have changed or no longer be relevant
-* They rely on consistent responses from your agents - not all agents will respond in the same way, some will be better, some worse, the AI won't be able to distinguish from them
-* 'Managing' the 'knowledge' becomes extremely difficult as you may have thousands or hundreds of thousands of tickets, how do you pick the 'right' ones?
-
-We therefore always recommend that you use a verifiable source of truth to train your AI (like a help center or knowledgebase which has been through a review process and is managed).
-
-This will ensure your AI gives the best quality AI responses.
