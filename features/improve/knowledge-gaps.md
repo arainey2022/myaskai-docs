@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ❓ Knowledge Gaps
 
 ### What is a knowledge gap?
