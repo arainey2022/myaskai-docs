@@ -2,6 +2,7 @@
 description: >-
   The nitty-gritty of how My AskAI actually works behind the scenes to answer
   your questions with AI (in case you are interested).
+hidden: true
 ---
 
 # 🤔 How does it work?
