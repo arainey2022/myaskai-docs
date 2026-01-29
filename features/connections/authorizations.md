@@ -20,6 +20,22 @@ You will see this message after you have selected your account telling you that 
 If you are using a Google workplace account, you may need your admin to grant access to 3rd party apps to connect.
 {% endhint %}
 
+#### My Google Drive connection is blocked (for a Google Workspace account)
+
+If you are the Google Workspace admin
+
+You can approve (or unblock) the app like this:
+
+1. Go to [admin.google.com](http://admin.google.com)
+2. Security → Access and data control
+3. Open API controls
+4. Click App access control
+5. Find the app: [`692421788097-i80n4hu6c7pbmhhi366ltudlo43i7kpi.apps.googleusercontent.com`](http://692421788097-i80n4hu6c7pbmhhi366ltudlo43i7kpi.apps.googleusercontent.com)
+6. Change the status for the app to: **Trusted** (full access)
+7. Save changes
+
+For further info: [https://support.google.com/a/answer/7281227?hl=en-IN](https://support.google.com/a/answer/7281227?hl=en-IN)
+
 ### OneDrive
 
 To authorize your OneDrive connections, you just need to log into your Microsoft account when asked, then click confirm to grant permission.
