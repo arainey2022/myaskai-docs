@@ -9,7 +9,7 @@ description: >-
 
 ### How many pieces of content can my AI support agent use in its answer?
 
-Your AI agent will look over all the help documentation, knowledge articles and content you add, and [identify the 6 most relevant pieces of text from them to use to answer your question](../faq/general/how-does-it-work.md). This means that the answer will reference at most 6 different webpages, help documents or knowledge articles, but it may only reference 1 if all pieces of text came from the same source.
+Your AI agent will look over all the help documentation, knowledge articles and content you add, and identify the 6 most relevant pieces of text from them to use to answer your question. This means that the answer will reference at most 6 different webpages, help documents or knowledge articles, but it may only reference 1 if all pieces of text came from the same source.
 
 ### Do you answer based on multiple pages or pieces of content?
 
@@ -49,26 +49,10 @@ The following content can be added to your AI agent to "train" it:
 * Confluence knowledge articles
 * Dropbox
 * SharePoint
-* SalesForce
+* Salesforce
 * Shopify pages, products and customer data
 
 You can add up to 10,000 pieces of content across these connections, please contact us via chat if you need more.
-
-### Can I train my AI support agent on my support tickets?
-
-While it is possible to train your AI support agent on your support tickets or historic conversations, we strongly advise against it for a few reasons:
-
-* Agent responses are highly variable and inconsistent depending on the agent's tone, experience and demeanour, this will all feed into the AI's answers
-* Knowledge in tickets can very quickly become dated, an answer about a feature 1, 3 or 6 months ago may no longer be relevant today so customers will get poor-quality responses that may be inaccurate.
-* If you have a large volume of tickets then managing this knowledge can quickly become a very difficult task as you look through the thousands of agent responses to work out which are still relevant, and which you need to update.
-
-If you want to train your AI on tickets, we recommend that you create a curated list of customer questions and agent responses as a document (ideally added via one of our [Connections](connections/) so it will update every 24 hours as you update it) and add this to your AI agent's knowledge.
-
-Ultimately, the golden knowledge source should be your help documentation and knowledge articles, as these will have been verified, reviewed, and kept up to date. Keeping them updated also means that the customers who don't use your chat still benefit from the updated knowledge.
-
-We recommend that if you do want to use your historic tickets to train your AI support agent,  you should use them to create knowledge articles using our [Improve](improve/) features.&#x20;
-
-If however, you still want to train on your historic tickets, get in touch with us by asking to "Talk to a person" and we will explain how this can be done.
 
 ## References
 

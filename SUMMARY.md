@@ -67,6 +67,7 @@
   * [☑️ Test](features/improve/test.md)
   * [📊 Content Usage](features/improve/content-usage.md)
   * [🔍 Inspect & Logs](features/improve/inspect-and-logs.md)
+* [👯 Multibrand](features/multibrand.md)
 * [🔓 Private (Internal) mode](features/private-internal-mode.md)
 * [📂 File uploads](features/file-uploads.md)
 * [🔁 Adding & syncing your website content](features/adding-and-syncing-your-website-content.md)
