@@ -6,6 +6,8 @@ description: Here are details on all of our pricing and plans for My AskAI.
 
 For full details of our plans and features, visit [https://myaskai.com/pricing](https://myaskai.com/pricing) from here you can find out all about our account limits and features.
 
+You can read more about the differences in [support between these plans here](../start-here/support.md).
+
 When you sign up to My AskAI you begin a 30-day free trial that allows you to try out all features of your AI support agent without having to provide credit card details.&#x20;
 
 ### Do you have a free demo?
