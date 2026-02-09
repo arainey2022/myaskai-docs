@@ -201,6 +201,15 @@ Yes, when you connect your Zendesk account to My AskAI, you can also import your
 
 To do this, go to the **Knowledge** section of your **Dashboard** and click **"Import Macros"**.
 
+### How do I change the Zendesk Messaging profile icon?
+
+To change the Zendesk Messaging profile icon:
+
+1. Go into your Dashboard
+2. Click Channels > Zendesk > Zendesk Messaging
+3. Scroll to where the icon section is
+4. Click and update with your new icon
+
 ### How can I pause or temporarily turn off AI replies or notes in Zendesk Messaging?
 
 To pause or temporarily pause AI replies or notes in Zendesk Messaging go to **Channels > Zendesk Messaging** then scroll to the toggle for "Pause AI agent".

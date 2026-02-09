@@ -218,6 +218,15 @@ Go to **Channels > Zendesk > Zendesk Tickets > First reply delay** and specify t
 
 When the time period is up the response will then be sent.
 
+### How do I change the Zendesk Tickets profile icon?
+
+To change the Zendesk Tickets profile icon:
+
+1. Go into your Dashboard
+2. Click Channels > Zendesk > Zendesk Tickets
+3. Scroll to where the icon section is
+4. Click and update with your new icon
+
 ### How can I stop the AI agent replying in Zendesk Tickets?
 
 To stop the AI agent replying in Zendesk tickets, just reply to the ticket yourself and the AI agent will automatically stop replying.
