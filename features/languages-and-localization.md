@@ -60,6 +60,7 @@ We currently support 95 languages, including localization for:
 * Swahili
 * Swedish
 *  Turkish
+* Ukrainian
 * Vietnamese
 
 We also support other languages by request, if you need an additional language, sign up for a Pro plan and get in touch with us via chat and we will add your language right away.
