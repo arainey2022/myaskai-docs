@@ -13,7 +13,7 @@ To set your Zendesk AI agent to only reply to tickets out-of-hours:
 3. Add a new condition to the list "Meet ALL of the following conditions"
 4. New conditions: Ticket within business hours > is > No
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This means that the AI agent will only be notified about tickets outside of business hours.
 
@@ -46,7 +46,7 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Request email (continuous conversation)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 2. Collect the email in the chat within the Zendesk Messaging widget
 
@@ -66,4 +66,4 @@ There are 2 ways you can do this depending on your needs:
    Conditions = Match ANY of these conditions - Customer email Does not contain @ \
    Actions = Send message to customer, Name of agent: AI Agent, Message: e.g. What's your email, please?
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

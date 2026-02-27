@@ -123,11 +123,11 @@ To add AI statuses of to a Freshchat conversation:
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Your new AI Chat Status will always be **one** of:
    * `ai-agent-replied`: used when the AI agent has sent any reply
