@@ -119,6 +119,12 @@ To take control from the AI agent when it is replying in Gorgias, you can either
 
 Unfortunately, it is currently not possible to use Gorgias triage steps or flows with your AI agent.
 
+### How to collect email on handover/escalation in Gorgias
+
+When a Gorgias conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
+
+To do this, [follow our guide on escalation data collection here](../escalation-data-collection-emails.md).
+
 ### I have multiple brands, users or email accounts in Gorgias or Shopify, can I have the AI agent only respond to one of them (or specific ones)?
 
 Yes, you can set your AI agent up so it only responds to specific emails or brands in Gorgias.

@@ -37,7 +37,7 @@ You can evaluate, score and QA your test question set by clicking into any quest
 
 You can then track these as you make updates to your agent.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How do I improve my AI agent responses once I have tested them?
 

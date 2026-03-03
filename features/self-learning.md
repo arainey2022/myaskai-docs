@@ -46,7 +46,7 @@ To see the self-learning knowledge go to your dashboard, then click on "Improve"
 
 Click into one of these articles and a side panel will open up where you should see the AI-generated content.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### How do I know what has been updated in self-learning each week?
 
@@ -57,7 +57,7 @@ You'll know what has changed because:
 1. You'll get an email letting your know which articles have been updated
 2. When you go into the self-learning section of your Dashboard (**Improve > Self-learning**), and click into an article you’ll see the additions and deletions in green and red.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Can I edit the self-learning?
 

@@ -28,3 +28,9 @@ There are a couple of ways you can give your Intercom AI agent context about wha
 You can even do both.
 
 Option #1 will help give the AI additional knowledge about the user, and Option #2 will enrich that user's question to be more contextual to where they are.
+
+### How to collect email on handover/escalation in Intercom
+
+When a Intercom conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
+
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).

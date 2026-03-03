@@ -123,7 +123,7 @@ To add AI statuses of to a Freshchat conversation:
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
@@ -219,6 +219,12 @@ You can prevent "instant" human escalation on the 1st message in a conversation 
 This option is on by default.
 
 When a user tries to escalate immediately they will be asked to provide more information first. On any subsequent messages, they can initiate a escalation to an agent.
+
+### How to collect email on handover/escalation in Freshchat
+
+When a Freshchat conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
+
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).
 
 ### How can I add my Freshchat AI agent to other services, like WhatsApp, Instagram, Facebook Messenger, or SMS?
 

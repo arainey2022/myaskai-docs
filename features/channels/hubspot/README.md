@@ -120,6 +120,12 @@ In the HubSpot inbox you will be shown this note at the point of escalation, say
 
 <figure><img src="../../../.gitbook/assets/image (534).png" alt="" width="563"><figcaption></figcaption></figure>
 
+### How to collect email on handover/escalation in HubSpot
+
+When a HubSpot conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
+
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).
+
 ### How can I take control from the AI support agent in HubSpot?
 
 You can give control or take back control from the AI at any time, here's how:
@@ -146,9 +152,9 @@ This phrase must exactly match the pre-defined button you are going to use in yo
 
 4. After creating the trigger phrase/button in your HubSpot chatflow, add a final “Send to team member” (assign to no one) step to your chatflow. Name it and add a message such as “What is your question?” (can be anything to prompt the user to write their question).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.
