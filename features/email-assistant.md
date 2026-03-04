@@ -10,6 +10,10 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+Only to be used if you are not currently using a helpdesk such as Zendesk, Intercom, Gorgias, HubSpot or Freshdesk/Freshchat.
+{% endhint %}
+
 ### Quick reference guide
 
 * [How do I test my AI email assistant?](email-assistant.md#how-can-i-test-my-ai-email-assistants-responses)
