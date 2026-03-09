@@ -16,7 +16,7 @@ To run a workflow after a human escalation in Intercom:
 
 **Path 1: Wait and Check**
 
-1. Set a **Wait** action for 1 minute
+1. Set a **Wait** action for 3 minute
 2. Create a **Branches** action with the following conditions:
    1. IF: Conversation tag is `AI human handover`&#x20;
    2. AND conversation state = "_is not closed_"
