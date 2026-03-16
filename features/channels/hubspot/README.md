@@ -124,7 +124,7 @@ In the HubSpot inbox you will be shown this note at the point of escalation, say
 
 When a HubSpot conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
-To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection.md).
 
 ### How can I take control from the AI support agent in HubSpot?
 

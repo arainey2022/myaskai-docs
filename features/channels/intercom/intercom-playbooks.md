@@ -33,4 +33,4 @@ Option #1 will help give the AI additional knowledge about the user, and Option 
 
 When a Intercom conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
-To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection.md).

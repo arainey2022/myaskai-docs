@@ -224,7 +224,7 @@ When a user tries to escalate immediately they will be asked to provide more inf
 
 When a Freshchat conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
-To do this, [follow our guide on escalation data collection here](../../escalation-data-collection-emails.md).
+To do this, [follow our guide on escalation data collection here](../../escalation-data-collection.md).
 
 ### How can I add my Freshchat AI agent to other services, like WhatsApp, Instagram, Facebook Messenger, or SMS?
 

@@ -21,7 +21,7 @@ This means that the AI agent will only be notified about tickets outside of busi
 
 When a Zendesk Messaging conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
-[Follow these steps to collect any email or data on a customer at escalation](../../escalation-data-collection-emails.md) and specifically:
+[Follow these steps to collect any email or data on a customer at escalation](../../escalation-data-collection.md) and specifically:
 
 Enable email collection by clicking "Use both verified and unverified emails" in the Zendesk Messaging settings in Zendesk (accessible via the Admin panel and going to **Messaging > Messaging Settings**).
 

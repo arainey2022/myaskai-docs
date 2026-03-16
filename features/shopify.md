@@ -6,6 +6,16 @@ description: >-
 
 # 🛍️ Shopify
 
+### Why use My AskAI with Shopify?
+
+My AskAI handles common Shopify support queries automatically — WISMO/order status lookups, shipping questions, returns policies, product information, and more.&#x20;
+
+It pulls real-time order data from Shopify so customers get accurate, up-to-date answers without waiting for a human agent.&#x20;
+
+For anything it can't resolve, it escalates to your team with full conversation context.&#x20;
+
+Most Shopify stores see 70%+ of support queries resolved by the AI agent within the first month.
+
 ### Where can I find the Shopify app?
 
 You can find our Shopify app [here](https://apps.shopify.com/my-askai-ai-support-agent).
@@ -40,6 +50,18 @@ You will see a toggle under "AI agent access to customer data", if you toggle th
 To upgrade to a paid plan for your AI agent when using the Shopify integration you must do this via the Shopify app store and you must be an admin for the Shopify store.
 
 If you want to move/upgrade from a monthly to an annual plan and are using our Shopify integration, contact us by asking to "Talk to a person" in our chat.
+
+### Do you support Shopify Markets and multi-stores or brands?
+
+My AskAI works with Shopify Markets. Your AI agent can handle conversations in multiple languages and understand different currencies, making it a good fit for stores serving international customers across different markets.
+
+Key things to know:
+
+* **Multi-language:** Your AI agent can converse with customers in 95+ languages, e.g. if a customer writes in French or Spanish, the agent replies in their language automatically. This is enabled by default.
+* **Multi-currency:** Your AI agent can retrieve and reference order details including pricing, regardless of the currency the customer purchased in.
+* **Single or multi-market stores:** Whether you run one Shopify store serving multiple markets or separate storefronts, you can add your AI agent to each using the same code snippet.
+
+If you're using Shopify Markets with a helpdesk like Gorgias or Zendesk, your AI agent integrates with both — handling customer queries on your site and within your helpdesk.&#x20;
 
 ### How do I disconnect my Shopify store and all of content and user data from my AI agent?
 

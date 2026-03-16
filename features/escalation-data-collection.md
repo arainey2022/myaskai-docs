@@ -4,7 +4,7 @@ description: >-
   phone numbers, bug details and more.
 ---
 
-# 📧 Escalation data collection (emails)
+# 📧 Escalation data collection
 
 ### What is escalation/handover data collection?
 
@@ -15,6 +15,12 @@ This means you can ensure you collect details that will help you to resolve the 
 It could be an email address, a name, a phone number, bug details, whatever you need.
 
 And best of all, it doesn't show a form to the user, it asks them naturally, in conversation, just like a person would.
+
+### **What data can you collect as part of escalation?**&#x20;
+
+You can collect any information you need before escalation - email address, name, phone number, bug details, order number, or anything else relevant.&#x20;
+
+Each piece of data is collected conversationally (not via a form), so the experience feels natural to the customer. The data collected will be visible in the conversation or ticket history.
 
 ### How do I set up escalation/handover data collection?
 
@@ -42,6 +48,14 @@ The escalation/handover data collection task works on all helpdesk integrations.
 
 Once the data is collected by the AI agent, it will reside in the conversation or ticket history but will only be added to any meta data or other fields if you create an integration to allow this, e.g. an [API tool](ai-actions-tools.md) that posts the collected data somewhere.
 
-One exception is with [Zendesk Messaging](channels/zendesk/zendesk-messaging.md) where there is a native escalation data collection integration already which you can enable by clicking "Use both verified and unverified emails" in the Zendesk Messaging settings in Zendesk (accessible via the Admin panel and going to **Messaging > Messaging Settings**).
+### How does escalation data collection work in Zendesk Messaging?
+
+[Zendesk Messaging](channels/zendesk/zendesk-messaging.md) has a native integration for passing collected data into the escalated ticket. When a conversation is escalated, any email address and name collected by your AI agent will automatically be attached to the Zendesk ticket created for the handover.&#x20;
+
+To enable this, go to your **Zendesk Admin panel > Messaging > Messaging Settings** and enable 'Use both verified and unverified emails'.&#x20;
+
+Once enabled, the visitor's email and name collected during the conversation will appear on the ticket, so your agents have the customer's details ready when they pick it up.
+
+This means you can require customers to provide their email on escalation in Zendesk Messaging so you can follow up.
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>

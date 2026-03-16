@@ -123,7 +123,7 @@ Unfortunately, it is currently not possible to use Gorgias triage steps or flows
 
 When a Gorgias conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
-To do this, [follow our guide on escalation data collection here](../escalation-data-collection-emails.md).
+To do this, [follow our guide on escalation data collection here](../escalation-data-collection.md).
 
 ### I have multiple brands, users or email accounts in Gorgias or Shopify, can I have the AI agent only respond to one of them (or specific ones)?
 

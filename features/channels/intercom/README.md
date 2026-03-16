@@ -96,6 +96,16 @@ As part of the escalation, the AI agent will summarize the conversation so the a
 
 To trigger a workflow after a human escalation has taken place, [follow these instructions](human-escalation-workflows.md).
 
+### Can I automatically assign a conversation or ticket to a specific team inbox on escalation in Intercom?
+
+Yes, you can automatically assign escalated tickets to inboxes in Intercom.&#x20;
+
+To do this go to **Helpdesk & Channels > Intercom** then scroll to the "**Assign to Team Inbox on escalation**" section and select the inbox from the dropdown options.
+
+<figure><img src="../../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
+
+When tickets are escalated from that point on, they will be auto assigned.
+
 ### Will the AI agent reply to emails within Intercom?
 
 Yes, your AI agent can reply to emails received in Intercom. To turn this feature on or off:

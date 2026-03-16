@@ -25,7 +25,7 @@
 
 * [❓ AI answers on your content](features/ai-answers-on-your-content.md)
 * [🤝 Human escalation](features/human-escalation.md)
-* [📧 Escalation data collection (emails)](features/escalation-data-collection-emails.md)
+* [📧 Escalation data collection](features/escalation-data-collection.md)
 * [🔌 Channels](features/channels/README.md)
   * [Zapier](features/channels/zapier.md)
   * [Zendesk](features/channels/zendesk/README.md)
