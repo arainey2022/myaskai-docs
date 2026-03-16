@@ -226,6 +226,16 @@ To do this:
 
 <figure><img src="../../.gitbook/assets/image (486).png" alt="" width="560"><figcaption></figcaption></figure>
 
+### How do I know how often escalation guidance has been used/applied?
+
+You can see the % of escalations that have resulted from your guidance by going to Improve > Guidance > Handover & Escalation and then seeing the overall guidance usage % in the last 30 days.
+
+If you expand the guidance to see the detailed list you will also see which specific pieces of escalation guidance have been used most.
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+This will allow you to optimize your escalation guidance to ensure it isn't overly sensitive.
+
 ### How many pieces of guidance can I add?
 
 You can add up to 30 pieces of guidance under each category of guidance, so 90 in total.&#x20;

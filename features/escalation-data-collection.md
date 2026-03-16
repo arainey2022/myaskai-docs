@@ -58,4 +58,4 @@ Once enabled, the visitor's email and name collected during the conversation wil
 
 This means you can require customers to provide their email on escalation in Zendesk Messaging so you can follow up.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
