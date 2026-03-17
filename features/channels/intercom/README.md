@@ -86,7 +86,7 @@ This must be written as a 'Note' and not a 'Reply'
 
 ### How does human escalation work when using the Intercom messenger integration?
 
-If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect).
+If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect) or, if the AI agent can't answer a question, a "Talk to a person" button is shown that the user can click(this button will only show on the Intercom chat widget, not on other connected Intercom channels such as Facebook Messenger, WhatsApp or Instagram).
 
 Once the conversation is passed over to the human, the AI will not respond again until the agent hands back control to the AI.
 

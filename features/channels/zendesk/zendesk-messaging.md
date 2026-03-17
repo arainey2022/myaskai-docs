@@ -106,7 +106,7 @@ With each question, it will provide the reference link used to answer the questi
 
 ### How does human escalation work when using the Zendesk Messaging integration?
 
-If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect) or just press the "Talk to someone" button at the end of the most recent message.
+If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect) or, if the AI agent can't answer a question a button with "Talk to a person" will show at the end of the most recent message (this button will only show on the Zendesk Messaging widget, not on other connected Zendesk channels such as Facebook Messenger, WhatsApp or Instagram).
 
 Once the conversation is passed over to the human, the AI will not respond again until the agent hands back control to the AI or the ticket is closed.
 
