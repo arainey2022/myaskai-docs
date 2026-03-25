@@ -6,10 +6,6 @@ description: >-
 
 # 🎫 Training on historic tickets
 
-{% hint style="success" %}
-Included in the Scale plan and as an add-on ($499, one-off fee) for the Pro plan.
-{% endhint %}
-
 There are lots of reasons you may want to train on your past/historic tickets:
 
 * You have been too busy to keep your docs up-to-date
