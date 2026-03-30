@@ -24,8 +24,12 @@ If your AI agent doesn't know the answer, the API will also return an additional
 `"suggestedQuestions": ["Example question", ...]`
 {% endhint %}
 
-{% hint style="danger" %}
-The `query` field has a 750 character limit. If this is exceeded, you will see an error: `{"error":"This question is too long. Please ensure questions are less than 750 characters."}`
+{% hint style="info" %}
+You can also pass in `"insights": true` to generate insights in your Dashboard from any API usage.&#x20;
+
+
+
+When Insights is enabled in the API a `conversation_id` is also returned with each request. This can be included in subsequent API requests to keep the requests link to 1 conversation. However, you still need to always pass in the message history as the API is stateless.
 {% endhint %}
 
 {% hint style="info" %}
