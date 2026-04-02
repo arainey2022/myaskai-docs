@@ -103,6 +103,10 @@ You can set the agent to automatically create AI note responses for you to use i
 
 ### How does human escalation work when using the Freshchat integration?
 
+{% hint style="info" %}
+To see how the human handover in Freshchat works, check out this demo: [https://app.supademo.com/demo/cm5p689oo094gpelfx61g43ug?utm\_source=link](https://app.supademo.com/demo/cm5p689oo094gpelfx61g43ug?utm_source=link)
+{% endhint %}
+
 If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect).
 
 Once the conversation is passed over to the human, the AI will not respond again until the agent hands back control to the AI.
@@ -123,11 +127,11 @@ To add AI statuses of to a Freshchat conversation:
    \
    You do not need to add any "choices".
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Now in your conversation inbox you will see your new AI Chat Status property.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Your new AI Chat Status will always be **one** of:
    * `ai-agent-replied`: used when the AI agent has sent any reply
@@ -146,7 +150,7 @@ Assuming you have [created your AI Chat Status](./#how-do-i-add-conversation-pro
 
 Create a new view and filter using the AI Agent status field: `ai-agent-replied` or `human-handover-requested` or `ai-agent-tag-blocked` .
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### How can I take control from or give control to the AI agent in Freshchat?
 

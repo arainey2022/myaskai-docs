@@ -56,11 +56,11 @@ By default your Freshdesk Ticket AI agent will respond to Email and Web form tic
 
 When your AI agent within Freshdesk Tickets is created we create an Automation (found in Settings) for New and Updated tickets.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can amend this and add conditions to the My AskAI automation to filter which tickets should be routed to your AI agent.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Alternatively, you can use our [Freshdesk tagging](freshdesk-tagging.md) feature to block replies to certain tags, custom fields or topics.
 
@@ -104,6 +104,10 @@ If you’re using your AI agent to directly reply to users in Freshdesk Tickets,
 
 ### How does human escalation work when using the Freshdesk Ticket integration?
 
+{% hint style="info" %}
+To see how the human handover in Freshdesk works, check out this demo: [https://app.supademo.com/demo/cm5p6860v0932pelf4aujnqog?utm\_source=link](https://app.supademo.com/demo/cm5p6860v0932pelf4aujnqog?utm_source=link)
+{% endhint %}
+
 When using in either [Direct reply](./#direct-replies) or [Internal Note](./#internal-notes) reply mode, by default your Freshdesk Ticket AI agent will respond to all Ticket messages sent to you. You can change this however by selecting "Reply 1st message only".&#x20;
 
 If you change to "Reply to 1st message only", any further questions or responses will be handed over to you, as the agent, to address.
@@ -126,7 +130,7 @@ If you only have set your AI agent respond to the first ticket message you can a
 
 To reassign a Freshdesk ticket to a member of your team once it has been handed over create an Automation rule on “Ticket Updates” that filters on the escalation tag `human-handover-requested` and then re-assigns, changes status, etc. of a ticket.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### How can I use my Freshdesk Ticket AI agent to reply to follow-up tickets?
 

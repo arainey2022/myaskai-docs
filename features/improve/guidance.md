@@ -232,7 +232,7 @@ You can see the % of escalations that have resulted from your guidance by going 
 
 If you expand the guidance to see the detailed list you will also see which specific pieces of escalation guidance have been used most.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This will allow you to optimize your escalation guidance to ensure it isn't overly sensitive.
 

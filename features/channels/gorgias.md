@@ -79,6 +79,10 @@ Chat:
 
 ### How does human escalation work when using the Gorgias integration for email/tickets?
 
+{% hint style="info" %}
+To see how the human handover in Gorgias works, check out this demo: [https://app.supademo.com/demo/cm7janv4i0447zi0ilkmijmaa?utm\_source=link](https://app.supademo.com/demo/cm7janv4i0447zi0ilkmijmaa?utm_source=link)
+{% endhint %}
+
 When using in either [Direct reply](gorgias.md#direct-replies) or [Internal Note](gorgias.md#internal-notes) reply mode for Gorgias tickets (not chat), by default your Gorgias AI agent will respond to all Ticket messages sent to you. You can change this however by selecting "Reply 1st message only".&#x20;
 
 If you change to "Single reply", any further questions or responses will be handed over to you, as the agent, to address.

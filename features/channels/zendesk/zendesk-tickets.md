@@ -124,6 +124,10 @@ This can be done by deactivating the below Trigger.
 
 ### How does human escalation work when using the Zendesk Ticket integration?
 
+{% hint style="info" %}
+To see how the human handover in Zendesk Tickets works, check out this demo: [https://app.supademo.com/demo/cm5p68dgz095mpelf99xhiacg?utm\_source=link](https://app.supademo.com/demo/cm5p68dgz095mpelf99xhiacg?utm_source=link)
+{% endhint %}
+
 When using in either [Direct reply](zendesk-tickets.md#direct-replies) or [Internal Note](zendesk-tickets.md#internal-notes) reply mode, by default your Zendesk Ticket AI agent will respond to all Ticket message sent to you. You can change this however by selecting "Reply to 1st message only".&#x20;
 
 If you select "Reply to 1st message only" any further questions or responses will be handed over to you, as the agent, to address.
@@ -189,7 +193,7 @@ By default your AI agent will reply to all inbound emails and chats.
 
 But if you want it to reply to only certain email addresses or brands e.g. support@company.com and not vip-support@company.com  then you can edit the Trigger conditions and add the brands or email accounts you want it to reply to (e.g. support@company.com).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This will ensure it only replies to these brand and accounts.
 

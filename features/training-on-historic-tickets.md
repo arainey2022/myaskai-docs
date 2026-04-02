@@ -13,7 +13,7 @@ There are lots of reasons you may want to train on your past/historic tickets:
 
 Whatever the reason, we can help.
 
-Now all you need to do is connect your helpdesk, and we'll train on 10,000+ of your historic tickets.
+Now all you need to do is connect your helpdesk, and we'll train on 5,000+ of your historic tickets.
 
 We'll then provide you with a set of output help center articles to use in your AI agent or publish to your help center.
 
@@ -33,17 +33,29 @@ To access your historic tickets we have a direct API integration with the respec
 
 You will then provide approved access so we can connect and extract the necessary tickets.&#x20;
 
+#### How do I set up the training on historic tickets and how long does it take?
+
+When you sign up for a My AskAI account you will be asked if you want to train on your historic tickets.
+
+If you select "Yes" then the training will begin as soon as you connect your helpdesk.&#x20;
+
+From connection, you can expect to see self-learning articles generated within 6 hours.
+
+If you didn't select to train on historic tickets when you onboarding, contact us via chat and we will trigger the historic ticket training for you.
+
 #### How many help articles will be generated?
 
 We will generate around 20 detailed, grouped help articles (you can think of them as category pages), that will have multiple relevant bits of knowledge in each page.
 
-#### What format will the articles that are generated from historic tickets be in?
+#### Where will the articles that are generated from historic tickets be put?
 
-You'll be able to access the articles at a hosted URL (which you can then add to your My AskAI AI agent), but you'll also be able to copy and download the markdown to add to any helpdesk.
+The articles generated from your historic tickets will be visible in the [Self-learning](self-learning.md) section of your dashboard (**Improve > Self-learning**).
+
+From there you can make any edits, updates or copy the content to a help center.
 
 #### Can I edit the AI articles once they have been generated?
 
-Yes, you can edit the AI articles once they have been generated, whether in the output provided directly or by editing the markdown before entering it into your help center.&#x20;
+Yes, you can edit the AI articles once they have been generated, whether in the output provided directly in the Self-learning section of your dashboard or by editing the markdown before entering it into your help center.&#x20;
 
 #### Can I train on specific tickets?
 

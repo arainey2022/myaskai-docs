@@ -13,7 +13,7 @@ To set your Zendesk AI agent to only reply to tickets out-of-hours:
 3. Add a new condition to the list "Meet ALL of the following conditions"
 4. New conditions: Ticket within business hours > is > No
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This means that the AI agent will only be notified about tickets outside of business hours.
 
@@ -25,4 +25,4 @@ When a Zendesk Messaging conversation has been handed over or escalated to an ag
 
 Enable email collection by clicking "Use both verified and unverified emails" in the Zendesk Messaging settings in Zendesk (accessible via the Admin panel and going to **Messaging > Messaging Settings**).
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

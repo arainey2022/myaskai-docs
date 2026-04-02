@@ -4,7 +4,7 @@ description: Your AI agent is constantly improving, learning from your human age
 
 # 🧑‍🏫 Self-learning
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### What is self-learning?
 
@@ -13,6 +13,15 @@ Self-learning is the ability for your AI agent to learn from your human agent co
 It happens automatically behind the scenes, without you having to lift a finger.
 
 You can access self-learning by going to your Dashboard, clicking on "Improve," and then "Self-Learning."
+
+#### What impact does self-learning have?
+
+We have been monitoring the impact of self-learning since its launch and in accounts where it is enabled we have seen:
+
+* A 40-60% drop in questions that couldn't previous be answered from help center articles
+* 5% increase in AI resolution rate.
+
+Obviously, the biggest benefits will be achieved immediately, with smaller benefits over time but this is one of the biggest improvements you can make for no effort!
 
 #### How does self-learning work?
 
@@ -46,7 +55,7 @@ To see the self-learning knowledge go to your dashboard, then click on "Improve"
 
 Click into one of these articles and a side panel will open up where you should see the AI-generated content.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### How do I know what has been updated in self-learning each week?
 
@@ -57,7 +66,7 @@ You'll know what has changed because:
 1. You'll get an email letting your know which articles have been updated
 2. When you go into the self-learning section of your Dashboard (**Improve > Self-learning**), and click into an article you’ll see the additions and deletions in green and red.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Can I edit the self-learning?
 
@@ -75,7 +84,7 @@ Edits are made in Markdown.
 
 #### How do I change the tone of voice of the AI articles being generated?
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 To change the tone of voice used by the AI when generating AI articles in self-learning:
 
@@ -87,7 +96,7 @@ To change the tone of voice used by the AI when generating AI articles in self-l
 
 #### Can I turn off self-learning?
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Self-learning is on by default for all new accounts.&#x20;
 

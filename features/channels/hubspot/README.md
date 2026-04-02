@@ -78,6 +78,12 @@ There are 2 ways you can use your AI support agent within HubSpot:
     <figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
 5. That's it! Your Hubspot live chat will now automatically respond to user queries using your AI agent's knowledge.
 
+{% hint style="info" %}
+When direct replies is on, the AI agent will assign the conversation to itself (using the HubSpot account that connected My AskAI within HubSpot).\
+\
+This means your support team can focus on “Unassigned” conversations or tickets in their existing views and not see conversations that are currently being handled by the AI agent.
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (393).png" alt="" width="434"><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (111).png" alt="" width="375"><figcaption></figcaption></figure>
@@ -89,8 +95,20 @@ You can set the AI agent to automatically create AI note responses for your agen
 <figure><img src="../../../.gitbook/assets/image (533).png" alt="" width="375"><figcaption></figcaption></figure>
 
 1. [Connect your AI support agent to Hubspot](./#how-to-connect-your-ai-chatbot-to-hubspot)
-2. Toggle note replies "on" by going to your Dashboard then _Channels > Add to heldpesk > Hubspot_ clicking the "Draft 'note' replies" toggle.
+2. Toggle note replies "on" by going to your Dashboard then _Helpdesk & Channels > Add to helpdesk > Hubspot_ clicking the "Draft 'note' replies" toggle.
 3. That's it, now when someone talks with your HubSpot you will see the AI response appear as a note you can use to help with your reply.
+
+### Can I have separate reply modes, i.e. note replies for email and direct replies for chat in HubSpot?
+
+Yes, you can separate your reply modes in HubSpot.
+
+For both chat (and all social channels) and email you can select whether you want to use [Direct replies](./#how-to-set-up-and-activate-the-fully-automated-ai-support-agent) or [Note replies](./#how-to-enable-draft-ai-support-replies-for-agent-within-hubspot).
+
+To change either setting go to **Dashboard > Helpdesk & Channels > HubSpot** and go to Type of Replies.
+
+By default when you connect My AskAI, both will be set to note replies.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### How can I stop draft notes from being generated for a conversation in HubSpot?
 
@@ -108,6 +126,10 @@ You can create this as a Snippet in HubSpot
 
 ### How does human escalation work when using the HubSpot integration?
 
+{% hint style="info" %}
+To see how the human handover in HubSpot works, check out this demo: [https://app.supademo.com/demo/cml10f7l00008120iyu61oog5?utm\_source=link](https://app.supademo.com/demo/cml10f7l00008120iyu61oog5?utm_source=link)
+{% endhint %}
+
 If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect).
 
 Once the conversation is passed over to the human, the AI will not respond again until the agent hands back control to the AI or the ticket is closed.
@@ -120,7 +142,9 @@ In the HubSpot inbox you will be shown this note at the point of escalation, say
 
 <figure><img src="../../../.gitbook/assets/image (534).png" alt="" width="563"><figcaption></figcaption></figure>
 
-### How to collect email on handover/escalation in HubSpot
+You will also see that the AI agent 'Unassigns' itself from the conversation.
+
+### How do I collect email on handover/escalation in HubSpot?
 
 When a HubSpot conversation has been handed over or escalated to an agent, you will likely want to collect the email address of the user or customer if they were a visitor.
 
@@ -148,13 +172,13 @@ The AI will then stop responding.
 This phrase must exactly match the pre-defined button you are going to use in your chatflow message.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. After creating the trigger phrase/button in your HubSpot chatflow, add a final “Send to team member” (assign to no one) step to your chatflow. Name it and add a message such as “What is your question?” (can be anything to prompt the user to write their question).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="540"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 5. "Disable open responses" in your initial welcome message chatflow.
 6. Your AI assistant will now only begin responding after the AI chat button has been pressed.
@@ -178,6 +202,27 @@ But if you want it to reply to only certain email addresses e.g. support@company
 For chat conversations you will set up a chatflow with filtering to ensure it only replies to certain brands.
 
 This will ensure it only replies to these accounts.
+
+### How can I have the agent auto-close tickets after a period of time in HubSpot?
+
+{% hint style="danger" %}
+By default HubSpot does not allow a customer to reply to a closed ticket, so you may want to consider setting a higher auto close timer to allow users to come back and reply after some delay.
+{% endhint %}
+
+To set the AI agent to auto-close tickets in HubSpot:
+
+1. Go to your Dashboard > Helpdesk & Channels > HubSpot and scroll to "Auto-close inactive conversations".
+2. Toggle the setting on then set your time period for closing the chat or email.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+3. The auto close timer will run after each reply by the AI agent, so if it’s set to 10 minutes, then if the customer hasn’t replied for 10 mins after the last AI agent reply, then the ticket is closed
+
+{% hint style="info" %}
+We would only suggest using the auto close timer when you have direct replies enabled, and not to use for note replies.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Will the AI agent reply to messages in other HubSpot channels e.g. Facebook, WhatsApp or via email?
 

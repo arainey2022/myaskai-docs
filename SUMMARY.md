@@ -68,6 +68,7 @@
   * [☑️ Test](features/improve/test.md)
   * [📊 Content Usage](features/improve/content-usage.md)
   * [🔍 Inspect & Logs](features/improve/inspect-and-logs.md)
+* [📸 Image reading](features/image-reading.md)
 * [👯 Multibrand](features/multibrand.md)
 * [🔓 Private (Internal) mode](features/private-internal-mode.md)
 * [📂 File uploads](features/file-uploads.md)
@@ -137,6 +138,7 @@
 ## FAQ
 
 * [🪖 General](faq/general/README.md)
+  * [🧔 How do I make the AI agent more "human"?](faq/general/how-do-i-make-the-ai-agent-more-human.md)
   * [🧪 How can I test my AI agent without it responding to customers?](faq/general/how-can-i-test-my-ai-agent-without-it-responding-to-customers.md)
   * [📱 Can I use the AI agent within a mobile app?](faq/general/can-i-use-the-ai-agent-within-a-mobile-app.md)
   * [🥫 Can I add macros, canned or stock responses to my AI agent?](faq/general/can-i-add-macros-canned-or-stock-responses-to-my-ai-agent.md)
