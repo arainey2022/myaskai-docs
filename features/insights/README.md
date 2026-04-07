@@ -123,7 +123,7 @@ Note, that this data is for the last period from the date you have selected, you
 
 ### Export Insights, Conversation History and Questions (Logs)
 
-To export conversational Insights, Conversation History or Question data to Excel or Google Sheets, you can click the export button in the top right of the Dashboard.
+To export conversational Insights, Conversation History or Question data to Excel or Google Sheets, you can click the export button by going to **Insights > Explorer** and then clicking the Export button at the top right.
 
 {% hint style="info" %}
 For best results, import the Exported data to Google Sheets, as Excel has a tendency to not be able to parse/read special characters.
