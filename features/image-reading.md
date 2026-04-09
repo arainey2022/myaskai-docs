@@ -17,7 +17,7 @@ It will process the image, and use it as context when answering the user or cust
 
 Image reading is currently available for the following helpdesks and channels:
 
-<table><thead><tr><th width="226.58984375">Helpdesk/channel</th><th width="203.30078125">Available?</th></tr></thead><tbody><tr><td>Intercom chat</td><td>Yes</td></tr><tr><td>Intercom email</td><td>Yes</td></tr><tr><td>Zendesk Messaging</td><td>Yes</td></tr><tr><td>Zendesk Tickets/Forms</td><td>Yes</td></tr><tr><td>Freshdesk</td><td>Coming soon</td></tr><tr><td>Freshchat</td><td>Coming soon</td></tr><tr><td>Gorgias chat</td><td>Coming soon</td></tr><tr><td>Gorgias email</td><td>Coming soon</td></tr><tr><td>HubSpot chat</td><td>Coming soon</td></tr><tr><td>HubSpot email</td><td>Coming soon</td></tr><tr><td>Slack</td><td>No</td></tr><tr><td>Teams</td><td>No</td></tr><tr><td>API</td><td>No</td></tr></tbody></table>
+<table><thead><tr><th width="226.58984375">Helpdesk/channel</th><th width="203.30078125">Available?</th></tr></thead><tbody><tr><td>Intercom chat</td><td>Yes</td></tr><tr><td>Intercom email</td><td>Yes</td></tr><tr><td>Zendesk Messaging</td><td>Yes</td></tr><tr><td>Zendesk Tickets/Forms</td><td>Yes</td></tr><tr><td>Freshdesk</td><td>Yes</td></tr><tr><td>Freshchat</td><td>Coming soon</td></tr><tr><td>Gorgias chat</td><td>Coming soon</td></tr><tr><td>Gorgias email</td><td>Coming soon</td></tr><tr><td>HubSpot chat</td><td>Coming soon</td></tr><tr><td>HubSpot email</td><td>Coming soon</td></tr><tr><td>Slack</td><td>No</td></tr><tr><td>Teams</td><td>No</td></tr><tr><td>API</td><td>No</td></tr></tbody></table>
 
 ### How much does image reading cost?
 
