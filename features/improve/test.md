@@ -17,12 +17,11 @@ Historic tickets for batch testing are only imported at onboarding, you can't im
 
 ### How do I add test questions to my AI agent to evaluate its performance?
 
-There are 2 ways you can add test questions to your AI agent to evaluate its performance:
+There are 3 ways you can add test questions to your AI agent to evaluate its performance:
 
-1. If you have your [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/) connected then when you are on the batch Test page you will see an option to "Create from previous Intercom/Zendesk conversations". \
-   \
-   Clicking this button will import a sample of up to 50 historic conversations or tickets to use as your test question set.
+1. If you have connected your helpdesk then tickets will be automatically imported to your Test view.
 2. You can manually add test questions by typing your test question in the text entry field and then clicking the "+ Test Question" button.&#x20;
+3. You can upload a simple 1-column CSV of questions [using our template](https://docs.google.com/spreadsheets/d/1FalSNGSxU8h2ltEU1xEkc66oTLyUFq5GX-v4M1jgQjo/edit?gid=0#gid=0) by clicking the "Upload" button.
 
 Once you have added your test question set you will then be able to click into each question and see how your AI agent would have responded.
 

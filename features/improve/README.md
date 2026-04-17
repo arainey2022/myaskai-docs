@@ -24,7 +24,7 @@ To find out what it can't answer you can use our Improve feature:
 
 Improve is our answer improvement studio that will show you:
 
-* All the questions that your AI was unable to answer and resulted in a handover to a person, we call these your '[Knowledge Gaps](knowledge-gaps.md)'
 * A way to batch '[Test](test.md)' your AI agent with a set of questions.
+* Your [Self-learning](../self-learning.md) articles that have been automatically generated for knowledge gaps from human agent replies.
 * How you can control the tone and behavior of your AI agent in different scenarios using '[Guidance](guidance.md)'&#x20;
 * A way to '[Inspect](inspect-and-logs.md)' your AI agent's conversation history and logs, so you can understand why the AI agent answered the way it did and what knowledge sources it used.

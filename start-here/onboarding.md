@@ -65,6 +65,7 @@ Here's what a typical first 30 days (and beyond) looks like for a new customer:
 
 #### Day 8-14 (15 mins/day)
 
+* Start to see the [Self-learning](../features/self-learning.md) articles that are being generated for you
 * Turn on direct replies to customers or users
 * Customize any setup or rules in helpdesk platform to fit your business e.g. handover assignments, tagging triage etc
 
@@ -85,7 +86,7 @@ Here's what a typical first 30 days (and beyond) looks like for a new customer:
 #### Months 2-3 (15-45 mins/day, 1-3hrs one-off for APIs)
 
 * Daily/weekly QA review of a sample of AI agent replies
-  * Review and approve knowledge gap suggestions
+  * Review and approve [Self-learning](../features/self-learning.md) updates
   * Tweak guidance
   * Look for low AI resolution or CSAT topics
 * Create and connect APIs to provide dynamic, personalized data to AI agent via [User Data API](../features/user-data-api/)

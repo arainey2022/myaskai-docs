@@ -132,7 +132,11 @@ To see how the human handover in HubSpot works, check out this demo: [https://ap
 
 If, at any time, the user wishes to be passed over to a person to continue the conversation, all they need to do is say so, saying "Talk to a person" (or similar words to that effect).
 
-Once the conversation is passed over to the human, the AI will not respond again until the agent hands back control to the AI or the ticket is closed.
+Once the conversation is passed over to the human, the AI will not respond again.
+
+{% hint style="warning" %}
+Once escalated/handed over in HubSpot the conversation/ticket cannot be passed by to the AI agent.
+{% endhint %}
 
 When the AI agent cannot answer a question, it will also prompt the user to type "Talk to a person" to make it obvious they can speak to a person.
 
@@ -152,7 +156,11 @@ To do this, [follow our guide on escalation data collection here](../../escalati
 
 ### How can I take control from the AI support agent in HubSpot?
 
-You can give control or take back control from the AI at any time, here's how:
+{% hint style="warning" %}
+Conversations/tickets cannot be passed back to the AI agent in HubSpot once they have been taken over/escalated/handed over.
+{% endhint %}
+
+You can take back control from the AI at any time, here's how:
 
 #### To take control of a conversation
 

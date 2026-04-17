@@ -147,9 +147,15 @@ Just go to **Channels > Add to helpdesk > Gorgias** and toggle the "Hide the "ju
 
 ### Can the AI agent respond to social media messages or comments (Instagram, Facebook/Meta Messenger) in Gorgias?
 
-Yes, you can set your AI agent to respond to your social media accounts too.
+Yes, to enable social replies in Gorgias go to Helpdesk & Channels > Gorgias and scroll to the Chat setting section.
 
-Get in touch with us via chat and ask to "Talk to a person" and we'll help you set this up.
+Then toggle on "Reply to social channels"
+
+![](<../../.gitbook/assets/image (552).png>)&#x20;
+
+{% hint style="warning" %}
+Note - story replies are still blocked when this is on.
+{% endhint %}
 
 ### How do I remove my Gorgias AI agent?
 

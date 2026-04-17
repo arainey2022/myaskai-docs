@@ -64,7 +64,8 @@ Each week your AI agent will automatically make updates to your self-learning ar
 You'll know what has changed because:
 
 1. You'll get an email letting your know which articles have been updated
-2. When you go into the self-learning section of your Dashboard (**Improve > Self-learning**), and click into an article you’ll see the additions and deletions in green and red.
+2. The articles with changes made to them with have a green dot next to their title.
+3. When you go into the self-learning section of your Dashboard (**Improve > Self-learning**), and click into an article you’ll see the additions and deletions in green and red.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
