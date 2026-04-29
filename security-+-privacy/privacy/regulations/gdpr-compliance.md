@@ -82,6 +82,8 @@ Note that the Processing Activities marked (\*) are not core, necessary, or requ
 
 In all cases, we only store your Personal Information for as long as is necessary to provide you with the My AskAI service that you sign up for or are subscribed to.&#x20;
 
+Conversation/chat logs are retained for 30 days.
+
 When these purposes are fulfilled or you ask us to, we will archive, erase, or anonymize your information, as per your request.
 
 We may retain your Personal Information for a longer period than usual in the event of a complaint or if we reasonably believe there is a prospect of litigation with respect to our relationship with you.

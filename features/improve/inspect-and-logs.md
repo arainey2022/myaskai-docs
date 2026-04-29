@@ -39,6 +39,12 @@ When a conversation is handed over to a human agent a note will be generated giv
 * Connecting your internal systems for [live customer data](../../api-documentation/user-data-api.md)
 * Drafting AI replies with our [copilot extension](../channels/chrome-extension.md)
 
+### How can I filter my logs to only see tickets/conversations that were escalated?
+
+You can filter your logs/ticket history to only show tickets/conversations that were handed over or escalated by going to **Inspect & Logs** in your Dashboard and then clicking the Advanced button and toggling the 'Escalated to human' switch on.
+
+<figure><img src="../../.gitbook/assets/image (553).png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### How do I turn off the "Admin notes" that I see on each handover?
 
 You can turn off the "Admin notes" by going to **Account Settings > Other settings > Disable admin note tips.**
