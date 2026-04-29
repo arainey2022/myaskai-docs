@@ -85,3 +85,9 @@ There are 2 ways users can check details of their Shopify orders:
 2. The other way users can get details of their Shopify orders is through any of our [integration channels](channels/).\
    \
    In these, if a user contacts you asking for any order updates or details, your AI agent will automatically be able to retrieve such details and provide answers on them (as their email address has been verified).
+
+### How does the Shopify order status check work?
+
+The Shopify order status check works by using a [Task](tasks/) and [Tool](ai-actions-tools.md) that is automatically created for you on account set up.
+
+If a user asks about an order status, the task will collect their order ID and email address and then return their order information automatically.
