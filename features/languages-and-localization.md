@@ -6,6 +6,8 @@ description: >-
 
 # 🌍 Languages and Localization
 
+{% embed url="https://youtu.be/izO_PuEMrYw" %}
+
 ### How do I change the language and localize my AI agent?
 
 To change the language and localize your AI agent:

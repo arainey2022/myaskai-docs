@@ -7,6 +7,8 @@ description: >-
 
 # ☁️ Connections
 
+{% embed url="https://youtu.be/SUWLTk3jnoM" %}
+
 To add more knowledge (in addition to adding [website content](../adding-and-syncing-your-website-content.md) and [files](../file-uploads.md)) to your AI support agent you can connect your cloud-based knowledge sources.
 
 {% hint style="info" %}
@@ -20,10 +22,6 @@ When in Public mode, your AI support agent will not answer questions that requir
 {% hint style="info" %}
 If files or pages connected are marked "Public" in your My AskAI, no links to internal content will be shared as references when displayed publicly (i.e. as a widget on your site), only when used privately.
 {% endhint %}
-
-### How to Add Knowledge to Your AI Support Agent
-
-{% embed url="https://www.youtube.com/watch?v=HdqX28CMJ-g" %}
 
 ### Which knowledge sources do you have connections or integrations with?
 

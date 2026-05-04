@@ -7,6 +7,8 @@ description: >-
 
 # 📸 Image reading
 
+{% embed url="https://youtu.be/YL1zZrX0-gI" %}
+
 ### Can the AI agent see images?
 
 Yes, our AI customer service agents can see images that are shared either in chats, email bodies or as attachments to emails.

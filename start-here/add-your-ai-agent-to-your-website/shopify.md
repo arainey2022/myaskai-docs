@@ -11,6 +11,8 @@ description: >-
 You will need a paid Shopify account in order to add your chatbot to your site
 {% endhint %}
 
+{% embed url="https://youtu.be/Q3JcYgRCtrs" %}
+
 ### How to Add Your AI Agent to Your Shopify Store
 
 {% embed url="https://youtu.be/mKRNX45vXrE" %}

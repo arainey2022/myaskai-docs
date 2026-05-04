@@ -7,6 +7,8 @@ description: >-
 
 # ☑️ Test
 
+{% embed url="https://youtu.be/dqAItfws6vg" %}
+
 Our batch Test feature takes a sample of your historic support tickets and previous questions asked (if you have integrated [Zendesk](../channels/zendesk/) or [Intercom](../channels/intercom/)) and/or lets you add in your own test question set and shows you how your AI agent will respond to those questions, so you can see quickly how it will perform on day 1.
 
 You can find the batch testing feature in your Dashboard under **Improve > Test**.

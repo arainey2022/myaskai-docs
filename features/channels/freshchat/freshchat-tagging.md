@@ -6,6 +6,8 @@ description: >-
 
 # Freshchat (Tagging)
 
+{% include "../../../.gitbook/includes/tagging-video.md" %}
+
 It can take hours of repetitive work to tag and categorize your support tickets and conversations each month.
 
 But now your AI agent can automatically do this classification and categorization for you, directly in Freshchat, accurately and consistently, so you can focus on understanding what your customers are asking and how they are feeling.

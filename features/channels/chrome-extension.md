@@ -6,6 +6,8 @@ description: >-
 
 # Chrome Extension
 
+{% embed url="https://youtu.be/TxWxmIytRiQ" %}
+
 ### What are the benefits of the Chrome Extension?
 
 There are several reasons you might want to use our AI Copilot Chrome Extension:

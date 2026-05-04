@@ -7,13 +7,13 @@ description: >-
 
 # 💡 Insights
 
+{% embed url="https://youtu.be/lJGWYtXy2j4" %}
+
 What good is having hundreds or thousands of customer or user conversations if you can't quickly see what they are saying?
 
 We wanted to make it easy to get deep insights into what your users are asking your AI agent, without you having to read through all the transcripts, manually tag things and generally do a lot of "busy work".
 
 ### How to Use Your AI Support Agent's Insights
-
-{% embed url="https://youtu.be/SjMDPjvvSrw?si=nMWCuAFtaMHZTFgt" %}
 
 Here's how our Insights work:
 

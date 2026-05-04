@@ -7,6 +7,8 @@ description: >-
 
 # 👯 Multibrand
 
+{% embed url="https://youtu.be/vdJA1PR_YEE" %}
+
 ### Can I have multiple AI agents? <a href="#can-i-have-multiple-ai-agents" id="can-i-have-multiple-ai-agents"></a>
 
 Yes, you can have multiple agents.

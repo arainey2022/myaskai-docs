@@ -6,6 +6,8 @@ description: >-
 
 # 🎯 Guidance
 
+{% embed url="https://youtu.be/DZKtchoWgnA" %}
+
 ### What is guidance?
 
 Guidance is a way to provide instructions and control your AI agent's responses and behavior so that it can more closely align with your brand's communication style, support policies and business processes.

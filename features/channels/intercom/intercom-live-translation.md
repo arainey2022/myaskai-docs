@@ -6,6 +6,8 @@ description: >-
 
 # Intercom (Live Translation)
 
+{% embed url="https://youtu.be/8e6DVbgrqmk" %}
+
 <figure><img src="../../../.gitbook/assets/image (495).png" alt="" width="539"><figcaption></figcaption></figure>
 
 Having your AI agent be [multilingual in 95 languages](../../languages-and-localization.md) is great, but what about if you want to understand what the user/customer and the AI agent are talking about? And how are you meant to respond when the conversation is handed over to you (without a lot of back-and-forth with Google Translate?).

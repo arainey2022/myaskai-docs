@@ -7,7 +7,7 @@ description: >-
 
 # 👷 Tasks
 
-{% embed url="https://youtu.be/yJPErtsa1kg" %}
+{% embed url="https://youtu.be/4o7ebwPrp8w" %}
 
 ### What are tasks?
 

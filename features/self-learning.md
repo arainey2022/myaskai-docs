@@ -4,7 +4,7 @@ description: Your AI agent is constantly improving, learning from your human age
 
 # 🧑‍🏫 Self-learning
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/RT_6jQ_Iwpo" %}
 
 #### What is self-learning?
 
@@ -13,6 +13,8 @@ Self-learning is the ability for your AI agent to learn from your human agent co
 It happens automatically behind the scenes, without you having to lift a finger.
 
 You can access self-learning by going to your Dashboard, clicking on "Improve," and then "Self-Learning."
+
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### What impact does self-learning have?
 

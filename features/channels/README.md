@@ -7,6 +7,8 @@ description: >-
 
 # 🔌 Channels
 
+{% embed url="https://youtu.be/kF3g9AJbdX0" %}
+
 Try out My AskAI in your channels:
 
 {% content-ref url="zendesk/zendesk-tickets.md" %}

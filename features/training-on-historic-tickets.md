@@ -6,6 +6,8 @@ description: >-
 
 # 🎫 Training on historic tickets
 
+{% embed url="https://youtu.be/FMbF-mcbY-c" %}
+
 There are lots of reasons you may want to train on your past/historic tickets:
 
 * You have been too busy to keep your docs up-to-date
