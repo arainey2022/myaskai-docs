@@ -50,6 +50,8 @@ If a conversation isn't replied to because it was blocked (and you have [created
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or automations within Freshchat for where certain tickets should be routed depending on the "reason for contact".
 
+{% include "../../../.gitbook/includes/tag-blocking.md" %}
+
 ### What reporting do I have for my tags and sentiment?
 
 You can use Freshchat's reporting to interrogate and report on your tags and sentiment scores to see which and how they are changing over time.&#x20;

@@ -63,6 +63,8 @@ If a ticket isn't replied to because it was blocked the tag `ai-agent-tag-blocke
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or triggers within Zendesk for where certain tickets should be routed depending on the "reason for contact".
 
+{% include "../../../.gitbook/includes/tag-blocking.md" %}
+
 {% hint style="info" %}
 You can keep receiving AI note replies, even for blocked AI replies, if you want to see how your AI agent would have responded to the ticket.
 {% endhint %}

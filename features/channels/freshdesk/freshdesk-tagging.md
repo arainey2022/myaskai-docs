@@ -50,6 +50,8 @@ If a ticket isn't replied to because it was blocked the tag `ai-agent-tag-blocke
 
 Alternatively, you could set up a triage flow for your AI agent, using rules or automations within Freshdesk for where certain tickets should be routed depending on the "reason for contact".
 
+{% include "../../../.gitbook/includes/tag-blocking.md" %}
+
 ### What reporting do I have for my tags and sentiment?
 
 You can use Freshdesk's reporting to interrogate and report on your tags and sentiment scores to see which and how they are changing over time.&#x20;

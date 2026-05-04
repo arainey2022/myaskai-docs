@@ -64,6 +64,8 @@ If a conversation isn't replied to because it was blocked the tag `ai-agent-tag-
 
 Alternatively, you could set up a triage workflow for your AI agent, using rules or triggers within Intercom for where certain conversations should be routed depending on the "reason for contact".
 
+{% include "../../../.gitbook/includes/tag-blocking.md" %}
+
 ### Why aren't my attributes being applied to conversations?
 
 If your attributes aren't being applied to pre-existing fields it may be because your fields don't match.

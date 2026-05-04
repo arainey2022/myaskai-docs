@@ -1,0 +1,7 @@
+---
+title: Tag blocking
+---
+
+{% hint style="info" %}
+When using tags to block certain topics, you need at least 1 tag marked as Block and 1 tag marked to allow AI replies.
+{% endhint %}

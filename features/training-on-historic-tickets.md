@@ -43,7 +43,9 @@ If you select "Yes" then the training will begin as soon as you connect your hel
 
 From connection, you can expect to see self-learning articles generated within 6 hours.
 
-If you didn't select to train on historic tickets when you onboarding, contact us via chat and we will trigger the historic ticket training for you.
+If you didn't select to train on historic tickets when you onboarding, you can start historic ticket training up to 1 week after signing up by going to Knowledge and toggling on 'Train on historic tickets'.
+
+If you signed up more than a week ago, contact us via chat and we will trigger the historic ticket training for you.
 
 #### How many help articles will be generated?
 
