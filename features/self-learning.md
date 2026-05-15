@@ -105,6 +105,10 @@ Self-learning is on by default for all new accounts.&#x20;
 
 Articles are automatically published however you can choose to turn this publishing off by either going to Settings within the **Dashboard > Improve > Self-learning** and turning off or unpublishing the articles in their entirety, or you can unpublish individual articles one at a time by toggling the "published/unpublished" switch for each article.
 
+#### Can I delete a self-learning article?
+
+Yes, you can delete a self-learning article, just find the article, open it and click the trash can icon.
+
 #### How often will it update its self-learning?
 
 Self-learning articles are updated on a weekly basis using all of the updated human replies from the previous week.
