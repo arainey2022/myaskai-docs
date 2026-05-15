@@ -179,7 +179,7 @@ While guidance can be written in any language, it will perform best when written
 
 When writing guidance there are a number of things you need to consider ([see here](guidance.md#how-do-i-write-the-best-guidance)).&#x20;
 
-However, to make this easy for you we have added in an "Optimize" button which you can click to rewrite your guidance in an optimal way that will be most effective for the AI agent.&#x20;
+However, to make this easy for you we have added in an "Ask Echo" button which you can click to use our Echo agent to re-write your guidance in an optimal way that will be most effective for the AI agent.&#x20;
 
 We highly recommend you use this feature to get the best results from your AI agent!&#x20;
 

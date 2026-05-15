@@ -1,0 +1,34 @@
+---
+description: >-
+  We wanted to make it as easy as chatting to set up and control your AI agent,
+  so we built Echo.
+---
+
+# 🤖 Echo agent
+
+### What is Echo agent?
+
+Echo is a powerful new way to interact with the My AskAI platform and features.
+
+Echo is an AI agent built into the My AskAI dashboard that you can use to help you get the most out of My AskAI and your AI customer service agent.
+
+Instead of knowing where to go and how to use our features and dashboard, you can now just ask questions and it will not only tell you how to do things, but it can do them for you.
+
+It's got all the context of our help docs, but also has all the context and understanding of your account.
+
+### What can I use Echo agent for?
+
+Right now you can use Echo to:
+
+* Ask any question about the My AskAI platform e.g. how do I x?
+* Write, edit, review, improve and merge your guidance&#x20;
+* Investigate and inspect conversations to understand your answers, and how to fix them
+
+We're continuing to add to its capabilities week after week so you can always ask and test it out if you are unsure!
+
+### How do I use Echo?
+
+You'll find a lot of "Ask Echo" buttons throughout the product, click any of them and the Echo agent side-panel will appear.
+
+You can also always access Echo from the menu, just above Account Settings.
+

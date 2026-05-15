@@ -14,15 +14,15 @@ From the conversation/ticket history you can see:
 * The interpretation of the question as the AI understood it
 * A button to "Inspect answer"
 
-Clicking the "Inspect answer" button will let you ask questions to understand why the AI answered in the way that it did, for example:
+Clicking the "Ask Echo" button will let you ask questions to understand why the AI answered in the way that it did, for example:
 
 * "Why did it say x?"
 * "Why did it handover the ticket?"
 * "Where did it find x information?"
 
-After you have typed your question, clicking "Ask question" will then show you the explanation for the answer, including any sources, user data or guidance that the AI agent used to answer.
+After you have typed your question, it will then show you the explanation for the answer, including any sources, user data or guidance that the AI agent used to answer.
 
-If this wasn't a satisfactory answer for you, you will also be shown options to "Fix" the answer by either:
+If this wasn't a satisfactory answer for you, you can fix the answer by either:
 
 * Creating a [Custom Answer](inspect-and-logs.md#custom-answers)
 * Adding [Guidance](guidance.md)

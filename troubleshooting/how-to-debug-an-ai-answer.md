@@ -31,11 +31,11 @@ To understand why your AI agent answered in the way that it did, you can use our
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="470"><figcaption></figcaption></figure>
 
 2. Click the ticket and the Inspect side panel will open for that ticket or conversation.
-3. Click on "Inspect answer" and ask your question.
-4. The AI inspector will then explain why the answer was given in the way that it was, and will share details of:\
+3. Click on "Ask Echo" and ask your question.
+4. Echo will then explain why the answer was given in the way that it was, and can share details of:\
    \
    \- A summary of the answer.\
    \- Any supporting quotes or knowledge sources used for that answer (e.g. custom answers, help center articles, webpages etc).\
    \- Any guidance that was applied to that answer.\
-   \- Any user data, tool or task that was used to create the answer.
+   \- Any user data, tool or task that was used to create the answer.<br>
 5. If, after inspecting the answer you still don't understand the response or think it may be incorrect, you cam get in touch with us via our chat widget and ask to "Talk to a person".&#x20;
