@@ -6,6 +6,8 @@ description: >-
 
 # 🤖 Echo agent
 
+{% embed url="https://youtu.be/fHWKoGNiF0Q" %}
+
 ### What is Echo agent?
 
 Echo is a powerful new way to interact with the My AskAI platform and features.
