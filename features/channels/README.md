@@ -7,7 +7,7 @@ description: >-
 
 # 🔌 Channels
 
-{% embed url="https://youtu.be/kF3g9AJbdX0" %}
+{% embed url="https://youtu.be/8VzJbzGhDtE" %}
 
 Try out My AskAI in your channels:
 
