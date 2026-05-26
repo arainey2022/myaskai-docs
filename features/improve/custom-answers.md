@@ -8,10 +8,6 @@ You can use them to amend responses or enable your AI support agent to answer th
 Available on all paid plans.
 {% endhint %}
 
-### How to Improve Your AI Agent Answers
-
-{% embed url="https://youtu.be/SjMDPjvvSrw?si=nMWCuAFtaMHZTFgt" %}
-
 ### What are custom answers?
 
 Custom answers can be used to adjust or "correct" an AI answer.&#x20;
