@@ -7,7 +7,9 @@ description: >-
 
 # ☁️ Connections
 
-{% embed url="https://youtu.be/SUWLTk3jnoM" %}
+{% embed url="https://www.youtube.com/watch?v=SUWLTk3jnoM" %}
+
+{% include "../../.gitbook/includes/echo.md" %}
 
 To add more knowledge (in addition to adding [website content](../adding-and-syncing-your-website-content.md) and [files](../file-uploads.md)) to your AI support agent you can connect your cloud-based knowledge sources.
 

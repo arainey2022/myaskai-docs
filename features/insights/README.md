@@ -7,7 +7,9 @@ description: >-
 
 # 💡 Insights
 
-{% embed url="https://youtu.be/lJGWYtXy2j4" %}
+{% embed url="https://youtu.be/lJGWYtXy2j4?si=t5SI1rgbIrqbLRnY" %}
+
+{% include "../../.gitbook/includes/echo.md" %}
 
 What good is having hundreds or thousands of customer or user conversations if you can't quickly see what they are saying?
 

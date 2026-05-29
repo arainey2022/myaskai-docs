@@ -7,6 +7,8 @@ description: >-
 
 # 📈 Improve
 
+{% include "../../.gitbook/includes/echo.md" %}
+
 ## Improving your AI agent's answers
 
 Your AI agent will only be able to answer questions based on the knowledge you have provided to it, if it doesn't have the knowledge it can't answer.

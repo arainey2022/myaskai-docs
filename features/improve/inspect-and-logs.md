@@ -1,5 +1,7 @@
 # 🔍 Inspect & Logs
 
+{% include "../../.gitbook/includes/echo.md" %}
+
 ### How can I review previous conversations/tickets and understand why the AI agent answered how it did?
 
 One of our most powerful features of our 'Improve' studio is the **Inspect & Logs** view.

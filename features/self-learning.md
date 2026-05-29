@@ -4,7 +4,9 @@ description: Your AI agent is constantly improving, learning from your human age
 
 # 🧑‍🏫 Self-learning
 
-{% embed url="https://youtu.be/RT_6jQ_Iwpo" %}
+{% embed url="https://www.youtube.com/watch?v=RT_6jQ_Iwpo" %}
+
+{% include "../.gitbook/includes/echo.md" %}
 
 #### What is self-learning?
 

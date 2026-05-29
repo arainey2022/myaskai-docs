@@ -7,7 +7,7 @@ description: >-
 
 # 🤝 Human escalation
 
-{% embed url="https://youtu.be/RaW1XIrfR38" %}
+{% embed url="https://www.youtube.com/watch?v=RaW1XIrfR38" %}
 
 Some customers and questions will still need a person to answer them, here's how you can ensure your customers are answered by one with your AI support agent.
 

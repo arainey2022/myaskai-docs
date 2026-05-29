@@ -6,6 +6,8 @@ description: >-
 
 # 📧 Escalation data collection
 
+{% include "../.gitbook/includes/echo.md" %}
+
 ### What is escalation/handover data collection?
 
 Escalation/handover data collection is set up as a [Task](tasks/) and means that if and when a customer or user has their chat/conversation or ticket [escalated/handed over to a human member](human-escalation.md) of your team it will collect details from them while doing so.

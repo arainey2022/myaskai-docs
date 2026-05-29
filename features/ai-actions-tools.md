@@ -7,6 +7,8 @@ description: >-
 
 # 🛠️ AI Actions (Tools)
 
+{% include "../.gitbook/includes/echo.md" %}
+
 ### What are tools?
 
 Tools are how your AI support agent can interact with your systems and backend in a more autonomous way.

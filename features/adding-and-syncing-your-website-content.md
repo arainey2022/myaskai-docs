@@ -6,6 +6,8 @@ description: >-
 
 # 🔁 Adding & syncing your website content
 
+{% include "../.gitbook/includes/echo.md" %}
+
 Each fortnight (2 weeks) we re-scrape your webpages (looking for any new ones in the process) and add them to your AI agent to ensure the AI's content is always up to date.
 
 ### How many websites can you add?

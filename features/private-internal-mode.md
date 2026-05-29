@@ -7,6 +7,8 @@ description: >-
 
 # 🔓 Private (Internal) mode
 
+{% include "../.gitbook/includes/echo.md" %}
+
 Your AI agent in the dashboard has 2 modes depending on how you want to use it:
 
 * **Private + Public content** On: In this mode your AI agent will be able to answer questions from all available information uploaded to your AI agent as knowledge. It is also the mode used by your AI agent when using our Copilot Chrome Extension.
