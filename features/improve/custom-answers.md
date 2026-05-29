@@ -1,5 +1,7 @@
 # 📝 Custom Answers
 
+{% embed url="https://youtu.be/pGNOCcKGAec" %}
+
 Custom answers are the same as knowledge snippets and allow you to create custom answers to questions to have more control over your AI agent's response.&#x20;
 
 You can use them to amend responses or enable your AI support agent to answer things it previously couldn't.
