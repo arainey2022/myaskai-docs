@@ -20,13 +20,20 @@ It's got all the context of our help docs, but also has all the context and unde
 
 ### What can I use Echo agent for?
 
-Right now you can use Echo to:
+You can use Echo to do just about anything in your account, including (but not limited to):
 
 * Ask any question about the My AskAI platform e.g. how do I x?
 * Write, edit, review, improve and merge your guidance&#x20;
 * Investigate and inspect conversations to understand your answers, and how to fix them
+* Search, create, edit or delete custom answers
+* Search, edit, publish or unpublish self-learning articles
+* Search, create, edt tasks
+* Search tools
+* Change the privacy of webpages, connector files or uploaded files
+* Resync or delete webpages, connector files or uploaded files
+* Test your agent's answers
 
-We're continuing to add to its capabilities week after week so you can always ask and test it out if you are unsure!
+But we're continuing to add to its capabilities week after week so you can always ask and test it out if you are unsure!
 
 ### How do I use Echo?
 

@@ -20,6 +20,12 @@ We can also extend trials on a case-by-case basis, if required.
 
 We do not, and never have had lifetime subscriptions for My AskAI, there are however products with similar names which do have lifetime subscriptions so it would be worth checking if you are not trying to use one of those first.
 
+### How much will the AI agent cost me exactly?
+
+If you want a more precise estimate of your AI agent costs, upon signing up for a trial and after having connected your helpdesk, within 7 days you will see your cost estimator populate with your estimated cost per month.
+
+You can find it in **Account Settings** under **Billing**.
+
 ### What is a "Conversation" and what are "AI responses"?
 
 Because we have a number of integrations and channels that all work in different ways, we had to come up with a pricing model that works across them all.
