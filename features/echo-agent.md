@@ -27,7 +27,7 @@ You can use Echo to do just about anything in your account, including (but not l
 * Investigate and inspect conversations to understand your answers, and how to fix them
 * Search, create, edit or delete custom answers
 * Search, edit, publish or unpublish self-learning articles
-* Search, create, edt tasks
+* Search, create, edit tasks
 * Search tools
 * Change the privacy of webpages, connector files or uploaded files
 * Resync or delete webpages, connector files or uploaded files
